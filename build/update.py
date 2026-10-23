@@ -313,6 +313,11 @@ def main():
     write('stories.html', st)
     write('anki.html', patch_anki(open(os.path.join(a.base, 'anki.html'), encoding='utf-8').read(), total, bts))
     write('index.html', patch_index(open(os.path.join(a.base, 'index.html'), encoding='utf-8').read(), len(CT), total, bt, bts.get(bt, 0)))
+    # 站点后处理（幂等）：章节导航 navfix → v2 头部/配色 header → 缓存 ?v= cachefix；数字全部按新数据重算
+    import subprocess, sys as _sys
+    subprocess.run([_sys.executable, os.path.join(HERE, 'postbuild.py'), out_site], check=True)
+    for rel in ('stories.html', 'anki.html', 'index.html'):
+        shutil.copy2(os.path.join(out_site, rel), os.path.join(dep, rel))
     # report
     rep = {'time': datetime.datetime.now().isoformat(timespec='seconds'), 'batch': bt, 'master_rows': len(rows), 'base_words': len(old_ids),
            'new': len(new), 'added_with_story': len(sid_of), 'need_story': [{'#': r['#'], 'w': r['单词'], '主题': r['主题']} for r in need_story],

@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><!--thm--><script>(function(){var t;try{t=localStorage.getItem("wsv2-theme")}catch(e){}if(t!=="dark"&&t!=="light"){t=(window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)?"dark":"light"}document.documentElement.setAttribute("data-theme",t)})();</script><!--/thm--><meta name="viewport" content="width=device-width,initial-scale=1"><title>Leo in Bali · 单词故事 v2</title><style>:root{--bg:#fbf6ef;--card:#fffdf9;--ink:#2d2620;--mut:#7a6d60;--line:#eadfce;--acc:#e0703a;--acc2:#2f8f83;--hl:#fff0c9;--hlb:#f2c46b;--star:#d9480f;--fs:18px;
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><!--thm--><script>(function(){var t;try{t=localStorage.getItem("wsv2-theme")}catch(e){}if(t!=="dark"&&t!=="light"){t=(window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)?"dark":"light"}document.documentElement.setAttribute("data-theme",t)})();</script><!--/thm--><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#e7dfd3"><title>Leo in Bali · 单词故事 v2</title><style>:root{--bg:#fbf6ef;--card:#fffdf9;--ink:#2d2620;--mut:#7a6d60;--line:#eadfce;--acc:#e0703a;--acc2:#2f8f83;--hl:#fff0c9;--hlb:#f2c46b;--star:#d9480f;--fs:18px;
 --font:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",Roboto,"Helvetica Neue",Arial,sans-serif;--serif:Georgia,"Iowan Old Style","Times New Roman","Songti SC",serif}
 *{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:120px}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.7;-webkit-text-size-adjust:100%}
@@ -121,7 +121,42 @@ td.pr{white-space:nowrap}td.pr .pw+.pw{margin-left:4px}
 .pop .px{position:absolute;right:6px;top:6px;border:0;background:#fff;border-radius:50%;width:26px;height:26px;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,.15)}
 .tw.nwd{box-shadow:inset 0 -2px 0 #2f8f83}
 .nwt{background:#2f8f83;color:#fff;border-radius:4px;padding:0 4px;font-size:10px}
-/*bt-css*/.ch-bt,.nwt.bt,.ch-meta span.bt,.pop h4 .bt,.tocbt{background:#e0703a!important;color:#fff!important;border-radius:6px;padding:1px 7px;font-size:11px;font-weight:700;margin-left:8px;letter-spacing:0;text-transform:none;white-space:nowrap;display:inline-block}.ch-meta span.bt{margin-left:0}.tgh.tgbt{color:#e0703a}[data-theme=dark] .ch-bt,[data-theme=dark] .nwt.bt,[data-theme=dark] .ch-meta span.bt,[data-theme=dark] .pop h4 .bt{background:#c4523a!important;color:#fff!important}[data-theme=dark] .tgh.tgbt{color:#f6b26b}</style><!--thm--><style>html[data-theme=dark]{color-scheme:dark;--bg:#1b1714;--card:#26201b;--ink:#ece3d8;--mut:#a89a8a;--line:#3d342c;--acc:#f08a52;--acc2:#4fbfae;--hl:#3d3220;--hlb:#c9993f;--star:#ff8a4c}
+/*bt-css*/.ch-bt,.nwt.bt,.ch-meta span.bt,.pop h4 .bt,.tocbt{background:#e0703a!important;color:#fff!important;border-radius:6px;padding:1px 7px;font-size:11px;font-weight:700;margin-left:8px;letter-spacing:0;text-transform:none;white-space:nowrap;display:inline-block}.ch-meta span.bt{margin-left:0}.tgh.tgbt{color:#e0703a}[data-theme=dark] .ch-bt,[data-theme=dark] .nwt.bt,[data-theme=dark] .ch-meta span.bt,[data-theme=dark] .pop h4 .bt{background:#c4523a!important;color:#fff!important}[data-theme=dark] .tgh.tgbt{color:#f6b26b}/*navfix-css*/
+#tocscrim{display:none}
+.tocx{display:none;float:right;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;width:30px;height:28px;font-size:15px;cursor:pointer;margin:-4px 0 0}
+.tocq{display:flex;flex-wrap:wrap;gap:6px;padding:0 8px 10px}
+.tocq button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:4px 10px;font-size:12.5px;cursor:pointer}
+.tocq button.pri{background:var(--acc);border-color:var(--acc);color:var(--on-acc,#fff);font-weight:600}
+.tocq button.nb{border-color:var(--acc-t,#e0703a);color:var(--acc-t,#e0703a)}
+#chbar{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);width:min(440px,calc(100vw - 32px));z-index:44;display:flex;align-items:stretch;background:var(--card);border:1px solid var(--bd,var(--line));border-radius:999px;box-shadow:0 6px 22px rgba(60,40,20,.18);overflow:hidden;transition:opacity .2s,transform .2s}
+#chbar.hide{opacity:0;pointer-events:none}
+#chbar button{border:0;background:none;color:var(--ink);cursor:pointer;font:inherit}
+#chbar .cbp,#chbar .cbn{flex:none;width:44px;font-size:20px;color:var(--acc-t,var(--acc))}
+#chbar .cbp:disabled,#chbar .cbn:disabled{opacity:.3;cursor:default}
+#chbar .cbt{flex:1;min-width:0;padding:6px 4px;display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.2;border-left:1px solid var(--line);border-right:1px solid var(--line)}
+#chbar .cbt b{font-size:11px;color:var(--acc-t,var(--acc));letter-spacing:.5px;font-weight:700}
+#chbar .cbt span{font-size:13.5px;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#chbar.resume .cbp,#chbar.resume .cbn{display:none}#chbar.resume .cbt{background:var(--acc);color:var(--on-acc,#fff);border:0;padding:8px 14px}#chbar.resume .cbt b{color:var(--on-acc,#fff);opacity:.9}
+.chnav{display:flex;gap:10px;margin-top:22px;padding-top:16px;border-top:1px dashed var(--line)}
+.chnav a{flex:1;min-width:0;display:flex;flex-direction:column;gap:2px;text-decoration:none;color:var(--ink);border:1px solid var(--line);background:var(--bg);border-radius:12px;padding:10px 12px}
+.chnav a:hover{border-color:var(--acc)}
+.chnav a small{color:var(--acc-t,var(--acc));font-weight:700;font-size:12px}
+.chnav a span{font-size:14px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.chnav a.nx{text-align:right;align-items:flex-end}.chnav .sp{flex:1}
+.chnav .ct{flex:none;align-self:center;border:1px solid var(--line);background:var(--card);color:var(--mut);border-radius:999px;padding:6px 10px;font-size:12.5px;cursor:pointer}
+html[data-theme=dark] #chbar{box-shadow:0 6px 22px rgba(0,0,0,.5)}
+html[data-theme=dark] .chnav a{background:var(--bg)}
+@media print{#chbar,.chnav,#tocscrim{display:none!important}}
+.wrap{padding-bottom:90px}
+@media (max-width:900px){
+ .toc{align-self:auto;height:100vh;height:100dvh;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;padding-bottom:90px}
+ body.toc-open{overflow:hidden}
+ #tocscrim{display:block;position:fixed;inset:0;background:rgba(0,0,0,.35);z-index:39;opacity:0;pointer-events:none;transition:opacity .2s}
+ body.toc-open #tocscrim{opacity:1;pointer-events:auto}
+ #chbar{left:72px;right:66px;bottom:20px;transform:none;width:auto}
+ .tocx{display:inline-block}
+}
+/*/navfix-css*/</style><!--thm--><style>html[data-theme=dark]{color-scheme:dark;--bg:#1b1714;--card:#26201b;--ink:#ece3d8;--mut:#a89a8a;--line:#3d342c;--acc:#f08a52;--acc2:#4fbfae;--hl:#3d3220;--hlb:#c9993f;--star:#ff8a4c}
 html[data-theme=dark] body{background:var(--bg);color:var(--ink)}
 html[data-theme=dark] .top{background:linear-gradient(135deg,#7a4a26 0%,#8a3f22 55%,#6e2f22 100%)}
 html[data-theme=dark] .lvl{background:#2e2620;color:#ffb48a}
@@ -169,23 +204,165 @@ html[data-theme=dark] a.c p,html[data-theme=dark] .f{color:var(--mut)}
 #thm:hover{background:rgba(255,255,255,.32)}
 header.top{position:relative}
 @media print{#thm{display:none}}
-</style><!--/thm--></head>
+</style><!--/thm--><!--v2pal--><style id="v2pal">
+/* v2 柔和配色（Iris 规范 §6）。--hl/--hlb/--star 与 Anki 评分按钮本轮不改 */
+:root,html[data-theme=light]{--bg:#efe9df;--hdr:linear-gradient(180deg,#e7dfd3 0%,#ebe4d9 100%);--card:#f6f1e9;--card2:#ebe3d7;--ink:#2e2a25;--mut:#665d53;--line:#ddd3c5;--bd:#85796b;
+--acc:#9a5b3e;--on-acc:#f6f1e9;--acc-t:#8c4f33;--acc2:#437066;--track:#d9cfc1;--nwd:#5f8c82;--pill-bg:#ebe3d7;--pill-ink:#8c4f33;--new-bg:#ebe3d7;--new-ink:#8c4f33;
+--bar:rgba(239,233,223,.96);--dim:rgba(46,42,37,.40);--shadow:0 2px 8px rgba(80,60,40,.10);--seg-on:#9a5b3e;--seg-on-ink:#f6f1e9;--zh:#5c5249;--tint:#e3ebe7}
+html[data-theme=dark]{--bg:#1f1d1a;--hdr:linear-gradient(180deg,#26231f 0%,#221f1c 100%);--card:#282522;--card2:#302c28;--ink:#e8e1d6;--mut:#a59d92;--line:#3a3631;--bd:#7a7064;
+--acc:#c58a6b;--on-acc:#1f1d1a;--acc-t:#d29b7d;--acc2:#86b3a8;--track:#3d3833;--nwd:#86b3a8;--pill-bg:#302c28;--pill-ink:#d9b49c;--new-bg:#302c28;--new-ink:#ddb092;
+--bar:rgba(31,29,26,.96);--dim:rgba(0,0,0,.55);--shadow:0 2px 10px rgba(0,0,0,.25);--seg-on:#c58a6b;--seg-on-ink:#1f1d1a;--zh:#c2b9ad;--tint:#26302d}
+html[data-theme] body{background:var(--bg);color:var(--ink)}
+html[data-theme] .seg,html[data-theme] .icon,html[data-theme] select,html[data-theme] #q,html[data-theme] .qr,html[data-theme] .say,html[data-theme] .pop,html[data-theme] .pop .row button,html[data-theme] .pw,html[data-theme] #totop,html[data-theme] .pop .px,html[data-theme] input[type=number],html[data-theme] .btn,html[data-theme] .sx .px,html[data-theme] details.set,html[data-theme] kbd,html[data-theme] .quiz input{background:var(--card);color:var(--ink);border-color:var(--bd)}
+html[data-theme] .seg button+button{border-left-color:var(--bd)}
+html[data-theme] .seg button.on,html[data-theme] .seg.acc button.on,html[data-theme] .btn.pri{background:var(--seg-on);color:var(--seg-on-ink);border-color:var(--seg-on)}
+html[data-theme] .say{color:var(--acc2);border-color:var(--line)}
+html[data-theme] .sayall{background:var(--card);color:var(--acc2);border-color:var(--acc2)}
+html[data-theme] .say:hover,html[data-theme] .say.on{background:var(--acc2);color:var(--on-acc);border-color:var(--acc2)}
+html[data-theme] .qbtn button{background:var(--acc2);color:var(--on-acc)}
+html[data-theme] .qbtn .shw,html[data-theme] .qbtn .rst{background:var(--card);color:var(--acc2);border:1px solid var(--acc2)}
+html[data-theme] .pw.cur{border-color:var(--acc2);color:var(--acc2)}html[data-theme] .pw:hover{background:var(--tint)}
+html[data-theme] .qr a{border-color:var(--line)}
+html[data-theme] .tgh,html[data-theme] .pop .form,html[data-theme] .toc a b,html[data-theme] .ch-no,html[data-theme] .cast b,html[data-theme] .pop .co b,html[data-theme] .pop .sc>b,html[data-theme] .box h4,html[data-theme] .co b,html[data-theme] td.wd a{color:var(--acc-t)}
+html[data-theme] td.wd a{color:var(--ink);border-bottom-color:var(--acc-t)}
+html[data-theme] .toc{background:var(--card);border-color:var(--line)}
+html[data-theme] .toc a:hover,html[data-theme] .toc a.cur{background:var(--card2)}
+html[data-theme] .cast div,html[data-theme] .pop .nt,html[data-theme] .skipbox,html[data-theme] .box,html[data-theme] .nt{background:var(--card2);color:var(--ink)}
+html[data-theme] .ch-meta span{background:var(--card2)}html[data-theme] .ch-meta .ch-prog{background:var(--tint);color:var(--acc2)}
+html[data-theme] .intro,html[data-theme] .chap,html[data-theme] .about{background:var(--card);border-color:var(--line);box-shadow:var(--shadow)}
+html[data-theme] .para.reading{background:var(--tint);box-shadow:inset 3px 0 0 var(--acc2)}
+html[data-theme] .zh{color:var(--zh);border-left-color:var(--line)}
+html[data-theme] .tw.nwd{box-shadow:none}
+html[data-theme] .tw.nwb{box-shadow:inset 0 -2px 0 var(--nwd)}
+html[data-theme] .pop{box-shadow:0 18px 40px rgba(60,45,30,.18);border-color:var(--line)}html[data-theme=dark] .pop{box-shadow:0 18px 40px rgba(0,0,0,.55)}
+html[data-theme] .pop .co,html[data-theme] .co{color:var(--ink)}
+html[data-theme] .pop .sx,html[data-theme] .sx{background:var(--tint);border-color:var(--line)}
+html[data-theme] .wl{background:var(--bg);border-color:var(--line)}
+html[data-theme] th{background:var(--card2)}html[data-theme] td{border-color:var(--line)}
+html[data-theme] tr.done td{background:var(--tint)}html[data-theme] .g-test td.mn{background:var(--card2)}
+html[data-theme] .quiz{background:var(--tint);border-color:var(--line)}
+html[data-theme] .toast{background:var(--ink);color:var(--bg)}
+html[data-theme] .nwt,html[data-theme] .pop h4 .nw,html[data-theme] .meta .nw,html[data-theme] .lacc{background:var(--acc2);color:var(--on-acc)}
+html[data-theme] .ch-bt,html[data-theme] .nwt.bt,html[data-theme] .ch-meta span.bt,html[data-theme] .pop h4 .bt,html[data-theme] .tocbt,html[data-theme] .nw.bt{background:var(--new-bg)!important;color:var(--new-ink)!important;box-shadow:inset 0 0 0 1px var(--line)}
+html[data-theme] .tgh.tgbt{color:var(--acc-t)}
+html[data-theme] #menu{background:var(--acc);color:var(--on-acc);box-shadow:var(--shadow)}
+html[data-theme] .card,html[data-theme] a.c{background:var(--card);border-color:var(--line);box-shadow:var(--shadow)}
+html[data-theme] .meta .tag,html[data-theme] .stat div{background:var(--card2)}
+html[data-theme] .show{background:var(--ink);color:var(--bg)}
+html[data-theme] a.c p,html[data-theme] .f{color:var(--mut)}
+/* index / anki 头部：平静的表面，不再用饱和渐变 */
+html[data-theme] .top{background:var(--hdr);color:var(--ink);border-bottom:1px solid var(--line)}
+html[data-theme] .top a{color:var(--acc-t)}
+html[data-theme] .top .cnt span{background:var(--card2);color:var(--ink)}
+html[data-theme] .top .cnt .n b{color:var(--acc2)}html[data-theme] .top .cnt .l b{color:var(--acc-t)}html[data-theme] .top .cnt .r b{color:var(--ink)}
+html[data-theme] #thm{background:var(--card);color:var(--ink);border:1px solid var(--bd)}
+html[data-theme] #thm:hover{background:var(--card2)}
+@media print{html[data-theme] .top{background:none}}
+</style><!--/v2pal--><!--v2hdr-css--><style id="v2hdr-css">
+html{scroll-padding-top:80px}
+.hero{background:var(--bg)}
+.hd{background:var(--hdr);border-bottom:1px solid var(--line);padding:12px 16px 14px;color:var(--ink)}
+.hd .trow{display:flex;align-items:center;gap:8px;min-height:44px}
+.hd .trow h1{margin:0;font-family:var(--serif);font-size:24px;line-height:1.2;font-weight:700;white-space:nowrap;color:var(--ink);letter-spacing:0}
+html[data-theme] .hd .lvl{margin:0;background:var(--pill-bg);color:var(--pill-ink);font-weight:700;font-size:13px;line-height:1;border-radius:999px;padding:6px 10px;white-space:nowrap;border:1px solid var(--line);box-shadow:none}
+html[data-theme] .hd #thm{position:static;margin-left:auto;width:44px;height:44px;border-radius:50%;padding:0;display:grid;place-items:center;font-size:18px;flex:none;line-height:1}
+html[data-theme] .hd .sub{margin:2px 0 0;font-size:14px;color:var(--mut);opacity:1}
+.act{padding:16px;display:flex;flex-direction:column;gap:12px}
+.cont{display:flex;align-items:center;gap:12px;width:100%;min-height:64px;border:0;border-radius:16px;background:var(--acc);color:var(--on-acc);padding:10px 16px;text-align:left;box-shadow:var(--shadow);cursor:pointer;font:inherit}
+.cont .ic{font-size:13px;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;border:2px solid currentColor;flex:none;padding-left:2px}
+.cont .tx{flex:1;min-width:0}.cont b{display:block;font-size:17px;line-height:1.3;padding-bottom:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:600}
+.cont small{display:block;font-size:12.5px;line-height:1.3;opacity:.92}.cont .chev{font-size:22px;flex:none}
+.hero .hc{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;color:var(--ink);box-shadow:none}
+.newc{display:flex;align-items:center;gap:12px;min-height:72px;text-decoration:none}
+.newc[hidden]{display:none}
+.newc .k{font-size:13px;color:var(--mut);display:flex;align-items:center;gap:6px}
+.newc .bt{background:var(--new-bg);color:var(--new-ink);font-weight:700;font-size:12px;border-radius:6px;padding:2px 7px;box-shadow:inset 0 0 0 1px var(--line)}
+.newc .v{display:block;font-size:16px;margin-top:2px}.newc .v b{font-size:20px;color:var(--new-ink);margin-right:6px}
+.newc .go{margin-left:auto;color:var(--acc-t);font-weight:600;font-size:15px;white-space:nowrap;min-height:44px;display:flex;align-items:center}
+.prog .h{display:flex;align-items:baseline;gap:8px}.prog .h>span{font-size:13px;color:var(--mut)}
+.prog .h b{font-size:18px}.prog .h b em{font-style:normal;font-weight:500;color:var(--mut);font-size:15px}
+.prog .pct{margin-left:auto;font-weight:700;color:var(--acc2)!important;font-size:15px!important;white-space:nowrap}
+.prog .pct.tip0{font-weight:400;color:var(--mut)!important;font-size:13px!important;white-space:normal;text-align:right}
+.prog .trk{height:6px;border-radius:3px;background:var(--track);margin-top:8px;overflow:hidden}.prog .trk i{display:block;height:100%;width:0;background:var(--acc2);border-radius:3px;transition:width .3s}
+.prog .pn{font-size:12px;color:var(--mut);margin-top:6px}
+.sec{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.sec a{min-height:44px;border-radius:12px;border:1px solid var(--bd);display:flex;align-items:center;justify-content:center;color:var(--ink);text-decoration:none;font-size:15px}
+.sec a:hover{background:var(--card2)}
+.tools{display:contents}
+.tb{position:sticky;top:0;z-index:30;background:var(--bar);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:8px 16px;display:flex;gap:8px;align-items:center;-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
+html[data-theme] .tb .search{position:relative;flex:1;min-width:0;max-width:none;margin:0;order:0}
+.tb .search::before{content:"🔍";position:absolute;left:14px;top:50%;transform:translateY(-50%);font-size:15px;pointer-events:none;opacity:.8}
+html[data-theme] .tb #q{height:44px;border:1px solid var(--bd);border-radius:999px;background:var(--card);padding:0 14px 0 40px;font-size:15px}
+.gear{width:44px;height:44px;border-radius:50%;border:1px solid var(--bd);background:var(--card);color:var(--ink);font-size:19px;display:grid;place-items:center;flex:none;cursor:pointer;padding:0;line-height:1}
+.gear:hover{background:var(--card2)}
+.modes{padding:10px 16px 12px}
+html[data-theme] .modes .seg,html[data-theme] #sheet .seg{display:flex;width:100%;border:1px solid var(--bd);border-radius:12px;overflow:hidden;background:var(--card)}
+html[data-theme] .modes .seg button,html[data-theme] #sheet .seg button{flex:1;min-height:44px;font-size:15px;padding:0 6px;white-space:nowrap}
+html[data-theme] .modes .seg button.on,html[data-theme] #sheet .seg button.on{font-weight:600}
+#sdim{position:fixed;inset:0;background:var(--dim);z-index:70}
+#sheet{position:fixed;left:0;right:0;bottom:0;z-index:71;background:var(--card);color:var(--ink);border-radius:20px 20px 0 0;padding:8px 16px calc(20px + env(safe-area-inset-bottom));max-height:88vh;overflow:auto;box-shadow:0 -8px 24px rgba(0,0,0,.25);overscroll-behavior:contain}
+#sheet[hidden],#sdim[hidden]{display:none}
+#sheet .grab{width:40px;height:5px;border-radius:3px;background:var(--bd);margin:2px auto 4px}
+#sheet .shh{display:flex;align-items:center;min-height:44px}#sheet .shh h3{margin:0;font-size:18px}
+#sheet .sx{margin-left:auto;width:44px;height:44px;border:0;background:none;font-size:22px;color:var(--mut);cursor:pointer;padding:0}
+#sheet .gt{font-size:13px;font-weight:700;color:var(--acc-t);letter-spacing:.5px;margin:12px 0 6px}
+#sheet .srow{margin-bottom:12px}#sheet .slb{font-size:14px;color:var(--mut);margin-bottom:6px;display:flex;justify-content:space-between}
+#sheet .shint{font-size:12.5px;color:var(--mut);margin-top:6px}
+#sheet .step{display:flex;align-items:center;gap:10px}#sheet .step button{width:56px;height:44px;border-radius:12px;border:1px solid var(--bd);background:var(--card);color:var(--ink);font-size:16px;cursor:pointer}
+#sheet .step .val{flex:1;text-align:center;font-size:16px}
+#sheet .stopb{width:100%;min-height:44px;border-radius:12px;border:1px solid var(--bd);background:transparent;color:var(--ink);font-size:15px;cursor:pointer}
+#sheet .sgl{height:1px;background:var(--line);margin:4px 0}
+body.sheet-open{overflow:hidden}
+@media (max-width:900px){html{scroll-padding-top:72px}}
+@media (min-width:901px){
+ #sheet{left:auto;right:auto;bottom:auto;width:360px;border-radius:16px;max-height:calc(100vh - 100px);padding:8px 16px 16px;box-shadow:0 18px 40px rgba(0,0,0,.28);border:1px solid var(--line)}
+ #sheet .grab{display:none}#sdim{background:transparent}
+ .toc{top:84px;max-height:calc(100vh - 100px)}
+}
+@media (min-width:1024px){
+ .hero{display:grid;grid-template-columns:1fr 1fr 1fr;grid-template-areas:"top top cont" "new prog sec";gap:16px 20px;padding:20px max(24px,calc((100% - 1232px)/2));background:var(--hdr);border-bottom:1px solid var(--line)}
+ .hd{grid-area:top;padding:0;align-self:center;background:none;border:0}
+ .hd .trow h1{font-size:30px}html[data-theme] .hd .sub{font-size:15px}
+ html[data-theme] .hd #thm{margin-left:16px}
+ .act{display:contents}.cont{grid-area:cont;align-self:center}.newc{grid-area:new}.prog{grid-area:prog;display:flex;flex-direction:column;justify-content:center}
+ .sec{grid-area:sec;grid-template-columns:1fr;gap:8px}
+ .tools{display:flex;position:sticky;top:0;z-index:30;background:var(--bar);border-bottom:1px solid var(--line);padding:10px max(24px,calc((100% - 1232px)/2));gap:16px;align-items:center;-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
+ .tb{position:static;border:0;padding:0;background:none;flex:0 1 460px;order:2;margin-left:auto;-webkit-backdrop-filter:none;backdrop-filter:none}
+ .modes{padding:0;flex:0 0 420px}
+}
+@media print{.act,.tools,#sheet,#sdim,.hd #thm{display:none!important}.hd{background:none;border-bottom:2px solid #000}}
+</style><!--/v2hdr-css--></head>
 <body class="m-both">
-<header class="top"><!--thm--><button id="thm" type="button" aria-label="切换夜间/日间模式" title="切换夜间/日间模式"></button><!--/thm--><div class="brand"><button id="menu" class="icon" aria-label="目录">☰</button><div><h1>Leo in Bali <span>单词故事 · 中英对照 v2</span></h1><p class="sub">69 个连续小故事，把单词总表里的 1365 个词条放回语境里记</p></div><span class="lvl">A2–B1</span></div>
-<div class="stats"><div><b>69</b><span>章</span></div><div><b>1365</b><span>词条（本书）</span></div><div><b>257</b><span>NEW 新增词（全书）</span></div><div id="btstat"><b>10/23·298</b><span>最新新增</span></div><div><b id="learnedN">0</b><span>已掌握</span></div></div><div class="stats" style="margin-top:6px"><div><a href="index.html" style="color:#fff">← 首页</a></div><div><a href="anki.html" style="color:#fff">🗂 Anki 复习</a></div></div></header><!--thm--><script>(function(){var b=document.getElementById("thm"),h=document.documentElement;function p(){var d=h.getAttribute("data-theme")==="dark";b.textContent=d?"☀️ 日间":"🌙 夜间";var m=document.querySelector("meta[name=theme-color]");if(m)m.setAttribute("content",d?"#6e2f22":"#e0703a")}p();b.addEventListener("click",function(){var t=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",t);try{localStorage.setItem("wsv2-theme",t)}catch(e){}p()});window.addEventListener("storage",function(e){if(e.key==="wsv2-theme"&&e.newValue){h.setAttribute("data-theme",e.newValue);p()}});try{var q=matchMedia("(prefers-color-scheme: dark)");q.addEventListener&&q.addEventListener("change",function(e){var s;try{s=localStorage.getItem("wsv2-theme")}catch(x){}if(!s){h.setAttribute("data-theme",e.matches?"dark":"light");p()}})}catch(e){}})();</script><!--/thm-->
-<div class="toolbar" id="toolbar">
-<div class="seg" data-k="mode"><button data-v="both" class="on">中英对照</button><button data-v="en">只看英文</button><button data-v="zh">只看中文</button></div>
-<div class="seg" data-k="gloss"><button data-v="pop" class="on">点词看释义</button><button data-v="inline">行内释义</button><button data-v="test">自测（隐藏释义）</button></div>
-<div class="grp"><label>字号</label><button id="fsm" class="icon">A−</button><button id="fsp" class="icon">A+</button></div>
-<div class="seg acc" id="accsw"><button data-v="us">🇺🇸 美式</button><button data-v="uk">🇬🇧 英式</button></div>
-<div class="grp"><label>语速</label><select id="rate"><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1.0×</option><option value="1.25">1.25×</option></select><button id="stop" class="icon" title="停止朗读">■</button></div>
-<div class="search"><input id="q" type="search" placeholder="搜索单词或中文释义…" autocomplete="off"><div id="qr" class="qr"></div></div>
+<div class="hero" id="hero">
+<header class="hd"><div class="trow"><h1>Leo in Bali</h1><span class="lvl">A2–B1</span><!--thm--><button id="thm" type="button" aria-label="切换夜间/日间模式" title="切换夜间/日间模式"></button><!--/thm--></div><p class="sub"><span data-x="ch">69</span> 章 · <span data-x="w">1365</span> 词</p><button id="menu" class="icon" aria-label="目录">☰</button></header>
+<section class="act" aria-label="快速入口">
+<button class="cont" id="cont" type="button"><span class="ic" aria-hidden="true">▶</span><span class="tx"><b id="contT">从第 1 章开始</b><small id="contS">JB 学校的第一天</small></span><span class="chev" aria-hidden="true">›</span></button>
+<a class="hc newc" id="newc" href="#c54"><span><span class="k">最新补充 <span class="bt" data-x="lbt">新 10/23</span></span><span class="v"><b data-x="lbn">+298 词</b><span data-x="lbr">第 54–69 章（16 章）</span></span></span><span class="go">去看 ›</span></a>
+<div class="hc prog" id="prog"><div class="h"><span>已掌握</span><b><span id="learnedN">0</span> <em>/ <span data-x="w">1365</span></em></b><span class="pct" id="learnedP"></span></div><div class="trk"><i id="learnedBar"></i></div><div class="pn">含 Anki 熟练词（复习间隔 ≥21 天）</div></div>
+<nav class="sec" aria-label="其他页面"><a href="index.html">← 首页</a><a href="anki.html">🗂 Anki 复习</a></nav>
+</section></div><!--thm--><script>(function(){var b=document.getElementById("thm"),h=document.documentElement;function p(){var d=h.getAttribute("data-theme")==="dark";b.textContent=d?"☀️":"🌙";b.setAttribute("aria-label",d?"切换到日间模式":"切换到夜间模式");var m=document.querySelector("meta[name=theme-color]");if(m)m.setAttribute("content",d?"#26231f":"#e7dfd3")}p();b.addEventListener("click",function(){var t=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",t);try{localStorage.setItem("wsv2-theme",t)}catch(e){}p()});window.addEventListener("storage",function(e){if(e.key==="wsv2-theme"&&e.newValue){h.setAttribute("data-theme",e.newValue);p()}});try{var q=matchMedia("(prefers-color-scheme: dark)");q.addEventListener&&q.addEventListener("change",function(e){var s;try{s=localStorage.getItem("wsv2-theme")}catch(x){}if(!s){h.setAttribute("data-theme",e.matches?"dark":"light");p()}})}catch(e){}})();</script><!--/thm-->
+<div class="tools" id="toolbar">
+<div class="tb"><div class="search"><input id="q" type="search" placeholder="搜索单词或中文释义…" autocomplete="off" aria-label="搜索单词或中文释义"><div id="qr" class="qr"></div></div><button id="gear" class="gear" type="button" aria-label="设置" aria-haspopup="dialog" aria-controls="sheet">⚙︎</button></div>
+<div class="modes"><div class="seg" data-k="mode"><button data-v="both" class="on">中英对照</button><button data-v="en">只看英文</button><button data-v="zh">只看中文</button></div></div>
+</div>
+<div id="sdim" hidden></div>
+<div id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetH" hidden>
+<div class="grab"></div>
+<div class="shh"><h3 id="sheetH">设置</h3><button class="sx" id="sheetX" type="button" aria-label="关闭设置">✕</button></div>
+<div class="gt">阅读</div>
+<div class="srow"><div class="slb">释义方式</div><div class="seg" data-k="gloss"><button data-v="pop" class="on">点词看释义</button><button data-v="inline">行内释义</button><button data-v="test">自测</button></div><div class="shint">自测：隐藏中文和释义，点一下才显示</div></div>
+<div class="srow"><div class="slb">字号<span>14–28</span></div><div class="step"><button id="fsm" type="button" aria-label="字号减小">A−</button><span class="val" id="fsv">18 px</span><button id="fsp" type="button" aria-label="字号增大">A+</button></div></div>
+<div class="sgl"></div>
+<div class="gt">发音</div>
+<div class="srow"><div class="slb">口音</div><div class="seg acc" id="accsw"><button data-v="us">🇺🇸 美式</button><button data-v="uk">🇬🇧 英式</button></div></div>
+<div class="srow"><div class="slb">语速</div><div class="seg" data-k="rate" id="rateseg"><button data-v="0.75">0.75×</button><button data-v="0.9">0.9×</button><button data-v="1" class="on">1.0×</button><button data-v="1.25">1.25×</button></div><select id="rate" hidden aria-hidden="true"><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1.0×</option><option value="1.25">1.25×</option></select></div>
+<div class="srow"><button class="stopb" id="stop" type="button">■ 停止朗读</button><div class="shint">停止当前正在播放的段落 / 全章朗读</div></div>
 </div>
 <div class="wrap">
 <nav id="toc" class="toc"><div class="toch">目录 · 21 个主题</div><div class="tg"><div class="tgh"><span class="sym">①</span>性格与情绪</div><a href="#c1" data-c="1"><b>01</b> JB 学校的第一天<small class="np" data-np="1"></small></a><a href="#c2" data-c="2"><b>02</b> 隔壁的邻居<small class="np" data-np="2"></small></a><a href="#c3" data-c="3"><b>03</b> 糟糕的一周，一个好朋友<small class="np" data-np="3"></small></a></div><div class="tg"><div class="tgh"><span class="sym">②</span>核心短语动词（Lesson 4 重点）</div><a href="#c4" data-c="4"><b>04</b> 第四课：短语动词<small class="np" data-np="4"></small></a><a href="#c5" data-c="5"><b>05</b> 吵架之后和好<small class="np" data-np="5"></small></a></div><div class="tg"><div class="tgh"><span class="sym">③</span>家庭与人物关系</div><a href="#c6" data-c="6"><b>06</b> 一个巴厘岛大家庭<small class="np" data-np="6"></small></a><a href="#c7" data-c="7"><b>07</b> 爱情、婚姻和同居<small class="np" data-np="7"></small></a></div><div class="tg"><div class="tgh"><span class="sym">④</span>格斗与运动</div><a href="#c8" data-c="8"><b>08</b> 登巴萨的格斗之夜<small class="np" data-np="8"></small></a><a href="#c9" data-c="9"><b>09</b> 还是水里好<small class="np" data-np="9"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑤</span>食物与饮食</div><a href="#c10" data-c="10"><b>10</b> 学着像本地人一样吃<small class="np" data-np="10"></small></a><a href="#c11" data-c="11"><b>11</b> 夜市与早晨的咖啡<small class="np" data-np="11"></small></a><a href="#c12" data-c="12"><b>12</b> 在 Pak Made 家吃早餐<small class="np" data-np="12"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑥</span>天气与温度</div><a href="#c13" data-c="13"><b>13</b> 两个季节，好多虫子<small class="np" data-np="13"></small></a><a href="#c14" data-c="14"><b>14</b> 三十四度<small class="np" data-np="14"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑦</span>地理与自然</div><a href="#c15" data-c="15"><b>15</b> 北部之旅<small class="np" data-np="15"></small></a><a href="#c16" data-c="16"><b>16</b> 巴图尔火山上的星星<small class="np" data-np="16"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑧</span>商业 · 经济 · 竞赛排名</div><a href="#c17" data-c="17"><b>17</b> 钱、房租和好评<small class="np" data-np="17"></small></a><a href="#c18" data-c="18"><b>18</b> 帮一所小学校出主意<small class="np" data-np="18"></small></a><a href="#c19" data-c="19"><b>19</b> 工资、奖金和月光族<small class="np" data-np="19"></small></a><a href="#c20" data-c="20"><b>20</b> Leo 的第一个客户<small class="np" data-np="20"></small></a><a href="#c21" data-c="21"><b>21</b> 价格、升职和工作与生活<small class="np" data-np="21"></small></a><a href="#c22" data-c="22"><b>22</b> 现金还是刷卡？<small class="np" data-np="22"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑨</span>城市生活 · 物品 · 服装</div><a href="#c23" data-c="23"><b>23</b> 新家和一辆摩托车<small class="np" data-np="23"></small></a><a href="#c24" data-c="24"><b>24</b> 寺庙、堵车和网飞<small class="np" data-np="24"></small></a><a href="#c25" data-c="25"><b>25</b> 老学校，新学校<small class="np" data-np="25"></small></a><a href="#c26" data-c="26"><b>26</b> Kenji 的妈妈来巴厘岛<small class="np" data-np="26"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑩</span>动作与路径</div><a href="#c27" data-c="27"><b>27</b> 去乌布的路<small class="np" data-np="27"></small></a><a href="#c28" data-c="28"><b>28</b> 搬家日<small class="np" data-np="28"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑪</span>人际 · 学习 · 观点</div><a href="#c29" data-c="29"><b>29</b> 测试成绩和一场大讨论<small class="np" data-np="29"></small></a><a href="#c30" data-c="30"><b>30</b> 和 Sonia 一对一<small class="np" data-np="30"></small></a><a href="#c31" data-c="31"><b>31</b> 帮 Sonia 备课<small class="np" data-np="31"></small></a><a href="#c32" data-c="32"><b>32</b> 我们怎么学习？<small class="np" data-np="32"></small></a><a href="#c33" data-c="33"><b>33</b> 一次关于宗教的谈话<small class="np" data-np="33"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑫</span>易混词 · 发音 · 语法辨析</div><a href="#c34" data-c="34"><b>34</b> Sonia 的纠错诊所（一）<small class="np" data-np="34"></small></a><a href="#c35" data-c="35"><b>35</b> 电影之夜和看牙医<small class="np" data-np="35"></small></a><a href="#c36" data-c="36"><b>36</b> 好玩、好笑和一顶绿帽子<small class="np" data-np="36"></small></a><a href="#c37" data-c="37"><b>37</b> Sonia 的纠错诊所（二）<small class="np" data-np="37"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑬</span>金句与实用表达</div><a href="#c38" data-c="38"><b>38</b> 课堂演讲：“我在巴厘岛的生活”<small class="np" data-np="38"></small></a><a href="#c39" data-c="39"><b>39</b> 一场面试、一个小偷和因果<small class="np" data-np="39"></small></a><a href="#c40" data-c="40"><b>40</b> Leo 的口语日记<small class="np" data-np="40"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑭</span>医疗与健康</div><a href="#c41" data-c="41"><b>41</b> 被咬了一口和一次体检<small class="np" data-np="41"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑮</span>宠物与动物</div><a href="#c42" data-c="42"><b>42</b> Kopi 的小狗崽<small class="np" data-np="42"></small></a><a href="#c43" data-c="43"><b>43</b> 动物园里的动物<small class="np" data-np="43"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑯</span>时间与日程</div><a href="#c44" data-c="44"><b>44</b> Leo 的新作息<small class="np" data-np="44"></small></a><a href="#c45" data-c="45"><b>45</b> 忙碌的日子，悠闲的日子<small class="np" data-np="45"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑰</span>影视与剧情</div><a href="#c46" data-c="46"><b>46</b> 我们自己的短剧<small class="np" data-np="46"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑱</span>犯罪与治安</div><a href="#c47" data-c="47"><b>47</b> 网飞上的大劫案<small class="np" data-np="47"></small></a><a href="#c48" data-c="48"><b>48</b> 丢失的手机<small class="np" data-np="48"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑲</span>内容创作与发布</div><a href="#c49" data-c="49"><b>49</b> Ana 的 YouTube 频道<small class="np" data-np="49"></small></a><a href="#c50" data-c="50"><b>50</b> 按下发布键<small class="np" data-np="50"></small></a></div><div class="tg"><div class="tgh"><span class="sym">⑳</span>历史与时事话题</div><a href="#c51" data-c="51"><b>51</b> 一堂历史课<small class="np" data-np="51"></small></a><a href="#c52" data-c="52"><b>52</b> 大新闻<small class="np" data-np="52"></small></a></div><div class="tg"><div class="tgh"><span class="sym">㉑</span>课外自学收集</div><a href="#c53" data-c="53"><b>53</b> Leo 的秘诀：小步前进<small class="np" data-np="53"></small></a></div><div class="tg"><div class="tgh tgbt"><span class="sym">新</span>10/23 新增</div><a href="#c54" data-c="54"><b>54</b> 情绪很满的一周<small class="np" data-np="54"></small></a><a href="#c55" data-c="55"><b>55</b> Leo 办了健身卡<small class="np" data-np="55"></small></a><a href="#c56" data-c="56"><b>56</b> 新室友和一场大仪式<small class="np" data-np="56"></small></a><a href="#c57" data-c="57"><b>57</b> Warren 大厨的烹饪之夜<small class="np" data-np="57"></small></a><a href="#c58" data-c="58"><b>58</b> Leo 下一站去哪儿学？<small class="np" data-np="58"></small></a><a href="#c59" data-c="59"><b>59</b> 砍价的艺术<small class="np" data-np="59"></small></a><a href="#c60" data-c="60"><b>60</b> Leo 在巴厘岛的第一次面试<small class="np" data-np="60"></small></a><a href="#c61" data-c="61"><b>61</b> 进城的一天<small class="np" data-np="61"></small></a><a href="#c62" data-c="62"><b>62</b> 碎掉的屏幕<small class="np" data-np="62"></small></a><a href="#c63" data-c="63"><b>63</b> 楼梯上的拖鞋<small class="np" data-np="63"></small></a><a href="#c64" data-c="64"><b>64</b> Leo 做学习计划<small class="np" data-np="64"></small></a><a href="#c65" data-c="65"><b>65</b> Kenji 的大考<small class="np" data-np="65"></small></a><a href="#c66" data-c="66"><b>66</b> 现在几点？<small class="np" data-np="66"></small></a><a href="#c67" data-c="67"><b>67</b> 生日和节日<small class="np" data-np="67"></small></a><a href="#c68" data-c="68"><b>68</b> Leo 感冒了<small class="np" data-np="68"></small></a><a href="#c69" data-c="69"><b>69</b> Ana 的新一集<small class="np" data-np="69"></small></a></div><div class="tocf"><a href="#about">说明</a></div></nav>
 <main>
 <section class="intro"><h2>人物</h2><div class="cast"><div><b>Leo</b>三十五岁，前上海产品经理，搬到巴厘岛长谷学英语</div><div><b>Sonia</b>JB 学校的美国老师，严格但温暖</div><div><b>Kenji</b>日本同学，外向的泰拳迷</div><div><b>Ana</b>西班牙同学，内向、有创意，做酒店营销</div><div><b>Pak Made</b>隔壁小吃店老板，热心肠的邻居；女儿 <b>Ketut</b> 八岁，很调皮</div></div>
-<p class="tip">用法：先读英文，点<span class="tw demo">高亮词</span>看音标、释义、常用搭配和 2 个拓展场景例句（💼 工作 / 🌴 生活·巴厘岛，可点 🔊 听）。★ = 高频词，<span class="tw demo nwd">绿色下划线</span> / NEW = 这次新增的词。每段左边 ▶ 播放神经语音朗读，可切换 🇺🇸 美式 / 🇬🇧 英式。读完一章勾选词表、做填空小测。进度只存在本浏览器里。</p></section>
+<p class="tip">用法：先读英文，点<span class="tw demo">高亮词</span>看音标、释义、常用搭配和 2 个拓展场景例句（💼 工作 / 🌴 生活·巴厘岛，可点 🔊 听）。★ = 高频词，<span class="tw demo nwb">绿色下划线</span> = <span data-x="lb">10/23</span> 最新一批新增的词。每段左边 ▶ 播放神经语音朗读，可切换 🇺🇸 美式 / 🇬🇧 英式。读完一章勾选词表、做填空小测。进度只存在本浏览器里。</p></section>
 <section class="chap" id="c1" data-c="1">
 <header class="ch-h"><div class="ch-no">Chapter 01<span class="ch-th">① 性格与情绪</span></div>
 <h2><span lang="en">First Day at JB School</span><small>JB 学校的第一天</small></h2>
@@ -687,13 +864,13 @@ header.top{position:relative}
 <div class="quiz"><h3>✍️ 小测：5 道填空 <small>答案来自本章原句</small></h3><ol><li data-a="episode" data-i="1344"><span>Ana was making a new  <input type="text" autocomplete="off" autocapitalize="off" spellcheck="false" size="8" aria-label="填空">  for her YouTube channel.</span><em class="hint">提示：（剧集的）一集；一段经历 · 首字母 e · 7 个字符</em><b class="fb"></b></li><li data-a="software" data-i="1359"><span>He used new  <input type="text" autocomplete="off" autocapitalize="off" spellcheck="false" size="9" aria-label="填空">  that Ana gave him.</span><em class="hint">提示：软件 · 首字母 s · 8 个字符</em><b class="fb"></b></li><li data-a="shadowing practice" data-i="1350"><span>In the video, Leo talked about  <input type="text" autocomplete="off" autocapitalize="off" spellcheck="false" size="19" aria-label="填空"> .</span><em class="hint">提示：影子跟读练习 · 首字母 s · 18 个字符</em><b class="fb"></b></li><li data-a="temple" data-i="1361"><span>They filmed outside a small  <input type="text" autocomplete="off" autocapitalize="off" spellcheck="false" size="7" aria-label="填空"> .</span><em class="hint">提示：寺庙 · 首字母 t · 6 个字符</em><b class="fb"></b></li><li data-a="shout" data-i="1358"><span>Ana had to  <input type="text" autocomplete="off" autocapitalize="off" spellcheck="false" size="6" aria-label="填空"> , &quot;Cut!</span><em class="hint">提示：喊叫 · 首字母 s · 5 个字符</em><b class="fb"></b></li></ol><div class="qbtn"><button class="chk">检查答案</button><button class="shw">显示答案</button><button class="rst">重做</button><span class="score"></span></div></div>
 </section>
 <section class="about" id="about"><h2>说明</h2><ul><li>10/23 更新：新增第 54–69 章，覆盖本批 298 个新词（章节标「新 10/23」）。旧章节、旧词条和学习进度不变。</li>
-<li>覆盖：全书 53 章把单词总表 1067 个词条全部写进英文故事并高亮（其中 257 个是本次新增词，集中在各主题新增的章节里）。</li>
+<li>覆盖：全书 <span data-x="ch">69</span> 章把单词总表 <span data-x="w">1365</span> 个词条全部写进英文故事并高亮（其中 <span data-x="nw">257</span> 个是旧词表里标 NEW 的词；最新一批 <span data-x="lb">10/23</span> 新增 <span data-x="lbnn">298</span> 个，在第 <span data-x="lbr2">54–69</span> 章）。</li>
 <li>难度：A2–B1，短句为主；目标词本身可能更难。⑬ 金句保留你白板/笔记原句，故事或拓展例句给出更自然的说法。</li>
 <li>音频：故事朗读和单词发音为 AI 神经语音（美式 Ava / 英式 Sonia）。拓展例句 🔊 也是神经语音。</li></ul></section>
 </main></div>
 <button id="totop" aria-label="回到顶部">↑</button><div id="pop" class="pop" role="dialog" hidden></div>
 <div id="toast" class="toast"></div>
-<script src="data/words.js"></script><script src="data/bounds.js"></script><script>var AUD={acc:"us",base:"audio/",xs:1,BB:BOUNDS,B:{}};</script><script>(function(){
+<script src="data/words.js?v=784b9883"></script><script src="data/bounds.js?v=399483ba"></script><script>var AUD={acc:"us",base:"audio/",xs:1,BB:BOUNDS,B:{}};</script><script>(function(){
 'use strict';
 var W=DATA.W, CH=DATA.CH, CT=DATA.CT, LS=window.localStorage;
 var $=function(s,r){return (r||document).querySelector(s)}, $$=function(s,r){return Array.prototype.slice.call((r||document).querySelectorAll(s))};
@@ -707,7 +884,7 @@ function applyPrefs(){
   body.classList.add('m-'+prefs.mode);body.classList.add('g-'+prefs.gloss);
   document.documentElement.style.setProperty('--fs',prefs.fs+'px');
   $$('.seg[data-k]').forEach(function(s){var k=s.getAttribute('data-k');$$('button',s).forEach(function(b){b.classList.toggle('on',b.getAttribute('data-v')===prefs[k])})});
-  $('#rate').value=prefs.rate; save('wsx-prefs',prefs);
+  $('#rate').value=prefs.rate; var fv=$('#fsv');if(fv)fv.textContent=prefs.fs+' px'; save('wsx-prefs',prefs);
 }
 $$('.seg[data-k]').forEach(function(s){s.addEventListener('click',function(e){var b=e.target.closest('button');if(!b)return;prefs[s.getAttribute('data-k')]=b.getAttribute('data-v');applyPrefs();hidePop()})});
 $('#fsm').onclick=function(){prefs.fs=Math.max(14,prefs.fs-1);applyPrefs()};
@@ -717,8 +894,8 @@ applyPrefs();
 // ---------- learned
 var learned=load('wsx-learned',{});
 function refreshLearned(){
-  var tot=0;Object.keys(learned).forEach(function(k){if(learned[k])tot++});
-  $('#learnedN').textContent=tot+'/'+Object.keys(W).length;
+  var tot=0;Object.keys(learned).forEach(function(k){if(learned[k]&&W[k])tot++});
+  if(window.__mast)window.__mast();
   $$('.lrn').forEach(function(c){var i=c.getAttribute('data-i');c.checked=!!learned[i];c.closest('tr').classList.toggle('done',!!learned[i])});
   Object.keys(CH).forEach(function(n){var ids=CH[n],d=0;ids.forEach(function(i){if(learned[i])d++});
     var t='已掌握 '+d+'/'+ids.length;var e=$('[data-cp="'+n+'"]');if(e)e.textContent=t;
@@ -917,4 +1094,112 @@ document.addEventListener('click',function(e){if(body.classList.contains('toc-op
 if('IntersectionObserver' in window){var io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting){var n=en.target.getAttribute('data-c');$$('.toc a.cur').forEach(function(a){a.classList.remove('cur')});var a=$('.toc a[data-c="'+n+'"]');if(a){a.classList.add('cur');if(!body.classList.contains('toc-open')){var t=$('#toc'),r=a.offsetTop;if(r<t.scrollTop||r>t.scrollTop+t.clientHeight-40)t.scrollTop=r-80}}}})},{rootMargin:'-30% 0px -60% 0px'});$$('.chap').forEach(function(c){io.observe(c)})}
 })();
 </script>
+<!--navfix--><div id="tocscrim"></div>
+<div id="chbar" class="hide" role="navigation" aria-label="章节切换"><button class="cbp" type="button" aria-label="上一章">‹</button><button class="cbt" type="button" aria-label="选择章节"><b></b><span></span></button><button class="cbn" type="button" aria-label="下一章">›</button></div>
+<script>(function(){
+var $=function(q,r){return (r||document).querySelector(q)},$$=function(q,r){return Array.prototype.slice.call((r||document).querySelectorAll(q))};
+var body=document.body,toc=$('#toc'),bar=$('#chbar'),KEY='wsx-last';
+var CH=$$('section.chap').map(function(c){var n=+c.getAttribute('data-c'),h=$('h2 small',c);return {n:n,el:c,zh:h?h.textContent:(''+n),bt:c.getAttribute('data-bt')||''}});
+var idx={};CH.forEach(function(c,i){idx[c.n]=i});
+function last(){try{var v=JSON.parse(localStorage.getItem(KEY)||'null');return v&&idx[v.c]!=null?v:null}catch(e){return null}}
+function curPara(n){var i=idx[n];if(i==null)return '';var ps=$$('.para',CH[i].el),h=window.innerHeight;for(var k=0;k<ps.length;k++){var r=ps[k].getBoundingClientRect();if(r.bottom>h*0.15&&r.top<h*0.85)return ps[k].id}return ''}
+function remember(n,p){try{localStorage.setItem(KEY,JSON.stringify({c:n,p:p===undefined?curPara(n):p,t:Date.now()}))}catch(e){}}
+function go(n,pid){var i=idx[n];if(i==null)return;closeToc();var el=CH[i].el,pe=pid&&document.getElementById(pid);if(pe&&CH[i].el.contains(pe)){el=pe}else pid='';
+  if(history.replaceState)history.replaceState(null,'','#'+(pid||'c'+n));
+  var y=el.getBoundingClientRect().top+window.pageYOffset-stickyH();try{window.scrollTo({top:Math.max(0,y),left:0,behavior:'instant'})}catch(e){window.scrollTo(0,Math.max(0,y))}remember(n,pid||'');cur=n;paint();if(pid){el.classList.remove('flash');void el.offsetWidth;el.classList.add('flash')}}
+window.__nav={go:go,para:curPara,list:function(){return CH.map(function(c){return c.n})},cur:function(){return cur},last:last};
+function stickyH(){var e=document.querySelector(window.innerWidth>=1024?'#toolbar':'.tb');if(e&&getComputedStyle(e).position==='sticky')return Math.ceil(e.getBoundingClientRect().height)+8;return window.innerWidth>900?70:12}
+function closeToc(){body.classList.remove('toc-open')}
+function openToc(){body.classList.add('toc-open');var a=$('.toc a[data-c="'+(cur||((last()||{}).c)||1)+'"]');if(a&&toc){toc.scrollTop=Math.max(0,a.offsetTop-toc.clientHeight/3)}}
+// 1) drawer extras: close button + quick jumps
+if(toc&&!$('.tocq',toc)){var h=$('.toch',toc);if(h){var x=document.createElement('button');x.className='tocx';x.type='button';x.setAttribute('aria-label','关闭目录');x.textContent='✕';h.insertBefore(x,h.firstChild);x.addEventListener('click',function(e){e.stopPropagation();closeToc()})}
+  var q=document.createElement('div');q.className='tocq';var L=last(),firstNew=CH.filter(function(c){return c.bt})[0],lastNew=CH.filter(function(c){return c.bt}).slice(-1)[0];
+  q.innerHTML=(L?'<button type="button" class="pri" data-go="'+L.c+'" data-p="'+(L.p||'')+'">▶ 继续阅读 · 第 '+L.c+' 章</button>':'')+'<button type="button" data-go="1">第 1 章</button>'+(firstNew?'<button type="button" class="nb" data-go="'+firstNew.n+'">新 '+firstNew.bt+' · 第 '+firstNew.n+'–'+lastNew.n+' 章</button>':'');
+  if(h)h.parentNode.insertBefore(q,h.nextSibling);
+  q.addEventListener('click',function(e){var b=e.target.closest('[data-go]');if(b){e.preventDefault();e.stopPropagation();go(+b.getAttribute('data-go'),b.getAttribute('data-p')||'')}})}
+if(toc)toc.addEventListener('click',function(e){var a=e.target.closest('a[data-c]');if(a){e.preventDefault();go(+a.getAttribute('data-c'))}});
+$('#tocscrim').addEventListener('click',closeToc);
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeToc()});
+// 2) end-of-chapter prev/next
+CH.forEach(function(c,i){if($('.chnav',c.el))return;var p=CH[i-1],n=CH[i+1],d=document.createElement('nav');d.className='chnav';d.setAttribute('aria-label','章节导航');
+  d.innerHTML=(p?'<a class="pv" href="#c'+p.n+'" data-go="'+p.n+'"><small>‹ 上一章 · 第 '+p.n+' 章</small><span>'+p.zh+'</span></a>':'<span class="sp"></span>')+'<button type="button" class="ct">目录</button>'+(n?'<a class="nx" href="#c'+n.n+'" data-go="'+n.n+'"><small>下一章 · 第 '+n.n+' 章 ›</small><span>'+n.zh+'</span></a>':'<span class="sp"></span>');
+  c.el.appendChild(d)});
+document.addEventListener('click',function(e){var a=e.target.closest('.chnav [data-go]');if(a){e.preventDefault();go(+a.getAttribute('data-go'));return}
+  if(e.target.closest('.chnav .ct')){e.preventDefault();e.stopPropagation();if(window.innerWidth>900){var t=$('.toc a[data-c="'+cur+'"]');if(t)t.scrollIntoView({block:'center'})}openToc()}});
+// 3) sticky chapter bar + current chapter tracking + 继续阅读
+var cur=0,saveT=0;
+function detect(){var y=window.innerHeight*0.35,n=0;for(var i=0;i<CH.length;i++){var r=CH[i].el.getBoundingClientRect();if(r.top<=y){if(r.bottom>0)n=CH[i].n}else break}return n}
+function paint(){var i=idx[cur],L=last(),tb=$('b',bar),ts=$('span',bar),bp=$('.cbp',bar),bn=$('.cbn',bar);
+  if(i==null){if(document.getElementById('cont')){bar.className='resume hide';bp.disabled=true;bn.disabled=true;return}if(L){bar.className='resume';tb.textContent='继续阅读';ts.textContent='第 '+L.c+' 章 · '+CH[idx[L.c]].zh+(L.p&&/p(\d+)$/.test(L.p)?' · 第 '+(+/p(\d+)$/.exec(L.p)[1]+1)+' 段':'')}else{bar.className='resume';tb.textContent='开始阅读';ts.textContent='第 1 章 · '+CH[0].zh}
+    bp.disabled=true;bn.disabled=true;return}
+  bar.className='';var c=CH[i];tb.textContent='第 '+c.n+' / '+CH[CH.length-1].n+' 章'+(c.bt?' · 新 '+c.bt:'');ts.textContent=c.zh+' ▾';bp.disabled=i===0;bn.disabled=i===CH.length-1}
+function onScroll(){var n=detect();if(n!==cur){cur=n;paint();}clearTimeout(saveT);if(n)saveT=setTimeout(function(){remember(n)},1000)}
+var tk=0;window.addEventListener('scroll',function(){if(tk)return;tk=requestAnimationFrame(function(){tk=0;onScroll()})},{passive:true});
+window.addEventListener('resize',onScroll);
+$('.cbp',bar).addEventListener('click',function(e){e.stopPropagation();var i=idx[cur];if(i>0)go(CH[i-1].n)});
+$('.cbn',bar).addEventListener('click',function(e){e.stopPropagation();var i=idx[cur];if(i!=null&&i<CH.length-1)go(CH[i+1].n)});
+$('.cbt',bar).addEventListener('click',function(e){e.stopPropagation();if(idx[cur]==null){var L=last();if(L)go(L.c,L.p||'');else go(CH[0].n);return}
+  if(window.innerWidth>900){var t=$('.toc a[data-c="'+cur+'"]');if(t&&toc)toc.scrollTop=Math.max(0,t.offsetTop-toc.clientHeight/3);t&&t.focus&&t.focus()}else openToc()});
+var m=$('#menu');if(m)m.addEventListener('click',function(){setTimeout(function(){if(body.classList.contains('toc-open'))openToc()},0)});
+onScroll();paint();
+window.addEventListener('hashchange',function(){var mm=/^#c(\d+)$/.exec(location.hash);if(mm&&idx[+mm[1]]!=null){remember(+mm[1],'')}});
+})();</script><!--/navfix-->
+<!--v2hdr--><script>(function(){
+var $=function(q,r){return (r||document).querySelector(q)},$$=function(q,r){return Array.prototype.slice.call((r||document).querySelectorAll(q))};
+var W=DATA.W,CHD=DATA.CH,CT=DATA.CT,body=document.body;function nav(){return window.__nav||null}
+function ls(k){try{return JSON.parse(localStorage.getItem(k)||'null')}catch(e){return null}}
+var ids=Object.keys(W),NWD=ids.length,chs=Object.keys(CHD).map(Number).sort(function(a,b){return a-b});
+// ---- 最新批次：文档里最后一个带 data-bt 的章节所属批次
+var secs=$$('section.chap'),LB='';secs.forEach(function(s){var b=s.getAttribute('data-bt');if(b)LB=b});
+var lbSecs=secs.filter(function(s){return s.getAttribute('data-bt')===LB}).map(function(s){return +s.getAttribute('data-c')});
+var lbN=ids.filter(function(i){return LB&&W[i].bt===LB}).length;
+function batchDate(bt,now){var m=/^(\d{1,2})\/(\d{1,2})$/.exec(bt||'');if(!m)return null;now=now||new Date();var d=new Date(now.getFullYear(),+m[1]-1,+m[2]);if(d-now>86400000)d=new Date(now.getFullYear()-1,+m[1]-1,+m[2]);return d}
+function batchVisible(now){now=now||new Date();var d=batchDate(LB,now);return !!(d&&lbN>0&&(now-d)<30*86400000)}
+function setX(k,v){$$('[data-x="'+k+'"]').forEach(function(e){e.textContent=v})}
+setX('ch',chs.length);setX('w',NWD);setX('nw',ids.filter(function(i){return W[i].new}).length);
+if(LB&&lbSecs.length){setX('lbt','新 '+LB);setX('lb',LB);setX('lbn','+'+lbN+' 词');setX('lbnn',lbN);setX('lbr','第 '+lbSecs[0]+'–'+lbSecs[lbSecs.length-1]+' 章（'+lbSecs.length+' 章）');setX('lbr2',lbSecs[0]+'–'+lbSecs[lbSecs.length-1])}
+var newc=$('#newc');if(newc){newc.hidden=!batchVisible();if(lbSecs.length)newc.setAttribute('href','#c'+lbSecs[0]);
+  newc.addEventListener('click',function(e){if(nav()&&lbSecs.length){e.preventDefault();nav().go(lbSecs[0])}})}
+// ---- 绿色下划线只标最新一批（不改章节 HTML）
+$$('.tw[data-i]').forEach(function(t){var w=W[t.getAttribute('data-i')];t.classList.toggle('nwb',!!(LB&&w&&w.bt===LB))});
+$$('.intro .tw.demo.nwb').forEach(function(t){t.classList.add('nwb')});
+// ---- 继续阅读
+var cont=$('#cont');
+function lastRec(){var L=nav()&&nav().last?nav().last():ls('wsx-last');return L&&CT[L.c]?L:null}
+function paintCont(){if(!cont)return;var L=lastRec();
+  if(!L){$('#contT').textContent='从第 '+chs[0]+' 章开始';$('#contS').textContent=CT[chs[0]]||'';cont.setAttribute('data-c',chs[0]);cont.setAttribute('data-p','');return}
+  var pm=/p(\d+)$/.exec(L.p||'');
+  $('#contT').textContent='继续阅读 · 第 '+L.c+' 章《'+CT[L.c]+'》';
+  $('#contS').textContent=pm?'上次读到第 '+(+pm[1]+1)+' 段':'从本章开头读';
+  cont.setAttribute('data-c',L.c);cont.setAttribute('data-p',L.p||'')}
+if(cont)cont.addEventListener('click',function(){var c=+cont.getAttribute('data-c'),p=cont.getAttribute('data-p')||'';
+  if(nav())nav().go(c,p);else location.hash=p||('c'+c)});
+paintCont();
+var hero=$('#hero'),tk=0;window.addEventListener('scroll',function(){if(tk)return;tk=requestAnimationFrame(function(){tk=0;if(hero&&hero.getBoundingClientRect().bottom>0)paintCont()})},{passive:true});
+// ---- 已掌握 = 勾选 ∪ Anki 熟练（q==='r' 且 iv>=21，正向/反向任一张），按词去重，只数当前 W 里的词；只读 wsv2-anki
+function ok(c){return !!(c&&c.q==='r'&&c.iv>=21)}
+function mast(){var L=ls('wsx-learned')||{},A=ls('wsv2-anki'),cards=(A&&A.cards)||{},n=0;
+  for(var k=0;k<NWD;k++){var i=ids[k];if(L[i]||ok(cards[i])||ok(cards['r'+i]))n++}
+  var e=$('#learnedN'),p=$('#learnedP'),bar=$('#learnedBar');if(!e)return n;e.textContent=n;
+  var r=NWD?n/NWD:0;bar.style.width=(r*100).toFixed(2)+'%';
+  p.classList.toggle('tip0',n===0);
+  p.textContent=n===0?'读完一章，在词表里勾「已掌握」':(n===NWD?'100% ✓':(r<0.01?'<1%':Math.min(99,Math.floor(r*100))+'%'));return n}
+window.__mast=mast;mast();
+window.addEventListener('storage',function(e){if(e.key==='wsx-learned'||e.key==='wsv2-anki')mast();if(e.key==='wsx-last')paintCont()});
+// ---- 设置面板
+var sheet=$('#sheet'),dim=$('#sdim'),gear=$('#gear');
+function place(){if(window.innerWidth>900){var r=gear.getBoundingClientRect();sheet.style.top=Math.round(r.bottom+8)+'px';sheet.style.left=Math.round(Math.max(12,Math.min(r.right-360,window.innerWidth-372)))+'px'}else{sheet.style.top='';sheet.style.left=''}}
+function openS(){sheet.hidden=false;dim.hidden=false;body.classList.add('sheet-open');place();sheet.scrollTop=0;var x=$('#sheetX');x&&x.focus({preventScroll:true})}
+function closeS(){if(sheet.hidden)return;sheet.hidden=true;dim.hidden=true;body.classList.remove('sheet-open');gear&&gear.focus({preventScroll:true})}
+window.__sheet={open:openS,close:closeS};
+if(gear)gear.addEventListener('click',function(e){e.stopPropagation();sheet.hidden?openS():closeS()});
+dim.addEventListener('click',closeS);$('#sheetX').addEventListener('click',closeS);
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeS()});
+window.addEventListener('resize',function(){if(!sheet.hidden)place()});
+var ty=null;sheet.addEventListener('touchstart',function(e){ty=sheet.scrollTop<=0?e.touches[0].clientY:null},{passive:true});
+sheet.addEventListener('touchmove',function(e){if(ty!=null&&e.touches[0].clientY-ty>70){ty=null;closeS()}},{passive:true});
+// 语速分段 → 同步隐藏的 #rate，让正在播放的音频立即变速
+$('#rateseg').addEventListener('click',function(e){var b=e.target.closest('button');if(!b)return;var s=$('#rate');s.value=b.getAttribute('data-v');s.dispatchEvent(new Event('change'))});
+window.__hdr={batch:LB,batchVisible:batchVisible,mast:mast,paintCont:paintCont};
+})();</script><!--/v2hdr-->
 </body></html>
