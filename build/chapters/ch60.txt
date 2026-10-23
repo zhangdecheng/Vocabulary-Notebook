@@ -1,0 +1,59 @@
+# 60 | ⑧ 商业 · 经济 · 竞赛排名 | Leo's First Job Interview in Bali | Leo 在巴厘岛的第一次面试
+P: Leo's {savings|578} were getting smaller. "I {spend|579} too much on coffee and Grab," he said. He also had to pay rent and {utilities|696} every month. So he decided to look for part-time work at a hotel in Seminyak.
+Z: Leo 的积蓄越来越少了。“我在咖啡和打车上花太多钱了，”他说。他每个月还要付房租和水电费。于是他决定去水明漾的一家酒店找份兼职。
+P: At the hotel, a {security|1302} guard gave him a visitor {security badge|1303}. Then a woman at the front desk asked him to {fill out|789} a form. It asked about his visa and his last date at {immigration|695}. "Can foreigners work here?" Leo asked. "Only with the right visa," she said.
+Z: 在酒店，一位保安给了他一张访客门禁证。然后前台的一位女士请他填一张表。表上问了他的签证，以及他上次过边检的日期。“外国人可以在这里工作吗？”Leo 问。“只有签证对才可以，”她说。
+P: The manager was friendly. "First, please do a short {aptitude test|1351}," she said. It had twenty questions about numbers, English and customers. Then she asked, "Why did you {quit work|572} in Shanghai?" "I was tired," Leo said. "I worked twelve hours a day. So I decided to {resign|1365} and learn English."
+Z: 经理很友好。“请先做一个简短的能力测试，”她说。测试有二十道题，关于数字、英语和顾客。然后她问：“你为什么辞掉了在上海的工作？”“我太累了，”Leo 说，“每天工作十二个小时，所以我决定辞职来学英语。”
+P: The manager showed him the hotel's {testimonials|1362} on the wall. "Our guests love our {service|576}," she said. "Every {employee|574} here knows how to {serve|577} people with a smile. A good {employer|575} takes care of the staff, and the staff take care of the guests."
+Z: 经理带他看了墙上的客人好评。“客人们很喜欢我们的服务，”她说，“这里的每一位员工都知道如何微笑着服务客人。好的雇主照顾员工，员工照顾客人。”
+P: At the end, she smiled. "We can't offer full {employment|573} to a foreigner, but you can help us with Chinese guests twice a week." Leo was happy. It wasn't a big job, but it was a start.
+Z: 最后，她笑着说：“我们不能给外国人提供正式雇佣，但你可以每周来两次，帮我们接待中国客人。”Leo 很开心。虽然不是什么大工作，但这是一个开始。
+W: 578 | /ˈseɪvɪŋz/ | 存款；积蓄 | my savings; a savings account
+X: I keep three months of salary in savings. | 我存着三个月的工资作为积蓄。
+X: Many expats in Bali live on their savings. | 巴厘岛很多外国人靠积蓄生活。
+W: 579 | /spend/ | 花（钱 / 时间） | spend money on sth.; spend time doing sth.
+X: We spend too much time in meetings. | 我们花在开会上的时间太多了。
+X: How much do you spend on rent in Canggu? | 你在长谷房租花多少钱？
+W: 696 | /juːˈtɪlətiz/ | 水电煤（公用事业费） | rent and utilities; a utility bill
+X: The office rent includes utilities. | 办公室租金包含水电费。
+X: In Bali, utilities can be expensive if you use the air-con a lot. | 在巴厘岛，空调开得多的话水电费会很贵。
+W: 1302 | /sɪˈkjʊrəti/ | 安全；安保 | airport security; the security team
+X: Our IT security team checks every new laptop. | 我们的 IT 安全团队会检查每台新电脑。
+X: Airport security in Bali is quick at night. | 巴厘岛机场晚上过安检很快。
+W: 1303 | /sɪˈkjʊrəti bædʒ/ | 安保胸卡；门禁证 | wear / show your security badge
+X: Please wear your security badge in the office. | 在办公室请佩戴门禁卡。
+X: The resort gives every visitor a security badge. | 度假村给每位访客一张门禁证。
+W: 789 | /fɪl ˈaʊt/ | 填写（表格） | fill out a form; fill out an application
+X: New staff must fill out three forms on the first day. | 新员工第一天要填三张表。
+X: You fill out the arrival card online now. | 现在入境卡在网上填写。
+W: 695 | /ˌɪmɪˈɡreɪʃn/ | 入境处；移民 | go through immigration; the immigration office
+X: I'm stuck at immigration, so I'll be late for the meeting. | 我卡在入境处了，开会会迟到。
+X: The line at Bali immigration was one hour long. | 巴厘岛入境处的队排了一个小时。
+W: 1351 | /ˈæptɪtuːd test/ | 能力测试 | take an aptitude test
+X: All new employees take an aptitude test. | 所有新员工都要做能力测试。
+X: The diving school gave me a simple aptitude test. | 潜水学校给我做了一个简单的能力测试。
+W: 572 | /kwɪt wɜːrk/ | 辞掉工作；不干了 | quit work; quit your job
+X: She quit work to start her own business. | 她辞职去创业了。
+X: Many people quit work and move to Bali. | 很多人辞职搬到巴厘岛。
+W: 1365 | /rɪˈzaɪn/ | 辞职 | resign from a job; resign as manager
+X: The manager resigned after the big mistake. | 出了大错后经理辞职了。
+X: He resigned from his bank job to open a surf shop. | 他辞去银行的工作，开了一家冲浪店。
+W: 1362 | /ˌtestɪˈmoʊniəlz/ | 客户评价；推荐语 | customer testimonials
+X: Add three client testimonials to our website. | 在我们网站上加三条客户评价。
+X: The villa's website is full of happy testimonials. | 这家别墅的网站上全是满意的客户评价。
+W: 576 | /ˈsɜːrvɪs/ | 服务（名词） | good service; customer service
+X: Customer service is the heart of our business. | 客户服务是我们业务的核心。
+X: The service at that beach club is slow. | 那家海滩俱乐部的服务很慢。
+W: 574 | /ɪmˈplɔɪiː/ | 雇员；员工 | a new employee; employees and managers
+X: The company has fifty employees. | 公司有五十名员工。
+X: Every employee at the hotel speaks some English. | 酒店的每位员工都会说点英语。
+W: 577 | /sɜːrv/ | 服务；招待 | serve customers; serve food
+X: Our team serves clients in five countries. | 我们团队为五个国家的客户服务。
+X: This warung serves breakfast from six a.m. | 这家小吃店早上六点开始供应早餐。
+W: 575 | /ɪmˈplɔɪər/ | 雇主 | a good employer; your employer
+X: My employer pays for my English lessons. | 我的雇主为我付英语课学费。
+X: Hotels are the biggest employers in Bali. | 酒店是巴厘岛最大的雇主。
+W: 573 | /ɪmˈplɔɪmənt/ | 就业；雇佣 | full-time employment; employment contract
+X: Please read your employment contract carefully. | 请仔细阅读你的雇佣合同。
+X: Tourism gives employment to many Balinese people. | 旅游业为许多巴厘岛人提供了就业。

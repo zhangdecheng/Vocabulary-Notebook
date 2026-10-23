@@ -1,0 +1,74 @@
+# 69 | ㉑ 课外自学收集 | Ana's New Episode | Ana 的新一集
+P: Ana was making a new {episode|1344} for her YouTube channel. The {topic|1321} was "How to learn English in Bali." She asked Leo to help. "Can you talk about your study method? {Even a few minutes|1345} is fine." Leo was nervous, but he said yes.
+Z: Ana 在为她的 YouTube 频道做新的一集。主题是“如何在巴厘岛学英语”。她请 Leo 帮忙。“你能讲讲你的学习方法吗？哪怕只有几分钟也行。”Leo 有点紧张，但还是答应了。
+P: First, Leo made a {PPT|1320} for his {presentation|1356}. He used new {software|1359} that Ana gave him. It had three {sections|1349}: listening, speaking and words. "Your plan is very {balanced|1342}," Ana said. "That {makes sense|1355}."
+Z: 首先，Leo 为他的演讲做了一个 PPT。他用了 Ana 给他的新软件。PPT 分三个部分：听力、口语和单词。“你的计划很均衡，”Ana 说，“这很有道理。”
+P: In the video, Leo talked about {shadowing practice|1350}. "I listen to one sentence and repeat it right away, like a shadow. It helps me {grasp|1347} the rhythm of English." He also said, "I used to {hate|1363} speaking. Now I like it. Daily practice helps me {reduce stress|1348}."
+Z: 在视频里，Leo 讲了影子跟读练习。“我听一句话，然后马上跟着重复，就像影子一样。这帮助我掌握英语的节奏。”他还说：“我以前很讨厌开口说话，现在我喜欢了。每天练习能帮我减轻压力。”
+P: They filmed outside a small {temple|1361}. A {leaf|1364} fell on Leo's head, and a {rooster|1357} started to crow very loudly. Leo began to {laugh|1354}. Ana had to {shout|1358}, "Cut! Again!" They filmed it five times.
+Z: 他们在一座小寺庙外面拍摄。一片叶子落在 Leo 头上，一只公鸡开始大声打鸣。Leo 笑了起来。Ana 只好大喊：“停！再来一遍！”他们拍了五遍。
+P: A week later, many people had {heard about|1353} the video. Students from Ana's old {dorm|1343} in London wrote nice comments. "Next time, let's {explore|1346} a new topic," Ana said. "How about Bali food?" Leo smiled. "Only if Warren cooks."
+Z: 一周后，很多人都听说了这个视频。Ana 以前在伦敦住的宿舍里的同学都留了好评。“下次我们探索一个新话题吧，”Ana 说，“巴厘岛美食怎么样？”Leo 笑了：“除非 Warren 下厨。”
+W: 1344 | /ˈepɪsoʊd/ | （剧集的）一集；一段经历 | the first / final episode
+X: Our podcast has a new episode every Friday. | 我们的播客每周五更新一集。
+X: We watched an episode of a Balinese cooking show. | 我们看了一集巴厘岛烹饪节目。
+W: 1321 | /ˈtɑːpɪk/ | 话题；主题 | the topic of the meeting; change the topic
+X: The main topic of today's meeting is the budget. | 今天会议的主要议题是预算。
+X: Traffic is a common topic of talk in Bali. | 交通是巴厘岛常见的聊天话题。
+W: 1345 | /ˈiːvn ə fjuː ˈmɪnɪts/ | 哪怕只有几分钟 | even a few minutes a day
+X: Even a few minutes of planning can save hours. | 哪怕花几分钟做计划，也能省下好几个小时。
+X: Even a few minutes in the sea makes me happy. | 哪怕在海里待几分钟我也开心。
+W: 1320 | /ˌpiː piː ˈtiː/ | 演示文稿（PPT） | make a PPT (also: slides / a deck)
+X: Please send me the PPT before the meeting. | 请在会前把 PPT 发给我。
+X: Ana made a PPT about Bali's best beaches. | Ana 做了一个关于巴厘岛最佳海滩的 PPT。
+W: 1356 | /ˌpriːzenˈteɪʃn/ | 演讲；展示 | give a presentation
+X: I have to give a presentation to the client tomorrow. | 明天我要给客户做演示。
+X: The surf school gave a short safety presentation. | 冲浪学校做了一个简短的安全讲解。
+W: 1359 | /ˈsɔːftwer/ | 软件 | install software; new software
+X: The new software makes our reports faster. | 新软件让我们做报告更快了。
+X: I use free software to edit my Bali videos. | 我用免费软件剪辑我的巴厘岛视频。
+W: 1349 | /ˈsekʃn/ | 部分；节 | the first section; a section of the road
+X: Please read the second section of the contract. | 请读一下合同的第二部分。
+X: That section of the road to Ubud is closed. | 去乌布的那段路封了。
+W: 1342 | /ˈbælənst/ | 均衡的 | a balanced diet; a balanced plan
+X: The team is well balanced: young and old. | 团队很均衡：有年轻人也有老员工。
+X: Nasi campur is a balanced meal. | 什锦饭是营养均衡的一餐。
+W: 1355 | /meɪk sens/ | 讲得通；有道理 | It makes sense.; make sense of sth.
+X: Your plan makes sense to me. | 我觉得你的计划很有道理。
+X: It makes sense to rent a scooter in Bali. | 在巴厘岛租摩托车很合理。
+W: 1350 | /ˈʃædoʊɪŋ ˈpræktɪs/ | 影子跟读练习 | do shadowing practice
+X: I do shadowing practice on the train to work. | 我在上班的路上做影子跟读。
+X: Ten minutes of shadowing practice every morning helps a lot. | 每天早上十分钟的影子跟读很有帮助。
+W: 1347 | /ɡræsp/ | 理解；抓住 | grasp an idea; within your grasp
+X: It took me a week to grasp the new system. | 我花了一周才弄懂新系统。
+X: Grasp the rope when you get on the boat. | 上船时抓紧绳子。
+W: 1363 | /heɪt/ | 讨厌 | hate doing sth.
+X: I hate long meetings without a plan. | 我讨厌没有计划的冗长会议。
+X: Ketut hates the rain because she can't play outside. | Ketut 讨厌下雨，因为不能出去玩。
+W: 1348 | /rɪˈduːs stres/ | 减轻压力 | help (to) reduce stress
+X: A short walk at lunch can reduce stress. | 午休散散步能减压。
+X: Yoga in Ubud helps me reduce stress. | 在乌布做瑜伽帮我减压。
+W: 1361 | /ˈtempl/ | 寺庙 | visit a temple; a temple ceremony
+X: Our office is next to a small temple. | 我们办公室旁边有一座小寺庙。
+X: You need a sarong to enter the temple. | 进寺庙需要穿纱笼。
+W: 1364 | /liːf/ | 叶子 | a banana leaf; leaves fall
+X: Turn over a new leaf: start fresh this month. | 这个月重新开始吧。
+X: Food is often served on a banana leaf. | 食物常常放在香蕉叶上端上来。
+W: 1357 | /ˈruːstər/ | 公鸡 | a rooster crows
+X: A rooster crowed during our video call. | 我们视频通话时一只公鸡打鸣了。
+X: Roosters wake me up at 5 a.m. every day. | 公鸡每天早上五点把我吵醒。
+W: 1354 | /læf/ | 笑 | laugh at sth.; make sb. laugh
+X: The CEO made everyone laugh in the meeting. | CEO 在会上把大家都逗笑了。
+X: Ketut laughs at my Indonesian. | Ketut 笑我的印尼语。
+W: 1358 | /ʃaʊt/ | 喊叫 | shout at sb.; shout for help
+X: Please don't shout in the open office. | 在开放式办公室请不要大声喊。
+X: Surf teachers shout instructions from the beach. | 冲浪教练在海滩上大声喊指令。
+W: 1353 | /hɪr əˈbaʊt/ | 听说 | hear about sth. / sb.
+X: Did you hear about the new manager? | 你听说新经理的事了吗？
+X: I heard about this beach from a local. | 我是从一个本地人那里听说这个海滩的。
+W: 1343 | /dɔːrm/ | 宿舍 | live in a dorm; a dorm room
+X: The company has a dorm for new workers. | 公司有给新员工住的宿舍。
+X: Some hostels in Canggu have a ten-bed dorm. | 长谷的一些旅舍有十人间宿舍。
+W: 1346 | /ɪkˈsplɔːr/ | 探索；探讨 | explore new ideas; explore the island
+X: Let's explore new markets next year. | 我们明年来开拓新市场吧。
+X: Rent a scooter and explore the north of Bali. | 租辆摩托车去探索巴厘岛北部。

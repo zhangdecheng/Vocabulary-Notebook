@@ -45,7 +45,7 @@ details.set{margin-top:14px;background:#fff;border:1px solid var(--line);border-
 .stat{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin-top:10px}.stat div{background:#fbf6ef;border-radius:10px;padding:8px;text-align:center}.stat b{display:block;font-size:20px}
 .row{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;align-items:center}
 @media(max-width:600px){.front .w{font-size:32px}.card{padding:18px 14px}.acts button{font-size:14px}.keys{display:none}}
-</style><!--thm--><style>html[data-theme=dark]{color-scheme:dark;--bg:#1b1714;--card:#26201b;--ink:#ece3d8;--mut:#a89a8a;--line:#3d342c;--acc:#f08a52;--acc2:#4fbfae;--hl:#3d3220;--hlb:#c9993f;--star:#ff8a4c}
+.nw.bt{background:#e0703a!important;color:#fff!important}[data-theme=dark] .nw.bt{background:#c4523a!important}</style><!--thm--><style>html[data-theme=dark]{color-scheme:dark;--bg:#1b1714;--card:#26201b;--ink:#ece3d8;--mut:#a89a8a;--line:#3d342c;--acc:#f08a52;--acc2:#4fbfae;--hl:#3d3220;--hlb:#c9993f;--star:#ff8a4c}
 html[data-theme=dark] body{background:var(--bg);color:var(--ink)}
 html[data-theme=dark] .top{background:linear-gradient(135deg,#7a4a26 0%,#8a3f22 55%,#6e2f22 100%)}
 html[data-theme=dark] .lvl{background:#2e2620;color:#ffb48a}
@@ -94,14 +94,14 @@ html[data-theme=dark] a.c p,html[data-theme=dark] .f{color:var(--mut)}
 header.top{position:relative}
 @media print{#thm{display:none}}
 </style><!--/thm--></head><body>
-<header class="top"><!--thm--><button id="thm" type="button" aria-label="切换夜间/日间模式" title="切换夜间/日间模式"></button><!--/thm--><div class="in"><h1>🗂 单词卡 <small>Anki 间隔复习 · 1067 词</small></h1><span class="sp"></span><div class="cnt"><span class="n">新 <b id="cN">0</b></span><span class="l">学习 <b id="cL">0</b></span><span class="r">复习 <b id="cR">0</b></span></div><a href="index.html">首页</a> · <a href="stories.html">故事</a></div></header><!--thm--><script>(function(){var b=document.getElementById("thm"),h=document.documentElement;function p(){var d=h.getAttribute("data-theme")==="dark";b.textContent=d?"☀️ 日间":"🌙 夜间";var m=document.querySelector("meta[name=theme-color]");if(m)m.setAttribute("content",d?"#6e2f22":"#e0703a")}p();b.addEventListener("click",function(){var t=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",t);try{localStorage.setItem("wsv2-theme",t)}catch(e){}p()});window.addEventListener("storage",function(e){if(e.key==="wsv2-theme"&&e.newValue){h.setAttribute("data-theme",e.newValue);p()}});try{var q=matchMedia("(prefers-color-scheme: dark)");q.addEventListener&&q.addEventListener("change",function(e){var s;try{s=localStorage.getItem("wsv2-theme")}catch(x){}if(!s){h.setAttribute("data-theme",e.matches?"dark":"light");p()}})}catch(e){}})();</script><!--/thm-->
-<div class="bar"><select id="fTheme" aria-label="主题筛选"></select><label><input type="checkbox" id="fStar"> 只看 ★ 高频</label><label><input type="checkbox" id="fNew"> 只看 NEW</label>
+<header class="top"><!--thm--><button id="thm" type="button" aria-label="切换夜间/日间模式" title="切换夜间/日间模式"></button><!--/thm--><div class="in"><h1>🗂 单词卡 <small>Anki 间隔复习 · 1365 词</small></h1><span class="sp"></span><div class="cnt"><span class="n">新 <b id="cN">0</b></span><span class="l">学习 <b id="cL">0</b></span><span class="r">复习 <b id="cR">0</b></span></div><a href="index.html">首页</a> · <a href="stories.html">故事</a></div></header><!--thm--><script>(function(){var b=document.getElementById("thm"),h=document.documentElement;function p(){var d=h.getAttribute("data-theme")==="dark";b.textContent=d?"☀️ 日间":"🌙 夜间";var m=document.querySelector("meta[name=theme-color]");if(m)m.setAttribute("content",d?"#6e2f22":"#e0703a")}p();b.addEventListener("click",function(){var t=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",t);try{localStorage.setItem("wsv2-theme",t)}catch(e){}p()});window.addEventListener("storage",function(e){if(e.key==="wsv2-theme"&&e.newValue){h.setAttribute("data-theme",e.newValue);p()}});try{var q=matchMedia("(prefers-color-scheme: dark)");q.addEventListener&&q.addEventListener("change",function(e){var s;try{s=localStorage.getItem("wsv2-theme")}catch(x){}if(!s){h.setAttribute("data-theme",e.matches?"dark":"light");p()}})}catch(e){}})();</script><!--/thm-->
+<div class="bar"><select id="fTheme" aria-label="主题筛选"></select><label><input type="checkbox" id="fStar"> 只看 ★ 高频</label><label><input type="checkbox" id="fNew"> 只看 NEW</label><select id="fBatch" aria-label="新增批次"><option value="">全部批次</option><option value="10/23">10/23 新增（298）</option></select>
 <label>方向 <select id="sDir"><option value="en">英 → 中</option><option value="zh">中 → 英（反向）</option><option value="both">双向</option></select></label></div>
 <main><div class="card" id="card"></div>
 <div class="keys">快捷键：<kbd>空格</kbd> 显示答案 / 良好 · <kbd>1</kbd> 重来 <kbd>2</kbd> 困难 <kbd>3</kbd> 良好 <kbd>4</kbd> 简单 · <kbd>U</kbd> 美式 <kbd>K</kbd> 英式 · <kbd>Z</kbd> 撤销</div>
 <details class="set"><summary>⚙️ 设置 · 统计 · 备份</summary>
 <div class="row"><label>每日新卡 <input type="number" id="sNew" min="0" max="500" style="width:80px"></label>
-<label>新卡顺序 <select id="sOrder"><option value="story">按故事章节</option><option value="random">随机</option></select></label>
+<label>新卡顺序 <select id="sOrder"><option value="story">最新新增优先，其余按故事章节</option><option value="random">随机</option></select></label>
 <label><input type="checkbox" id="sCloze"> 正面显示故事挖空句</label>
 <label>发音 <select id="sAcc"><option value="us">🇺🇸 美式</option><option value="uk">🇬🇧 英式</option></select></label><label><input type="checkbox" id="sAuto"> 正面自动发音</label></div>
 <div class="stat" id="stat"></div>
@@ -117,7 +117,7 @@ if(LS._mem)setTimeout(function(){toast('浏览器禁止本地存储：进度只�
 function $(s,r){return (r||document).querySelector(s)}
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function ld(){try{return JSON.parse(LS.getItem(K))||null}catch(e){return null}}
-var DEF={v:1,cards:{},cfg:{newPerDay:20,dir:'en',cloze:1,theme:'',star:0,nw:0,acc:'us',order:'story'},day:{},log:[]};
+var DEF={v:1,cards:{},cfg:{newPerDay:20,dir:'en',cloze:1,theme:'',star:0,nw:0,acc:'us',order:'story',bt:''},day:{},log:[]};
 var S=ld()||JSON.parse(JSON.stringify(DEF));S.cards=S.cards||{};S.day=S.day||{};S.log=S.log||[];S.cfg=S.cfg||{};for(var k in DEF.cfg)if(S.cfg[k]===undefined)S.cfg[k]=DEF.cfg[k];if(!(S.cfg.newPerDay>0))S.cfg.newPerDay=20;
 function sv(){try{LS.setItem(K,JSON.stringify(S))}catch(e){toast('保存失败：存储空间不足')}}
 var toastT;function toast(m){var t=$('#toast');t.textContent=m;t.classList.add('show');clearTimeout(toastT);toastT=setTimeout(function(){t.classList.remove('show')},1800)}
@@ -125,7 +125,7 @@ var MIN=60000,DAY=86400000;
 function today(){var d=new Date();return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate()}
 function dayEnd(){var d=new Date();d.setHours(23,59,59,999);return d.getTime()}
 function ids(){return Object.keys(W).map(Number).sort(function(a,b){return a-b})}
-function inFilter(i){var w=W[i],c=S.cfg;if(c.theme&&w.t.indexOf(c.theme)<0)return false;if(c.star&&!w.s)return false;if(c.nw&&!w.new)return false;return true}
+function inFilter(i){var w=W[i],c=S.cfg;if(c.theme&&w.t.indexOf(c.theme)<0)return false;if(c.star&&!w.s)return false;if(c.nw&&!w.new)return false;if(c.bt&&w.bt!==c.bt)return false;return true}
 function cids(){var out=[],c=S.cfg;ids().forEach(function(i){if(!inFilter(i))return;if(c.dir==='en'||c.dir==='both')out.push(String(i));if(c.dir==='zh'||c.dir==='both')out.push('r'+i)});return out}
 function wid(cid){return Number(String(cid).replace('r',''))}
 function newDone(){return S.day[today()]||0}
@@ -135,7 +135,7 @@ function buildQueue(){
     if(!c){nw.push(cid);return}
     if(c.q==='l'){if(c.due<=end)learn.push(cid)}else if(c.due<=end)rev.push(cid)});
   if(S.cfg.order==='random'){nw.sort(function(){return Math.random()-.5})}
-  else nw.sort(function(a,b){var A=W[wid(a)],B=W[wid(b)];return (A.h-B.h)||(wid(a)-wid(b))||(a<b?-1:1)});
+  else nw.sort(function(a,b){var A=W[wid(a)],B=W[wid(b)];/*bt-anki*/var bA=A.bt?1:0,bB=B.bt?1:0;if(bA!==bB)return bB-bA;if(bA&&bB&&A.lk!==B.lk)return (B.lk||0)-(A.lk||0);return (A.h-B.h)||(wid(a)-wid(b))||(a<b?-1:1)});
   var left=Math.max(0,S.cfg.newPerDay-newDone());
   learn.sort(function(a,b){return S.cards[a].due-S.cards[b].due});rev.sort(function(a,b){return S.cards[a].due-S.cards[b].due});
   return {learn:learn,rev:rev,nw:nw.slice(0,left),nwAll:nw.length}
@@ -174,10 +174,10 @@ var cur=null,shown=false,undo=null;
 function counts(){var Q=buildQueue(),now=Date.now();$('#cN').textContent=Q.nw.length;$('#cL').textContent=Q.learn.length;$('#cR').textContent=Q.rev.length}
 function clozeSent(w){var s=w.ss||'',f=w.sf||'';var i=f?s.indexOf(f):-1;if(i<0)return null;return esc(s.slice(0,i))+'<span class="bl">'+esc(f.replace(/./g,'x'))+'</span>'+esc(s.slice(i+f.length))}
 function hiSent(w){var s=w.ss||'',f=w.sf||'',i=f?s.indexOf(f):-1;if(i<0)return esc(s);return esc(s.slice(0,i))+'<b>'+esc(f)+'</b>'+esc(s.slice(i+f.length))}
-function metaH(w,cid){var c=S.cards[cid];return '<div class="meta"><span class="tag">'+esc(w.t[0])+'</span>'+(w.s?'<span class="st">★ 高频</span>':'')+(w.new?'<span class="nw">NEW</span>':'')+'<span>'+(String(cid).charAt(0)==='r'?'中 → 英':'英 → 中')+'</span><span>'+(c?(c.q==='l'?'学习中':'复习 · 间隔 '+c.iv+' 天'):'新卡')+'</span></div>'}
+function metaH(w,cid){var c=S.cards[cid];return '<div class="meta"><span class="tag">'+esc(w.t[0])+'</span>'+(w.s?'<span class="st">★ 高频</span>':'')+(w.new?'<span class="nw">NEW</span>':'')+(w.bt?'<span class="nw bt">新 '+esc(w.bt)+' · 课堂 '+esc((w.d||[]).slice(-1)[0]||'')+'</span>':'')+'<span>'+(String(cid).charAt(0)==='r'?'中 → 英':'英 → 中')+'</span><span>'+(c?(c.q==='l'?'学习中':'复习 · 间隔 '+c.iv+' 天'):'新卡')+'</span></div>'}
 function render(){
   counts();var el=$('#card');cur=pick();shown=false;
-  if(!cur){var Q=buildQueue(),fl=S.cfg.theme||S.cfg.star||S.cfg.nw;el.innerHTML='<div class="done"><div class="big">'+(cids().length?'🎉':'🔍')+'</div><h2>'+(cids().length?'今天的卡片都完成了':'当前筛选下没有卡片')+'</h2><p>'+(Q.nwAll?'还有 '+Q.nwAll+' 张新卡未学。':(cids().length?'当前筛选下所有卡片都学过了。':''))+'</p><div class="row" style="justify-content:center">'+(Q.nwAll?'<button class="btn pri" id="more">再学 20 张新卡</button>':'')+(fl?'<button class="btn" id="clr">清除筛选（全部 '+Object.keys(W).length+' 词）</button>':'')+'</div></div>';return}
+  if(!cur){var Q=buildQueue(),fl=S.cfg.theme||S.cfg.star||S.cfg.nw||S.cfg.bt;el.innerHTML='<div class="done"><div class="big">'+(cids().length?'🎉':'🔍')+'</div><h2>'+(cids().length?'今天的卡片都完成了':'当前筛选下没有卡片')+'</h2><p>'+(Q.nwAll?'还有 '+Q.nwAll+' 张新卡未学。':(cids().length?'当前筛选下所有卡片都学过了。':''))+'</p><div class="row" style="justify-content:center">'+(Q.nwAll?'<button class="btn pri" id="more">再学 20 张新卡</button>':'')+(fl?'<button class="btn" id="clr">清除筛选（全部 '+Object.keys(W).length+' 词）</button>':'')+'</div></div>';return}
   var i=wid(cur),w=W[i],rev=String(cur).charAt(0)==='r',f;
   if(!rev){f='<div class="w" lang="en">'+esc(w.w)+'</div>'+(S.cfg.cloze&&clozeSent(w)?'<div class="cz">'+clozeSent(w)+'</div><div class="hint">故事原句（挖空）· 第 '+w.sh+' 章</div>':'<div class="hint">它是什么意思？</div>')}
   else{f='<div class="zh">'+esc(w.z)+'</div>'+(S.cfg.cloze&&clozeSent(w)?'<div class="cz">'+clozeSent(w)+'</div><div class="hint">用英文说出挖空处 · 第 '+w.sh+' 章</div>':'<div class="hint">用英文怎么说？</div>')}
@@ -206,7 +206,7 @@ function stats(){var cs=S.cards,n=0,l=0,r=0,m=0;Object.keys(cs).forEach(function
 document.addEventListener('click',function(e){
   if(e.target.closest('#showB')){showAns();return}
   if(e.target.closest('#more')){S.cfg.newPerDay=newDone()+20;$('#sNew').value=S.cfg.newPerDay;sv();render();stats();return}
-  if(e.target.closest('#clr')){S.cfg.theme='';S.cfg.star=0;S.cfg.nw=0;$('#fTheme').value='';$('#fStar').checked=false;$('#fNew').checked=false;sv();render();stats();return}
+  if(e.target.closest('#clr')){S.cfg.theme='';S.cfg.star=0;S.cfg.nw=0;S.cfg.bt='';if($('#fBatch'))$('#fBatch').value='';$('#fTheme').value='';$('#fStar').checked=false;$('#fNew').checked=false;sv();render();stats();return}
   var b=e.target.closest('.acts button');if(b){grade(Number(b.getAttribute('data-g')));return}
   var a=e.target.closest('.aud button');if(a&&cur){play(a.getAttribute('data-acc'),'w'+wid(cur),W[wid(cur)].w);return}
   var p=e.target.closest('.px');if(p){play(ACC,p.getAttribute('data-k'),p.getAttribute('data-t'));return}
@@ -221,7 +221,7 @@ var th=[];Object.keys(W).forEach(function(i){W[i].t.forEach(function(t){if(th.in
 $('#fTheme').innerHTML='<option value="">全部主题</option>'+th.map(function(t){return '<option>'+esc(t)+'</option>'}).join('');
 function bind(id,key,num){var el=$('#'+id);if(el.type==='checkbox')el.checked=!!S.cfg[key];else el.value=S.cfg[key];
   el.addEventListener('change',function(){S.cfg[key]=el.type==='checkbox'?(el.checked?1:0):(num?Math.max(0,parseInt(el.value)||0):el.value);if(key==='acc')ACC=S.cfg.acc;sv();render();stats()})}
-bind('fTheme','theme');bind('fStar','star');bind('fNew','nw');bind('sDir','dir');bind('sNew','newPerDay',1);bind('sCloze','cloze');bind('sAcc','acc');bind('sOrder','order');bind('sAuto','autoplay');
+bind('fTheme','theme');bind('fStar','star');bind('fNew','nw');bind('fBatch','bt');bind('sDir','dir');bind('sNew','newPerDay',1);bind('sCloze','cloze');bind('sAcc','acc');bind('sOrder','order');bind('sAuto','autoplay');
 $('#exp').onclick=function(){var b=new Blob([JSON.stringify(S)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='anki_progress_'+today()+'.json';document.body.appendChild(a);a.click();a.remove();toast('已导出备份')};
 $('#imp').onchange=function(){var f=this.files[0];if(!f)return;var r=new FileReader();r.onload=function(){try{var o=JSON.parse(r.result);if(!o.cards||!o.cfg)throw 0;S=o;S.cards=S.cards||{};S.day=S.day||{};S.log=S.log||[];S.cfg=S.cfg||{};for(var k in DEF.cfg)if(S.cfg[k]===undefined)S.cfg[k]=DEF.cfg[k];if(!(S.cfg.newPerDay>0))S.cfg.newPerDay=20;S.day=S.day||{};S.log=S.log||[];sv();location.reload()}catch(e){toast('导入失败：文件格式不对')}};r.readAsText(f)};
 $('#rst').onclick=function(){if(confirm('确定清空全部复习进度？建议先导出备份。')){LS.removeItem(K);location.reload()}};

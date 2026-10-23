@@ -1,0 +1,59 @@
+# 62 | ⑨ 城市生活 · 物品 · 服装 | The Broken Screen | 碎掉的屏幕
+P: On the way home, Leo dropped his phone. There was a {crack|722} across the screen, a small line from top to bottom. "Don't worry," Kenji said on the phone. "It's only the {screen protector|717}. A good {protector|716} breaks so your phone doesn't."
+Z: 回家的路上，Leo 把手机摔了。屏幕上有一条裂纹，从上到下一条细线。“别担心，”Kenji 在电话里说，“只是屏幕保护膜碎了。好的保护膜会替手机碎掉。”
+P: Kenji told him about a {phone shop|719} near Canggu. "It sells {electronics|718}, and it's open until 8 p.m. Go in that {direction|800}, past the temple." Leo got on his {motorbike|801}. In class, Sonia said {motorcycle|802} is the formal word, but everyone in Bali just says motorbike.
+Z: Kenji 跟他说长谷附近有一家手机店。“店里卖电子产品，开到晚上八点。往那个方向走，过了寺庙就是。”Leo 骑上了摩托。课上 Sonia 说过 motorcycle 是正式说法，但巴厘岛的人都只说 motorbike。
+P: At the traffic light, the light changed from green to {yellow|728}, then to {red|727}. Leo stopped. A truck went past, and {dust|726} flew into his eyes. "Bali roads," he said, and he waited.
+Z: 在红绿灯前，灯从绿变黄，又变红。Leo 停了下来。一辆卡车开过去，灰尘飞进了他的眼睛。“巴厘岛的路啊，”他说，然后等着。
+P: Outside the shop there was a blue {sign|721}. Leo read it slowly. "{Sign says|723}: {Grab parking|724}." So he could not leave his bike there. He found {parking|725} behind the shop. Another sign said "95% off!" Leo laughed. "Nothing in Bali is 95% off."
+Z: 店门外有一块蓝色牌子。Leo 慢慢读：“牌子上写着：Grab 专用停车点。”所以他不能把车停在那儿。他在店后面找到了停车的地方。另一块牌子写着“一折！”Leo 笑了：“巴厘岛没有东西会打一折。”
+P: The shop owner changed the screen protector in five minutes. It cost 50,000 rupiah. Before he left, Leo asked, "Excuse me, where is the {toilet|720}?" "Sorry, we don't have one," the man said. "Try the café next door."
+Z: 店主五分钟就换好了屏幕保护膜，花了五万印尼盾。离开前，Leo 问：“请问，厕所在哪儿？”“抱歉，我们这儿没有，”那人说，“去隔壁咖啡馆试试。”
+W: 722 | /kræk/ | 裂纹；裂开 | a crack in the screen; the glass cracked
+X: There is a crack in the meeting room window. | 会议室的窗户上有一条裂缝。
+X: The heat made cracks in the old road. | 高温让老路面出现了裂缝。
+W: 717 | /skriːn prəˈtektər/ | 屏幕保护膜 | put on a screen protector
+X: Every company phone comes with a screen protector. | 每部公司手机都配有屏幕保护膜。
+X: Sand can scratch your screen, so use a screen protector. | 沙子会刮花屏幕，所以要贴保护膜。
+W: 716 | /prəˈtektər/ | 保护装置；保护者 | a protector; a sun protector
+X: Use a surge protector for the office computers. | 办公室电脑要用防雷插座。
+X: Ketut's dog is her little protector. | Ketut 的狗是她的小保护者。
+W: 719 | /ˈfoʊn ʃɑːp/ | 手机店 | a phone shop near my house
+X: The phone shop can set up your work email. | 手机店可以帮你设置工作邮箱。
+X: There is a phone shop on every street in Kuta. | 库塔每条街都有手机店。
+W: 718 | /ɪˌlekˈtrɑːnɪks/ | 电子产品 | an electronics shop; consumer electronics
+X: Our company sells electronics online. | 我们公司在网上卖电子产品。
+X: Electronics are more expensive in Bali than in China. | 巴厘岛的电子产品比中国贵。
+W: 800 | /dəˈrekʃn/ | 方向 | in that direction; ask for directions
+X: Our project is going in the right direction. | 我们的项目在朝正确的方向发展。
+X: Can you tell me the direction to the beach? | 你能告诉我去海滩的方向吗？
+W: 801 | /ˈmoʊtərbaɪk/ | 摩托车（口语） | ride a motorbike; rent a motorbike
+X: I ride my motorbike to the office every day. | 我每天骑摩托上班。
+X: You can rent a motorbike for 70,000 a day. | 一天七万就能租一辆摩托车。
+W: 802 | /ˈmoʊtərsaɪkl/ | 摩托车（正式） | a motorcycle licence
+X: The form asks if you have a motorcycle licence. | 表格问你有没有摩托车驾照。
+X: Police in Bali check motorcycle licences. | 巴厘岛警察会查摩托车驾照。
+W: 728 | /ˈjeloʊ/ | 黄色 | a yellow light; yellow rice
+X: Use a yellow note for urgent tasks. | 紧急任务用黄色便签。
+X: Yellow rice is made for ceremonies in Bali. | 巴厘岛的仪式上会做黄米饭。
+W: 727 | /red/ | 红色 | a red light; a red flag
+X: The red numbers in the report are problems. | 报告里红色的数字是问题。
+X: A red flag on the beach means no swimming. | 海滩上插红旗表示禁止游泳。
+W: 726 | /dʌst/ | 灰尘；撒粉 | dust on the desk; dust with sugar
+X: Clean the dust off the keyboard. | 把键盘上的灰尘擦干净。
+X: In the dry season, there is dust everywhere. | 旱季到处都是灰尘。
+W: 721 | /saɪn/ | 招牌；标志 | a road sign; a shop sign
+X: Put a sign on the meeting room door. | 在会议室门上贴个牌子。
+X: The sign says "No drones" at the temple. | 寺庙的牌子上写着“禁止无人机”。
+W: 723 | /saɪn sez/ | 牌子上写着… | The sign says "Closed".
+X: The sign says the office is closed on Sunday. | 牌子上写着办公室周日不开门。
+X: The sign says "Beware of monkeys". | 牌子上写着“小心猴子”。
+W: 724 | /ɡræb ˈpɑːrkɪŋ/ | Grab 专用停车点 | wait at the Grab parking
+X: Ask the client to wait at the Grab parking. | 让客户在 Grab 停车点等。
+X: The mall has a Grab parking near the back door. | 商场后门附近有 Grab 停车点。
+W: 725 | /ˈpɑːrkɪŋ/ | 停车；停车场 | free parking; a parking ticket
+X: Is there parking at the office? | 办公室有停车位吗？
+X: Parking at the beach costs 5,000 rupiah. | 在海滩停车要五千印尼盾。
+W: 720 | /ˈtɔɪlət/ | 厕所 | Where is the toilet?; a public toilet
+X: The toilet on the 3rd floor is broken. | 三楼的厕所坏了。
+X: Some beach toilets cost 2,000 rupiah. | 有些海滩厕所要两千印尼盾。

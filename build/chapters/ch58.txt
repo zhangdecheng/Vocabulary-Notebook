@@ -1,0 +1,85 @@
+# 58 | ⑧ 商业 · 经济 · 竞赛排名 | Where Should Leo Study Next? | Leo 下一站去哪儿学？
+P: Leo's tourist {visa|553} ends next month. "I can {extend my visa|556} one more time," he told Sonia, "but then I must leave {Indonesia|393}." Sonia drew a table on the board with three {countries|390}: {Malaysia|989}, the {Philippines|988} and {Bali|392}.
+Z: Leo 的旅游签证下个月到期。“我可以再延一次签证，”他对 Sonia 说，“但之后就得离开印度尼西亚了。”Sonia 在白板上画了一张表，列了三个国家：马来西亚、菲律宾和巴厘岛。
+P: "Kuala Lumpur is {modern|982}, and the {language situation|983} is good. People use English every day," Sonia said. "Many schools there can help you get a {student pass|554}. But you need to apply {in advance|555}, about two months before." Leo wrote it down.
+Z: “吉隆坡很现代，语言环境也好，人们每天都用英语，”Sonia 说，“那里很多学校可以帮你办学生准证。但你需要提前申请，大概提前两个月。”Leo 记了下来。
+P: "What about {Cebu|396}?" Leo asked. "The schools are cheap." Kenji answered, "My friend studied there. The classes were good, but he said some areas are {not safe|987} at night. And you can't get a Philippine visa from here easily." Leo crossed it out.
+Z: “宿务呢？”Leo 问，“那里的学校很便宜。”Kenji 回答：“我朋友在那儿学过。课很好，但他说有些地方晚上不安全。而且在这里不太容易办菲律宾签证。”Leo 把它划掉了。
+P: Ana talked about her trips. "I went to {Nepal|394} for three days and {Sumatra|395} for a week. They were beautiful, but not good places to study English." She laughed. "Bali is small in {scale|552}, but it feels like the {centre|391} of Asia. People come from everywhere."
+Z: Ana 聊起了她的旅行。“我去尼泊尔玩了三天，去苏门答腊待了一周。那些地方很美，但不适合学英语。”她笑了，“巴厘岛规模不大，但感觉像亚洲的中心，人们从世界各地来。”
+P: Leo looked at the prices. Malaysia was more expensive. "Can I {afford|557} it?" he asked. Sonia wrote one more line: "{Scholarship: a program that pays everything for your school|1185}." "Some universities give a full {scholarship|551} for a {bachelor degree|980} and half for a {master degree|981}," she said. "But you need good grades."
+Z: Leo 看了看价格，马来西亚更贵。“我负担得起吗？”他问。Sonia 又写了一行：“奖学金：替你付清全部学费的项目。”“有些大学给学士学位全额奖学金，给硕士学位一半，”她说，“但你需要好成绩。”
+P: "I don't need a degree," Leo said. "I just want better English for work." Sonia nodded. "Then a language school with a {fixed time|984} every day is better for you." A week later, Leo got an {offer|550} from a school in Kuala Lumpur. He smiled, but he also felt sad. He loves Bali.
+Z: “我不需要学位，”Leo 说，“我只想为了工作把英语学好。”Sonia 点点头：“那每天有固定课时的语言学校更适合你。”一周后，Leo 收到了吉隆坡一所学校的录取通知。他笑了，但也有点难过——他爱巴厘岛。
+W: 553 | /ˈviːzə/ | 签证 | apply for a visa; a tourist visa
+X: HR will help you apply for a work visa. | 人事部会帮你申请工作签证。
+X: A visa on arrival in Bali is valid for 30 days. | 巴厘岛的落地签有效期是 30 天。
+W: 556 | /ɪkˈstend ˈviːzə/ | 延长签证 | extend a visa; extend your stay
+X: I need a day off to extend my visa. | 我需要请一天假去延签。
+X: You can extend your visa once at the immigration office in Denpasar. | 你可以在登巴萨的移民局延签一次。
+W: 393 | /ˌɪndəˈniːʒə/ | 印度尼西亚 | in Indonesia; Indonesian food
+X: Our company plans to open an office in Indonesia. | 我们公司计划在印尼开一个办公室。
+X: Indonesia has more than 17,000 islands. | 印度尼西亚有一万七千多个岛。
+W: 390 | /ˈkʌntri/ | 国家 | a foreign country; my home country
+X: Our clients come from ten different countries. | 我们的客户来自十个不同的国家。
+X: Which country are you from? | 你来自哪个国家？
+W: 989 | /məˈleɪʒə/ | 马来西亚 | study in Malaysia; Kuala Lumpur, Malaysia
+X: Our team in Malaysia speaks English at work. | 我们马来西亚的团队上班说英语。
+X: Many people fly from Bali to Malaysia for a visa run. | 很多人从巴厘岛飞马来西亚做签证续签旅行。
+W: 988 | /ˈfɪlɪpiːnz/ | 菲律宾 | the Philippines; in the Philippines
+X: Our call center is in the Philippines. | 我们的客服中心在菲律宾。
+X: Many English teachers in Bali come from the Philippines. | 巴厘岛很多英语老师来自菲律宾。
+W: 392 | /ˈbɑːli/ | 巴厘岛 | live in Bali; Bali belly
+X: We will hold the team retreat in Bali. | 我们会在巴厘岛举办团队静修活动。
+X: Bali is called the Island of the Gods. | 巴厘岛被称为众神之岛。
+W: 982 | /ˈmɑːdərn/ | 现代的 | a modern city; modern design
+X: The new office has a modern design. | 新办公室设计很现代。
+X: Seminyak has many modern cafés. | 水明漾有很多现代风格的咖啡馆。
+W: 983 | /ˈlæŋɡwɪdʒ ˌsɪtʃuˈeɪʃn/ | 语言环境 | a good language situation (more natural: language environment)
+X: The language situation at an international company helps you improve. | 外企的语言环境能帮你进步。
+X: In Bali the language situation is mixed: Balinese, Indonesian and English. | 巴厘岛的语言环境很混杂：巴厘语、印尼语和英语。
+W: 554 | /ˈstuːdnt pæs/ | 学生准证 | apply for a student pass
+X: The school needs your passport to apply for a student pass. | 学校需要你的护照来申请学生准证。
+X: With a student pass, you can stay in Malaysia for a year. | 有了学生准证，你可以在马来西亚待一年。
+W: 555 | /ɪn ədˈvæns/ | 提前；预先 | book in advance; pay in advance
+X: Please send the slides one day in advance. | 请提前一天发幻灯片。
+X: Book your Nusa Penida boat in advance in the high season. | 旺季要提前订去佩尼达岛的船。
+W: 396 | /seɪˈbuː/ | 宿务（菲律宾城市） | study in Cebu
+X: The company has a small team in Cebu. | 公司在宿务有一个小团队。
+X: Cebu is famous for cheap English schools. | 宿务以便宜的英语学校出名。
+W: 987 | /nɑːt seɪf/ | 不安全 | it's not safe to…; not safe at night
+X: It's not safe to share your password by email. | 用邮件分享密码不安全。
+X: It's not safe to swim when the red flag is up. | 挂红旗时游泳不安全。
+W: 394 | /nəˈpɔːl/ | 尼泊尔 | trekking in Nepal
+X: Our designer is taking two weeks off to visit Nepal. | 我们的设计师请了两周假去尼泊尔。
+X: Nepal has mountains, and Bali has beaches. | 尼泊尔有山，巴厘岛有海滩。
+W: 395 | /sʊˈmɑːtrə/ | 苏门答腊 | the island of Sumatra
+X: Our coffee supplier is in Sumatra. | 我们的咖啡供应商在苏门答腊。
+X: Sumatra is much bigger than Bali. | 苏门答腊比巴厘岛大得多。
+W: 552 | /skeɪl/ | 规模 | on a large / small scale; the scale of the problem
+X: We will test the idea on a small scale first. | 我们先小规模测试这个想法。
+X: The scale of the ceremony surprised the tourists. | 仪式的规模让游客吃惊。
+W: 391 | /ˈsentər/ | 中心（英式拼写 centre） | the centre of town; a shopping centre
+X: Our office is in the centre of the city. | 我们的办公室在市中心。
+X: Ubud is the centre of art in Bali. | 乌布是巴厘岛的艺术中心。
+W: 557 | /əˈfɔːrd/ | 负担得起 | can't afford it; afford to do sth.
+X: We can't afford to lose this client. | 我们承受不起失去这个客户。
+X: Can you afford a villa with a pool? | 你住得起带泳池的别墅吗？
+W: 1185 | /ˌskɑːlərʃɪp ə ˈproʊɡræm ðət peɪz ˈevriθɪŋ fər jʊr skuːl/ | 奖学金：替你付清全部学费的项目 | A scholarship is a program that pays for your school.
+X: Our company has a program that pays everything for your school if you study for work. | 公司有个项目：如果为工作进修，会全额报销学费。
+X: A Bali hotel offers a scholarship that pays everything for local students. | 巴厘岛一家酒店为本地学生提供全额奖学金。
+W: 551 | /ˈskɑːlərʃɪp/ | 奖学金 | get / win a scholarship; a full scholarship
+X: She won a scholarship to study business in London. | 她拿到了去伦敦读商科的奖学金。
+X: The surf school gives a scholarship to local kids. | 这所冲浪学校给本地孩子提供奖学金。
+W: 980 | /ˈbætʃələr dɪˌɡriː/ | 学士学位 | a bachelor's degree in business
+X: The job needs a bachelor's degree. | 这个职位要求学士学位。
+X: Ketut's cousin is doing a bachelor degree in tourism. | Ketut 的表姐在读旅游专业的学士学位。
+W: 981 | /ˈmæstər dɪˌɡriː/ | 硕士学位 | a master's degree; do a master degree
+X: My manager has a master degree from Australia. | 我的经理有澳大利亚的硕士学位。
+X: Ana wants to do a master degree after Bali. | Ana 想离开巴厘岛后去读硕士。
+W: 984 | /fɪkst taɪm/ | 固定时间 | at a fixed time; fixed hours
+X: We have a team call at a fixed time every Monday. | 我们每周一在固定时间开团队电话会。
+X: The boat leaves at a fixed time, so don't be late. | 船按固定时间出发，别迟到。
+W: 550 | /ˈɔːfər/ | 录取通知；工作邀约；提议 | get an offer; a job offer; accept an offer
+X: I got a job offer from a hotel in Seminyak. | 我收到了水明漾一家酒店的工作邀约。
+X: The school sent an offer letter by email. | 学校通过邮件发了录取通知。

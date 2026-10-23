@@ -1,0 +1,80 @@
+# 55 | ④ 格斗与运动 | Leo Joins a Gym | Leo 办了健身卡
+P: Kenji wanted to {prepare for|133} his next Muay Thai fight, so he took Leo to a new {gym|218} in Canggu. At the door, a {guard|216} checked their names. "The old gym is closed," Kenji said. "The staff are on {strike|217}. They want better pay."
+Z: Kenji 想为下一场泰拳比赛做准备，就带 Leo 去了长谷一家新开的健身房。门口有个保安核对了他们的名字。“原来那家健身房关门了，”Kenji 说，“员工在罢工，他们想要更高的工资。”
+P: At the front desk, Leo asked about {membership|223}. "We have a {one month card|224} for 600,000 rupiah," the girl said. Then a trainer asked two questions: "What is your {weight|235}? And your {height|236}?" "Seventy-eight kilos and one meter seventy-five," Leo said.
+Z: 在前台，Leo 问了会员的事。“我们有月卡，六十万印尼盾，”前台的女孩说。然后一位教练问了两个问题：“你的体重是多少？身高呢？”“七十八公斤，一米七五，”Leo 说。
+P: First, Leo walked on the {treadmill|219} for ten minutes. Then Kenji showed him the {Smith machine|220}, a {barbell|222} and some {dumbbells|221}. Leo picked up a fifteen-kilo dumbbell. "It's {heavy|225}!" he said. "Hold it {tightly|226}," Kenji said, "and don't drop it on your foot."
+Z: 首先，Leo 在跑步机上走了十分钟。然后 Kenji 给他介绍了史密斯机、杠铃和几只哑铃。Leo 拿起一只十五公斤的哑铃。“好重！”他说。“握紧，”Kenji 说，“别砸到脚。”
+P: The trainer explained his {method of|227} training. "Monday is {chest|229} and {shoulders|228}. Wednesday is {back|231} and {biceps|230}. Friday is legs and {abs|232}." Leo touched his stomach. "I want to lose some {fat|233} here," he said.
+Z: 教练讲了他的训练方法。“周一练胸和肩，周三练背和二头肌，周五练腿和腹肌。”Leo 摸了摸自己的肚子：“我想减掉这里的一些脂肪。”
+P: The next morning, everything {hurt|234}. Leo could not lift his arms to wash his hair. Kenji laughed on the phone. "That's normal. Come with me this afternoon. {Surfing|237} is a good way to rest your arms." "Surfing uses your arms too!" Leo said.
+Z: 第二天早上，Leo 浑身都疼，连抬手洗头都做不到。Kenji 在电话里笑了：“这很正常。今天下午跟我来，冲浪是放松手臂的好办法。”“冲浪也要用手臂啊！”Leo 说。
+W: 133 | /prɪˈper fɔːr/ | 为…做准备 | prepare for a meeting; prepare for an exam
+X: We need two days to prepare for the client visit. | 我们需要两天时间为客户来访做准备。
+X: Locals prepare for Nyepi for weeks. | 当地人会花好几周为静居日做准备。
+W: 216 | /ɡɑːrd/ | 保安；看守 | a security guard; guard the door
+X: Show your badge to the guard at the gate. | 在门口向保安出示你的胸卡。
+X: Every villa in this area has a night guard. | 这一带每栋别墅都有夜班保安。
+W: 217 | /straɪk/ | 罢工 | go on strike; be on strike
+X: The drivers went on strike, so the deliveries were late. | 司机们罢工了，所以送货晚了。
+X: There was a taxi strike at the airport last year. | 去年机场出租车罢工了。
+W: 218 | /dʒɪm/ | 健身房 | go to the gym; a gym membership
+X: Our office building has a small gym on the 5th floor. | 我们的办公楼五楼有个小健身房。
+X: Many gyms in Canggu are open air. | 长谷很多健身房是露天的。
+W: 219 | /ˈtredmɪl/ | 跑步机 | run on a treadmill; walk on the treadmill
+X: I sometimes answer calls while I walk on the treadmill. | 我有时一边在跑步机上走一边接电话。
+X: It's too hot to run outside, so I use the treadmill. | 外面太热不能跑步，所以我用跑步机。
+W: 220 | /ˈsmɪθ məˌʃiːn/ | 史密斯机 | use the Smith machine; Smith machine squats
+X: The gym bought a new Smith machine for the members. | 健身房给会员买了一台新的史密斯机。
+X: The Smith machine is safer when you train alone. | 一个人训练时用史密斯机更安全。
+W: 221 | /ˈdʌmbel/ | 哑铃 | lift dumbbells; a pair of dumbbells
+X: I keep a pair of dumbbells under my office desk. | 我在办公桌下放了一对哑铃。
+X: The hotel gym only has old dumbbells. | 酒店健身房只有旧哑铃。
+W: 222 | /ˈbɑːrbel/ | 杠铃 | lift a barbell; an empty barbell
+X: Start with an empty barbell and learn the movement. | 先用空杠铃，学会动作。
+X: Kenji can lift a heavy barbell above his head. | Kenji 能把很重的杠铃举过头顶。
+W: 223 | /ˈmembərʃɪp/ | 会员资格 | a gym membership; membership fee
+X: The company pays for our gym membership. | 公司给我们付健身房会员费。
+X: A yearly membership is cheaper than paying every day. | 年卡比每天付钱便宜。
+W: 224 | /wʌn mʌnθ kɑːrd/ | 月卡 | buy a one month card; a one month card for the gym
+X: I bought a one month card to try the new gym. | 我买了一张月卡试试新健身房。
+X: A one month card for the pool costs 300,000 rupiah. | 游泳池的月卡要三十万印尼盾。
+W: 225 | /ˈhevi/ | 重的 | heavy bags; heavy rain; a heavy workload
+X: My workload is very heavy this week. | 我这周的工作量很大。
+X: The rain in January is heavy. | 一月的雨很大。
+W: 226 | /ˈtaɪtli/ | 紧紧地 | hold sth. tightly; close tightly
+X: Close the box tightly before you send it. | 寄出前把箱子封紧。
+X: Hold the handle tightly on the boat. | 在船上要紧紧抓住把手。
+W: 227 | /ˈmeθəd əv/ | …的方法 | a method of payment; method of training
+X: What is your method of payment, cash or card? | 你用什么方式付款，现金还是刷卡？
+X: Pak Made has a simple method of cooking rice. | Pak Made 煮饭有一个简单的方法。
+W: 228 | /ˈʃoʊldər/ | 肩膀 | shoulder pain; on my shoulder
+X: Sitting at a computer all day gives me shoulder pain. | 整天坐在电脑前让我肩膀疼。
+X: Ketut sat on her father's shoulders to watch the parade. | Ketut 骑在爸爸肩上看游行。
+W: 229 | /tʃest/ | 胸部；胸肌 | chest day; chest pain
+X: If you have chest pain, stop working and see a doctor. | 如果胸口疼，停下工作去看医生。
+X: Monday is chest day at our gym. | 我们健身房周一是练胸日。
+W: 230 | /ˈbaɪseps/ | 二头肌 | train your biceps; big biceps
+X: He trains his biceps every lunch break. | 他每个午休都练二头肌。
+X: The surf teacher has huge biceps. | 冲浪老师的二头肌很大。
+W: 231 | /bæk/ | 背部 | back pain; a strong back
+X: A good chair is important for your back. | 好椅子对背部很重要。
+X: Carrying a surfboard is hard on my back. | 扛冲浪板对我的背很吃力。
+W: 232 | /æbz/ | 腹肌 | train your abs; six-pack abs
+X: Our trainer does a ten-minute abs class at lunch. | 我们的教练午休时上十分钟腹肌课。
+X: Everyone on Canggu beach seems to have abs. | 长谷海滩上好像每个人都有腹肌。
+W: 233 | /fæt/ | 脂肪 | lose fat; low fat; body fat
+X: This snack is low in fat but high in sugar. | 这款零食脂肪低但糖分高。
+X: Fried food in the night market has a lot of fat. | 夜市的油炸食品脂肪很多。
+W: 234 | /hɜːrt/ | 疼；使受伤 | my back hurts; hurt yourself
+X: My eyes hurt after eight hours on the screen. | 盯了八个小时屏幕，我的眼睛疼。
+X: I hurt my foot on the coral. | 我的脚被珊瑚弄伤了。
+W: 235 | /weɪt/ | 体重；重量 | lose weight; gain weight; the weight of the bag
+X: The weight limit for this parcel is five kilos. | 这个包裹的重量限制是五公斤。
+X: I gained weight because the food in Bali is so good. | 巴厘岛的食物太好吃，我胖了。
+W: 236 | /haɪt/ | 身高；高度 | height and weight; the height of the wall
+X: The form asks for your height and weight. | 表格要填你的身高和体重。
+X: The waves today are about two meters in height. | 今天的浪大约两米高。
+W: 237 | /ˈsɜːrfɪŋ/ | 冲浪 | go surfing; a surfing lesson
+X: Our team building day was a surfing lesson. | 我们的团建活动是一节冲浪课。
+X: Surfing in Uluwatu is for experts. | 在乌鲁瓦图冲浪是高手的事。

@@ -1,0 +1,79 @@
+# 59 | ⑧ 商业 · 经济 · 竞赛排名 | The Art of Bargaining | 砍价的艺术
+P: In class, Sonia wrote one big word: {Negotiation|558}. "Today we talk about bargaining," she said. "In the market, a {foreigner|1017} often gets a higher price. There is a {local price|562} and a tourist price." Leo nodded. "I always pay the tourist price."
+Z: 课上，Sonia 写了一个大词：谈判。“今天我们聊砍价，”她说，“在市场上，外国人常常拿到更高的价格。有本地价，也有游客价。”Leo 点点头：“我总是付游客价。”
+P: "Don't be shy. {Just have a try|1190}," Sonia said. "Smile, be polite and use some {sugaring|1016}: say nice things about the shop first. But remember the {social rules|1021}. Don't push too hard. The seller needs to eat too." Ana added, "And if you buy ten, ask for a {bulk price|563}."
+Z: “别害羞，就试一试，”Sonia 说，“微笑、有礼貌，再说点好话：先夸夸这家店。但要记住社交规矩，别砍得太狠，卖家也要吃饭。”Ana 补充道：“如果你买十件，就问能不能给批发价。”
+P: On Saturday, Leo went to Sukawati market to buy shirts. The {label|566} said 150,000 rupiah. Leo smiled. "Your shirts are beautiful. Can you give me a {discount|561}?" The woman said, "OK, {10% off|569}." Leo asked again. "{It depends on|1191} how many you buy," she said.
+Z: 周六，Leo 去苏卡瓦蒂市场买衬衫。标签上写着十五万印尼盾。Leo 笑着说：“你家的衬衫真漂亮，能便宜点吗？”女摊主说：“好吧，打九折。”Leo 又问了一次。“这要看你买多少件，”她说。
+P: In the end, Leo bought four shirts for 400,000. He felt {successful|567}. "My {cut off price|568} was 100,000 a shirt!" he told Kenji. Kenji laughed. "Good. But did she {trick|1022} you? I paid 80,000 last week." Leo did not know. But he enjoyed the game, and he felt {less stress|1018} than before.
+Z: 最后，Leo 花四十万买了四件衬衫。他觉得自己很成功。“我砍到了十万一件！”他告诉 Kenji。Kenji 笑了：“不错。但她有没有骗你？我上周八万就买了。”Leo 不知道。但他享受这个过程，而且压力比以前小多了。
+P: At the supermarket, things were different. There was no bargaining, but there were deals: {buy 1 get 1 free|1192}, a {voucher|559} for your next visit and a {coupon|560} for coffee. "This is a kind of {trade|565} too," Leo thought. "They give me a little, and I come back."
+Z: 在超市里情况就不一样了。不能砍价，但有各种优惠：买一送一、下次可用的代金券，还有咖啡优惠券。“这也是一种交易，”Leo 想，“他们给我一点甜头，我就会再来。”
+P: Leo saw a {famous|570} brand of shoes. They were twice the price of the shoes next to them. "Why {double pay|571} for the same shoes?" he asked Ana. "People pay for the name," she said. "For me, {value|564} is more important than a brand."
+Z: Leo 看到一个有名品牌的鞋，价格是旁边那双的两倍。“同样的鞋，为什么要付双倍的钱？”他问 Ana。“人们是在为名字买单，”她说，“对我来说，性价比比品牌更重要。”
+W: 558 | /nɪˌɡoʊʃiˈeɪʃn/ | 谈判；议价 | price negotiation; be in negotiation with sb.
+X: The negotiation with the supplier took three weeks. | 和供应商的谈判花了三周。
+X: Negotiation is normal at Bali's art markets. | 在巴厘岛的艺术市场讨价还价很正常。
+W: 1017 | /ˈfɔːrənər/ | 外国人 | as a foreigner; foreigners pay more
+X: As a foreigner, I need a work permit. | 作为外国人，我需要工作许可证。
+X: Some temples charge foreigners an entry fee. | 有些寺庙向外国人收门票。
+W: 562 | /ˈloʊkl praɪs/ | 本地价 | pay the local price
+X: The local price for the software is lower in Indonesia. | 这款软件在印尼的本地价更低。
+X: Ketut helps us get the local price at the market. | Ketut 帮我们在市场拿到本地价。
+W: 1190 | /dʒʌst hæv ə traɪ/ | 就试一试 | Just have a try!
+X: You've never used this tool? Just have a try. | 你没用过这个工具？就试一试吧。
+X: The durian smells bad, but just have a try. | 榴莲闻着臭，但试一试吧。
+W: 1016 | /ˈʃʊɡərɪŋ/ | 说好话；甜言蜜语地哄（课堂说法） | use some sugaring (more natural: sweet talk)
+X: A little sugaring before a hard request can help. | 提困难要求前说几句好话会有帮助。
+X: Ketut uses sugaring to get ice cream from her dad. | Ketut 用甜言蜜语从爸爸那儿要冰淇淋。
+W: 1021 | /ˈsoʊʃl ruːlz/ | 社交规矩；社会规则 | follow the social rules
+X: Every office has its own social rules. | 每个办公室都有自己的社交规矩。
+X: In Bali, don't touch people's heads; it's a social rule. | 在巴厘岛不要摸别人的头，这是社交规矩。
+W: 563 | /bʌlk praɪs/ | 批发价 | get a bulk price; buy in bulk
+X: We get a bulk price because we order 500 boxes. | 我们订了五百箱，所以拿到了批发价。
+X: The coconut seller gave us a bulk price for twenty. | 椰子摊主给我们二十个的批发价。
+W: 566 | /ˈleɪbl/ | 标签 | a price label; read the label
+X: Check the label before you send the parcel. | 寄包裹前检查一下标签。
+X: There is no price label on most things at the market. | 市场上大多数东西都没有价签。
+W: 561 | /ˈdɪskaʊnt/ | 折扣 | give a discount; a 20% discount
+X: Can you give us a discount if we sign for a year? | 如果签一年，能给我们打折吗？
+X: Many cafés give a discount to locals. | 很多咖啡馆给本地人打折。
+W: 569 | /ˌten pərˈsent ˈɔːf/ | 减价 X%（10% off＝打九折） | 10% off; 50% off everything
+X: All software plans are 20% off this week. | 本周所有软件套餐八折。
+X: The sign says 50% off, but the price is still high. | 牌子上写半价，但价格还是很高。
+W: 1191 | /ɪt dɪˈpendz ɑːn/ | 这取决于… | It depends on the price.
+X: "Can we finish today?" "It depends on the client." | “我们今天能完成吗？”“这取决于客户。”
+X: The ride to Ubud? It depends on the traffic. | 去乌布要多久？要看路况。
+W: 567 | /səkˈsesfl/ | 成功的 | a successful meeting; be successful
+X: The product launch was very successful. | 产品发布会非常成功。
+X: Her café in Canggu is very successful. | 她在长谷的咖啡馆很成功。
+W: 568 | /ˈkʌt ɔːf praɪs/ | 砍下来的价格 | get a good cut off price (also: knock sth. off)
+X: Our cut off price was 15% lower than their first offer. | 我们砍下来的价格比对方首次报价低了 15%。
+X: Ask the driver for a cut off price before you get in. | 上车前先跟司机把价格砍下来。
+W: 1022 | /trɪk/ | 骗；花招 | trick sb.; a trick
+X: Be careful; that email is a trick to get your password. | 小心，那封邮件是骗你密码的花招。
+X: The monkeys trick tourists and take their food. | 猴子会耍花招抢游客的食物。
+W: 1018 | /les stres/ | 压力更小 | less stress, more sleep
+X: A clear plan means less stress for the team. | 清晰的计划意味着团队压力更小。
+X: Life in Bali has less stress than life in Shanghai. | 巴厘岛的生活比上海压力小。
+W: 1192 | /baɪ wʌn ɡet wʌn friː/ | 买一送一 | a buy 1 get 1 free offer
+X: Our café started a buy 1 get 1 free coffee deal. | 我们咖啡馆推出了咖啡买一送一。
+X: The beer is buy 1 get 1 free during happy hour. | 欢乐时段啤酒买一送一。
+W: 559 | /ˈvaʊtʃər/ | 代金券 | a gift voucher; use a voucher
+X: The team got shopping vouchers as a bonus. | 团队拿到了购物券作为奖金。
+X: The spa gave us a voucher for our next massage. | 水疗店给了我们一张下次按摩用的代金券。
+W: 560 | /ˈkuːpɑːn/ | 优惠券 | a discount coupon; use a coupon
+X: Customers can use the coupon online. | 顾客可以在网上使用优惠券。
+X: I have a Grab coupon for my next ride. | 我有一张下次打车用的 Grab 优惠券。
+W: 565 | /treɪd/ | 交易；交换 | trade with sb.; a fair trade
+X: China and Indonesia trade a lot of goods. | 中国和印尼之间有大量的商品贸易。
+X: Kids at the beach trade shells with each other. | 海滩上的孩子们互相交换贝壳。
+W: 570 | /ˈfeɪməs/ | 有名的 | a famous brand; be famous for
+X: We work with a famous hotel brand. | 我们和一个知名酒店品牌合作。
+X: Bali is famous for its rice terraces. | 巴厘岛以梯田闻名。
+W: 571 | /ˈdʌbl peɪ/ | 付双倍的钱 | double pay on holidays
+X: Staff get double pay if they work on a holiday. | 员工节假日上班拿双倍工资。
+X: Why double pay for a taxi when Grab is cheaper? | Grab 更便宜，为什么要付双倍坐出租车？
+W: 564 | /ˈvæljuː/ | 价值；性价比 | good value (for money); the value of sth.
+X: This laptop is good value for money. | 这台笔记本电脑很划算。
+X: The set lunch at the warung is great value. | 小吃店的套餐性价比超高。

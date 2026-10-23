@@ -1,0 +1,59 @@
+# 56 | ⑤ 食物与饮食 | A New Roommate and a Big Ceremony | 新室友和一场大仪式
+P: Leo has a new {roommate|181}. His name is {Warren|182}, and he is from Australia. Warren is friendly and {warm|340}. On his first day, he brought a chocolate {cake|298} for everyone in the house.
+Z: Leo 有了一个新室友。他叫 Warren，来自澳大利亚。Warren 友好又热情。第一天，他就给屋里每个人带了一个巧克力蛋糕。
+P: On Saturday, Pak Made's family had a big {ceremony|180} at the temple. Pak Made asked Leo and Warren to help. "We need fruit for the offerings," he said. So the three of them went to the market in the morning.
+Z: 周六，Pak Made 家在寺庙里有一场大仪式。Pak Made 请 Leo 和 Warren 帮忙。“供品需要水果，”他说。于是三个人一早就去了市场。
+P: The market was full of color. There were {bananas|301}, red {apples|300}, small {lemons|302} and big green {watermelons|308}. "In class we called these {ball fruit|299}," Leo said, "because they are round like a ball." Pak Made bought two {kilos|309} of bananas and three watermelons.
+Z: 市场里五颜六色。有香蕉、红苹果、小柠檬，还有大大的绿色西瓜。“上课时我们管这些叫球状水果，”Leo 说，“因为它们圆得像个球。”Pak Made 买了两公斤香蕉和三个西瓜。
+P: A woman cut a watermelon open for them to try. Leo pointed at the red part. "What do you call the {fruit meat|304} in English?" "We say flesh, or {pulp|305}," Warren said. "And the black things are {seeds|306}." Ketut ate a big piece and spat the seeds into the grass.
+Z: 一个女摊主切开一个西瓜让他们尝。Leo 指着红色的部分：“这个‘果肉’英文怎么说？”“我们说 flesh，或者 pulp，”Warren 说，“那些黑色的是籽。”Ketut 吃了一大块，把籽吐到了草地上。
+P: It was very hot, so they stopped at a small stall. Warren ordered watermelon {juice|307}. Leo asked for warm {water|303} with lemon. "Warm water in this weather?" Warren asked. "It's good for my stomach," Leo said. "My mother always says that."
+Z: 天很热，他们在一个小摊前停下。Warren 点了西瓜汁。Leo 要了一杯温柠檬水。“这种天气喝温水？”Warren 问。“对胃好，”Leo 说，“我妈总这么说。”
+W: 181 | /ˈruːmmeɪt/ | 室友 | my roommate; share a room with a roommate
+X: My old roommate now works in our Jakarta office. | 我以前的室友现在在我们的雅加达办公室工作。
+X: Finding a good roommate in Canggu is not easy. | 在长谷找个好室友不容易。
+W: 182 | /ˈwɔːrən/ | 沃伦（人名） | Warren Buffett; my friend Warren
+X: Warren from finance will join the meeting. | 财务部的 Warren 会参加会议。
+X: Warren teaches surfing on the weekends. | Warren 周末教冲浪。
+W: 340 | /wɔːrm/ | 温暖的；热情的 | warm water; a warm welcome
+X: The team gave the new manager a warm welcome. | 团队热情地欢迎了新经理。
+X: The sea in Bali is warm all year. | 巴厘岛的海水一年四季都是暖的。
+W: 298 | /keɪk/ | 蛋糕 | a birthday cake; a piece of cake
+X: We bought a cake for Ana's last day at work. | 我们为 Ana 的最后一天上班买了一个蛋糕。
+X: This café sells the best coconut cake in Ubud. | 这家咖啡馆卖乌布最好吃的椰子蛋糕。
+W: 180 | /ˈserəmoʊni/ | 仪式；典礼 | a wedding ceremony; an opening ceremony
+X: The opening ceremony for the new office is at ten. | 新办公室的开业典礼十点开始。
+X: Balinese families have many ceremonies every year. | 巴厘岛家庭每年都有很多仪式。
+W: 301 | /bəˈnænə/ | 香蕉 | a bunch of bananas; banana bread
+X: I eat a banana before my morning meeting. | 早上开会前我吃一根香蕉。
+X: Fried bananas are a popular snack in Bali. | 炸香蕉是巴厘岛很受欢迎的小吃。
+W: 300 | /ˈæpl/ | 苹果 | an apple a day; Apple phone
+X: Our office gives everyone an Apple computer. | 我们公司给每个人配一台苹果电脑。
+X: Apples are expensive here because they come from far away. | 这里苹果很贵，因为是从很远的地方运来的。
+W: 302 | /ˈlemən/ | 柠檬 | lemon juice; a slice of lemon
+X: There is free lemon water in the meeting room. | 会议室里有免费的柠檬水。
+X: Add a little lemon to the grilled fish. | 在烤鱼上加一点柠檬。
+W: 308 | /ˈwɔːtərmelən/ | 西瓜 | a slice of watermelon; watermelon juice
+X: We had watermelon after the team lunch. | 团队午餐后我们吃了西瓜。
+X: Watermelon is cheap and sweet in the dry season. | 旱季的西瓜又便宜又甜。
+W: 299 | /bɔːl fruːt/ | 球状水果 | round ball fruit like melons
+X: In the photo, the ball fruit looks fresh and bright. | 照片里的球状水果看起来新鲜又鲜艳。
+X: Durian is a ball fruit with a strong smell. | 榴莲是一种气味很冲的球状水果。
+W: 309 | /ˈkiːloʊ/ | 公斤 | two kilos of rice; per kilo
+X: The parcel weighs three kilos. | 这个包裹重三公斤。
+X: Mangoes are 25,000 rupiah a kilo today. | 今天芒果两万五印尼盾一公斤。
+W: 304 | /fruːt miːt/ | 果肉（中式说法，英语多说 flesh / pulp） | the fruit meat → the flesh of the fruit
+X: In English menus, write "flesh" or "pulp", not "fruit meat". | 英文菜单上要写 flesh 或 pulp，不要写 fruit meat。
+X: The fruit meat of a mangosteen is white and sweet. | 山竹的果肉又白又甜。
+W: 305 | /pʌlp/ | 果肉；浆 | orange juice with pulp; fruit pulp
+X: The factory uses mango pulp for its drinks. | 这家工厂用芒果浆做饮料。
+X: Do you want your orange juice with or without pulp? | 你的橙汁要带果肉的还是不带的？
+W: 306 | /siːd/ | 种子；籽 | plant a seed; remove the seeds
+X: This small idea was the seed of our new project. | 这个小想法是我们新项目的种子。
+X: Papaya has lots of small black seeds. | 木瓜里有很多黑色小籽。
+W: 307 | /dʒuːs/ | 果汁 | fresh juice; orange juice
+X: The hotel serves fresh juice at breakfast. | 酒店早餐提供鲜榨果汁。
+X: A large juice at the beach costs 20,000 rupiah. | 海滩上一大杯果汁两万印尼盾。
+W: 303 | /ˈwɔːtər/ | 水 | a bottle of water; drinking water
+X: Please bring water for the long meeting. | 开长会请带上水。
+X: Don't drink the tap water in Bali. | 在巴厘岛别喝自来水。

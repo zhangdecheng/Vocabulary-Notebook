@@ -1,0 +1,79 @@
+# 61 | ⑨ 城市生活 · 物品 · 服装 | A Day in the Big City | 进城的一天
+P: On Tuesday, Leo rode his scooter to Denpasar. The {fuel tank|697} was only 20% full, so he stopped at a petrol station. "{I had filled my tank full|1182}," he told Warren later. "Good English, but say 'I filled my tank,'" Warren said. "And ride slowly to {save fuel|134}."
+Z: 周二，Leo 骑摩托去了登巴萨。油箱只剩 20%，于是他在加油站停了一下。“I had filled my tank full，”他后来跟 Warren 说。“英语不错，不过说 ‘I filled my tank’ 就行，”Warren 说，“还有，骑慢点能省油。”
+P: Warren works in an {office|698} in a tall building. It is on the {5th floor|709}. In the lobby, Leo saw the {stairs|704} and two {elevators|706}. He pressed the {button|711} and waited. A man walked in after him. He was very tall, about 190 {centimetres|715}.
+Z: Warren 在一栋高楼里的办公室上班，在五楼。在大堂里，Leo 看到了楼梯和两部电梯。他按下按钮等着。一个男人跟在他后面走进来，他非常高，大概一米九。
+P: Warren met him at the door. "Welcome! Did you take the {lift|707}?" "The what?" Leo asked. "The lift. That's British English for elevator," Warren said. "When I lived in London, I took the {underground|708} every day. You Americans say subway." "I'm not American," Leo laughed.
+Z: Warren 在门口迎接他。“欢迎！你是坐 lift 上来的吗？”“什么？”Leo 问。“lift，就是英式英语里的电梯，”Warren 说，“我住在伦敦的时候，每天坐地铁（underground）。你们美国人说 subway。”“我又不是美国人，”Leo 笑了。
+P: "When I first went to London, I stayed in a {youth hostel|699}," Warren said. "Ten beds in one room. Never again!" Then he asked Leo to help him {take something up|714} to the roof: a big box of {computers|702}. The box was heavy, so they used the {escalator|705} in the mall next door and then the lift.
+Z: “我刚去伦敦的时候，住在青年旅舍，”Warren 说，“一个房间十张床，再也不住了！”然后他请 Leo 帮忙把一样东西拿到楼顶：一大箱电脑。箱子很重，他们先坐隔壁商场的自动扶梯，再坐电梯。
+P: After work, they went shopping in the mall. Leo needed a new {phone charger|701}. Ana wanted {AirPods|703} for her birthday. Leo tried on a shirt, but the {size|700} was wrong. On the door of the shop there were two signs: {push|712} and {pull|713}. Leo pushed when he needed to pull. Everybody looked at him.
+Z: 下班后，他们去商场购物。Leo 需要一个新的手机充电器。Ana 想要一副 AirPods 当生日礼物。Leo 试了一件衬衫，但尺码不对。店门上有两个标志：推和拉。Leo 该拉的时候却推了，大家都看着他。
+P: At six, it was time to {depart|710}. The traffic in Denpasar was terrible. "{Good luck|1178} on the road!" Warren said. Leo smiled. "I don't need luck. I need a helicopter."
+Z: 六点，该出发回去了。登巴萨的交通糟透了。“路上祝你好运！”Warren 说。Leo 笑了：“我不需要运气，我需要一架直升机。”
+W: 697 | /ˈfjuːəl tæŋk/ | 油箱 | fill the fuel tank; an empty fuel tank
+X: Check the fuel tank before you drive the company car. | 开公司车之前检查一下油箱。
+X: Scooters in Bali have small fuel tanks. | 巴厘岛的摩托车油箱很小。
+W: 1182 | /aɪ fɪld maɪ tæŋk fʊl/ | 我把油箱加满了（标准：I filled my tank / I filled it up） | I filled my tank (up).
+X: I filled my tank before the long drive to the client. | 去客户那儿长途开车前我把油加满了。
+X: I filled my tank in Ubud because petrol is cheaper there. | 我在乌布加满了油，那里油价便宜。
+W: 134 | /seɪv ˈfjuːəl/ | 省油 | save fuel; drive slowly to save fuel
+X: The new delivery routes help us save fuel. | 新的配送路线帮我们省油。
+X: Turn off the engine at the red light to save fuel. | 等红灯时熄火可以省油。
+W: 698 | /ˈɔːfɪs/ | 办公室 | at the office; office hours
+X: I'm at the office until six. | 我在办公室待到六点。
+X: Many people in Bali use a coworking space as an office. | 巴厘岛很多人把共享办公空间当办公室。
+W: 709 | /ðə fɪfθ ˈflɔːr/ | 五楼 | on the 5th floor (not "5 floor")
+X: The meeting room is on the 5th floor. | 会议室在五楼。
+X: Our hotel room was on the 5th floor with a sea view. | 我们的酒店房间在五楼，看得到海。
+W: 704 | /sterz/ | 楼梯 | take the stairs; go up the stairs
+X: I take the stairs to get some exercise at work. | 我上班走楼梯，顺便锻炼一下。
+X: There are 1,700 stairs at Lempuyang Temple. | 兰普扬寺有 1700 级台阶。
+W: 706 | /ˈelɪveɪtər/ | 电梯（美式） | take the elevator; the elevator is broken
+X: The elevator is broken, so we'll meet on the 2nd floor. | 电梯坏了，我们在二楼见。
+X: Most villas in Bali don't have an elevator. | 巴厘岛大多数别墅没有电梯。
+W: 711 | /ˈbʌtn/ | 按钮 | press / push the button
+X: Press the green button to join the call. | 按绿色按钮加入通话。
+X: Push the button and the driver will stop. | 按一下按钮，司机就会停车。
+W: 715 | /ˈsentɪmiːtər/ | 厘米（英式拼写 centimetre） | 180 centimetres tall
+X: The screen is 40 centimetres wide. | 屏幕宽 40 厘米。
+X: The rain was ten centimetres deep on the road. | 路上的积水有十厘米深。
+W: 707 | /lɪft/ | 电梯（英式） | take the lift
+X: Take the lift to the 3rd floor for reception. | 坐电梯到三楼前台。
+X: Our hotel had a glass lift with a sea view. | 我们的酒店有一部能看海的玻璃电梯。
+W: 708 | /ˈʌndərɡraʊnd/ | 地铁（英式） | take the underground; the London Underground
+X: In London, I take the underground to work. | 在伦敦我坐地铁上班。
+X: Bali has no underground, only scooters and cars. | 巴厘岛没有地铁，只有摩托车和汽车。
+W: 699 | /ˈjuːθ hɑːstl/ | 青年旅舍 | stay in a youth hostel
+X: Interns sometimes stay in a youth hostel near the office. | 实习生有时住在公司附近的青年旅舍。
+X: Youth hostels in Canggu cost about 150,000 a night. | 长谷的青年旅舍大概一晚十五万。
+W: 714 | /teɪk ˈsʌmθɪŋ ʌp/ | 把某物拿上去 | take the boxes up; take sth. up to the 5th floor
+X: Can you take these files up to the manager? | 你能把这些文件拿上去给经理吗？
+X: The porter will take your bags up to your room. | 行李员会把你的包拿到你房间。
+W: 702 | /kəmˈpjuːtər/ | 电脑 | a computer; turn on the computer
+X: Please restart your computer before the update. | 更新前请重启电脑。
+X: I work on my computer in a beach café. | 我在海滩咖啡馆用电脑工作。
+W: 705 | /ˈeskəleɪtər/ | 自动扶梯 | take the escalator; go up the escalator
+X: The escalator to the meeting hall is closed. | 去会议厅的自动扶梯停了。
+X: Kids love the escalator at the Kuta mall. | 孩子们喜欢库塔商场的自动扶梯。
+W: 701 | /ˈfoʊn ˌtʃɑːrdʒər/ | 手机充电器 | forget your phone charger
+X: Can I borrow your phone charger for the meeting? | 开会时能借一下你的手机充电器吗？
+X: I left my phone charger at the villa. | 我把手机充电器落在别墅了。
+W: 703 | /ˈerpɑːdz/ | AirPods 无线耳机 | wear AirPods
+X: Please take out your AirPods in the meeting. | 开会时请把耳机摘下来。
+X: I lost one AirPod in the sea. | 我有一只 AirPods 掉进海里了。
+W: 700 | /saɪz/ | 尺码；大小 | the wrong size; What size are you?
+X: What size are the company T-shirts? | 公司 T 恤是什么尺码？
+X: Clothes in the market are often one size only. | 市场上的衣服常常只有一个尺码。
+W: 712 | /pʊʃ/ | 推 | push the door; push the button
+X: Don't push the team too hard. | 别把团队逼得太紧。
+X: Push your scooter when the road is too steep. | 路太陡时就推着摩托车走。
+W: 713 | /pʊl/ | 拉 | pull the door; pull over
+X: Pull the door; the sign says so. | 拉门，牌子上写着呢。
+X: Ask the driver to pull over near the temple. | 让司机在寺庙附近靠边停车。
+W: 710 | /dɪˈpɑːrt/ | 出发；离开 | depart at 6; the flight departs from…
+X: Our flight to Jakarta departs at 7 a.m. | 我们飞雅加达的航班早上七点起飞。
+X: The fast boat departs from Sanur every morning. | 快艇每天早上从沙努尔出发。
+W: 1178 | /ɡʊd lʌk/ | 祝好运 | Good luck with…!; Good luck on…!
+X: Good luck with your presentation! | 祝你演讲顺利！
+X: Good luck on the waves today! | 今天冲浪祝好运！

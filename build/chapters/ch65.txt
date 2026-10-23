@@ -1,0 +1,76 @@
+# 65 | ⑪ 人际 · 学习 · 观点 | Kenji's Big Exam | Kenji 的大考
+P: Kenji wants to work in Australia, so he needs an {IELTS|1000} score of 6.5. The {exam|1001} was on Saturday. On Friday night, he could not sleep. "Is it {true|1002} that the speaking test is the hardest part?" he asked Leo. "For me, yes," Leo said.
+Z: Kenji 想去澳大利亚工作，所以他需要雅思 6.5 分。考试在周六。周五晚上他睡不着。“口语考试是最难的部分，这是真的吗？”他问 Leo。“对我来说是的，”Leo 说。
+P: Ana told them about her school days. "In {primary school|1003} I hated English. In {high school|978} I had a great teacher. Then in {college|1023} I studied in London for a year, and I started to speak {fluently|1004}." "So it takes time," Kenji said. "Yes, but every year it gets easier."
+Z: Ana 讲起了她上学的时候。“小学时我讨厌英语。高中时我遇到了一位很棒的老师。后来上大学时我去伦敦学了一年，就开始能流利地说了。”“所以这需要时间，”Kenji 说。“是的，但每年都会更容易一点。”
+P: On Saturday morning, Leo {brought|1089} Kenji a coffee. Kenji was nervous. His belt felt {tighter|1084} than usual. "Breathe," Leo said. "In the speaking test, they ask about your {hobby|1024}, your city and your plans. Just talk like you talk to us."
+Z: 周六早上，Leo 给 Kenji 带了一杯咖啡。Kenji 很紧张，他感觉腰带比平时更紧了。“深呼吸，”Leo 说，“口语考试会问你的爱好、你的城市和你的计划。就像跟我们聊天一样说就行。”
+P: After the exam, Kenji came out with a strange face. "The examiner asked me about {mass|1088} tourism! I said Bali is {dangerous|1005} because there are too many {people|1019}. Then I said one more {thing|1020}... I don't remember what. My answer was {worse|1090} than in practice." "{A few|1087} mistakes are normal," Leo said.
+Z: 考完后，Kenji 一脸奇怪地走出来。“考官问我大众旅游的问题！我说巴厘岛很危险，因为人太多了。然后我又说了一件事……我都不记得是什么了。我的回答比练习时差。”“犯几个错很正常，”Leo 说。
+P: Two weeks later, the {result|1006} came by email. Kenji got 6.5! He shouted so loudly that the {delivery|1015} man outside dropped his food. "All that practice was not {useless|1007}," Kenji said. "Only {a quarter of|1086} my class got 6.5." Sonia smiled. "Celebrate tonight. Tomorrow, back to work."
+Z: 两周后，成绩通过邮件发来了。Kenji 考了 6.5！他喊得太大声，门外送外卖的人把餐都掉了。“那些练习没有白费，”Kenji 说，“我们班只有四分之一的人考到了 6.5。”Sonia 笑了：“今晚庆祝吧。明天继续努力。”
+P: That night they had dinner at seven. Kenji arrived at {a quarter|1085} past seven, fifteen minutes late. "Sorry," he said. "I was calling my mother."
+Z: 那天晚上他们七点吃晚饭。Kenji 七点一刻才到，晚了十五分钟。“抱歉，”他说，“我在给我妈打电话。”
+W: 1000 | /ˈaɪelts/ | 雅思考试 | take the IELTS; an IELTS score
+X: The job needs an IELTS score of 6.5. | 这个职位要求雅思 6.5 分。
+X: Many students in Bali study for the IELTS. | 巴厘岛很多学生在备考雅思。
+W: 1001 | /ɪɡˈzæm/ | 考试 | take / pass / fail an exam
+X: I have a safety exam at work next week. | 下周我在公司有个安全考试。
+X: Ketut has a math exam tomorrow. | Ketut 明天有数学考试。
+W: 1002 | /truː/ | 真的；真实的 | Is it true that…?; come true
+X: Is it true that the meeting is cancelled? | 会议取消了，是真的吗？
+X: It's true: the sunset at Uluwatu is amazing. | 是真的：乌鲁瓦图的日落很美。
+W: 1003 | /ˈpraɪmeri skuːl/ | 小学 | in primary school; a primary school teacher
+X: My colleague was a primary school teacher before. | 我的同事以前是小学老师。
+X: Ketut goes to the primary school near the temple. | Ketut 在寺庙附近的小学上学。
+W: 978 | /ˈhaɪ skuːl/ | 高中 | in high school; a high school student
+X: Our intern is still in high school. | 我们的实习生还在上高中。
+X: High school students in Bali wear white and grey. | 巴厘岛的高中生穿白色和灰色校服。
+W: 1023 | /ˈkɑːlɪdʒ/ | 大学；学院 | go to college; in college
+X: I learned this software in college. | 我是在大学里学的这个软件。
+X: Ana's sister is at college in Madrid. | Ana 的妹妹在马德里上大学。
+W: 1004 | /ˈfluːəntli/ | 流利地 | speak English fluently
+X: Our new manager speaks three languages fluently. | 我们的新经理能流利地说三种语言。
+X: The tour guide speaks Japanese fluently. | 那个导游日语说得很流利。
+W: 1089 | /brɔːt/ | 带来（bring 的过去式） | brought sth. to sb.
+X: She brought cake to the meeting. | 她带了蛋糕来开会。
+X: The rain brought cooler weather. | 这场雨带来了凉爽的天气。
+W: 1084 | /ˈtaɪtər/ | 更紧的 | tighter rules; a tighter budget
+X: We have a tighter budget this year. | 我们今年预算更紧了。
+X: After Bali food, my jeans feel tighter. | 吃了巴厘岛的东西，我的牛仔裤变紧了。
+W: 1024 | /ˈhɑːbi/ | 业余爱好 | my hobby is…; have a hobby
+X: In the interview they asked about my hobbies. | 面试时他们问了我的爱好。
+X: Pak Made's hobby is keeping birds. | Pak Made 的爱好是养鸟。
+W: 1088 | /mæs/ | 大量；大众的 | mass tourism; a mass of people
+X: We sent a mass email to all our customers. | 我们给所有客户群发了一封邮件。
+X: Mass tourism is changing Bali. | 大众旅游正在改变巴厘岛。
+W: 1005 | /ˈdeɪndʒərəs/ | 危险的 | dangerous roads; it's dangerous to…
+X: It's dangerous to click links in strange emails. | 点陌生邮件里的链接很危险。
+X: The current at this beach is dangerous. | 这片海滩的水流很危险。
+W: 1019 | /ˈpiːpl/ | 人们 | many people; people say…
+X: People in our team come from five countries. | 我们团队的人来自五个国家。
+X: People in Bali smile a lot. | 巴厘岛的人很爱笑。
+W: 1020 | /θɪŋ/ | 东西；事情 | the first thing; one more thing
+X: One more thing: please send the file today. | 还有一件事：请今天把文件发过来。
+X: The best thing about Bali is the people. | 巴厘岛最好的东西是这里的人。
+W: 1090 | /wɜːrs/ | 更差的（bad 的比较级） | worse than; get worse
+X: The internet is worse when it rains. | 下雨时网络更差。
+X: The traffic is worse than last year. | 交通比去年更糟了。
+W: 1087 | /fjuː/ | 少数；几个 | a few minutes; a few people
+X: Can I have a few minutes of your time? | 能耽误你几分钟吗？
+X: There are only a few tourists here in the morning. | 早上这里只有几个游客。
+W: 1006 | /rɪˈzʌlt/ | 结果 | the result of; as a result
+X: The test results will come next week. | 测试结果下周出来。
+X: As a result of the rain, the ceremony was moved. | 因为下雨，仪式改期了。
+W: 1015 | /dɪˈlɪvəri/ | 送货；外卖 | food delivery; a delivery man
+X: The delivery of the new laptops is late. | 新电脑的送货晚了。
+X: Food delivery in Bali is fast and cheap. | 巴厘岛的外卖又快又便宜。
+W: 1007 | /ˈjuːsləs/ | 无用的 | useless information; It's useless to…
+X: This old printer is useless. | 这台旧打印机没用了。
+X: An umbrella is useless in a Bali storm. | 巴厘岛的暴风雨里伞根本没用。
+W: 1086 | /ə ˈkwɔːrtər əv/ | …的四分之一 | a quarter of the team
+X: A quarter of our clients are from Australia. | 我们四分之一的客户来自澳大利亚。
+X: A quarter of the island's visitors come in July and August. | 岛上四分之一的游客在七八月来。
+W: 1085 | /ˈkwɔːrtər/ | 四分之一；一刻钟 | a quarter past seven; a quarter of an hour
+X: The call starts at a quarter past nine. | 电话会九点一刻开始。
+X: The boat leaves at a quarter to six. | 船五点四十五分开。

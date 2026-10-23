@@ -1,0 +1,45 @@
+# 66 | ⑯ 时间与日程 | What Time Is It? | 现在几点？
+P: Sonia's lesson today was about time. "We use {o'clock|1263} only for full hours," she said. "Nine o'clock, yes. Nine fifteen o'clock, no." She wrote on the board: 9:00 = nine {a.m.|1264}, 14:30 = two thirty {p.m.|1265}.
+Z: Sonia 今天的课讲时间。“o'clock 只用于整点，”她说，“nine o'clock 可以，nine fifteen o'clock 不行。”她在白板上写：9:00 = 上午九点，14:30 = 下午两点半。
+P: "In British English, 11:15 is {a quarter past|1266} eleven, and 14:30 is {half past|1267} two. 19:45 is {a quarter to|1268} eight." Kenji frowned. "Why eight? It's seven forty-five!" "Because it's fifteen minutes before eight," Sonia said. "You can also say {quarter to|1274} eight."
+Z: “在英式英语里，11:15 是 a quarter past eleven（十一点一刻），14:30 是 half past two（两点半），19:45 是 a quarter to eight（差一刻八点）。”Kenji 皱起眉头：“为什么是八点？明明是七点四十五！”“因为那是八点前十五分钟，”Sonia 说，“你也可以说 quarter to eight。”
+P: Leo {always|1269} gets confused with "to" and "past". "{It makes me feel stressed out.|1187}" he said. "Then practice it three times {per week|1272}," Sonia said. "Look at your watch and say the time in English."
+Z: Leo 总是把 to 和 past 搞混。“这让我压力很大，”他说。“那就每周练三次，”Sonia 说，“看看手表，用英语说出时间。”
+P: That evening, Leo's phone rang {at the moment of|1284} sunset. It was Kenji. "Where are you? The fire dance starts at a quarter to seven!" Leo looked at his watch. It was 6:40. He ran to the beach and arrived {at last|1188}, just in time.
+Z: 那天傍晚，就在日落的那一刻，Leo 的手机响了。是 Kenji：“你在哪儿？火舞六点四十五开始！”Leo 看了看手表，已经 6:40 了。他一路跑到海滩，终于赶到了，正好来得及。
+W: 1263 | /əˈklɑːk/ | …点钟（只用于整点） | at nine o'clock
+X: The meeting starts at ten o'clock. | 会议十点整开始。
+X: The temple opens at eight o'clock. | 寺庙八点开门。
+W: 1264 | /ˌeɪ ˈem/ | 上午 | at 9 a.m.
+X: Please call me before 11 a.m. | 请在上午十一点前给我打电话。
+X: The sunrise trek starts at 4 a.m. | 日出徒步凌晨四点出发。
+W: 1265 | /ˌpiː ˈem/ | 下午；晚上 | at 3 p.m.
+X: The client call is at 2 p.m. Bali time. | 客户电话会是巴厘岛时间下午两点。
+X: The beach club closes at 11 p.m. | 海滩俱乐部晚上十一点关门。
+W: 1266 | /ə ˈkwɔːrtər pæst/ | …点过一刻 | a quarter past nine
+X: Let's meet at a quarter past nine. | 我们九点一刻见。
+X: The ferry left at a quarter past ten. | 渡轮十点一刻开走了。
+W: 1267 | /hæf pæst/ | …点半 | half past two
+X: Lunch is at half past twelve. | 午饭十二点半。
+X: The yoga class starts at half past seven. | 瑜伽课七点半开始。
+W: 1268 | /ə ˈkwɔːrtər tuː/ | 差一刻到…点 | a quarter to eight
+X: The report must be ready by a quarter to five. | 报告必须在四点四十五分前准备好。
+X: Sunset is at a quarter to seven today. | 今天日落是六点四十五分。
+W: 1274 | /ˈkwɔːrtər tuː/ | 差一刻（口语可省 a） | quarter to five
+X: It's quarter to five; let's finish the meeting. | 四点四十五了，我们结束会议吧。
+X: The bus comes at quarter to eight. | 公交车七点四十五分来。
+W: 1269 | /ˈɔːlweɪz/ | 总是 | always do sth.; as always
+X: She is always on time for meetings. | 她开会总是准时。
+X: It always rains in the afternoon in January. | 一月的下午总是下雨。
+W: 1187 | /ɪt meɪks mi fiːl strest ˈaʊt/ | 这让我压力很大 | It makes me feel stressed out.
+X: This deadline makes me feel stressed out. | 这个截止日期让我压力很大。
+X: The traffic in Kuta makes me feel stressed out. | 库塔的交通让我很焦虑。
+W: 1272 | /pər wiːk/ | 每周 | three times per week
+X: We have two team meetings per week. | 我们每周开两次团队会议。
+X: I go surfing three times per week. | 我每周冲浪三次。
+W: 1284 | /æt ðə ˈmoʊmənt əv/ | 在……的那一刻 | at the moment of signing
+X: At the moment of signing, the client asked for a change. | 就在签约那一刻，客户要求修改。
+X: At the moment of sunset, everyone on the beach stopped talking. | 日落那一刻，海滩上所有人都安静了。
+W: 1188 | /æt læst/ | 终于 | At last!; at last we…
+X: At last, the client said yes. | 客户终于同意了。
+X: At last, the rain stopped and we went to the beach. | 雨终于停了，我们去了海滩。

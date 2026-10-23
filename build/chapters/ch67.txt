@@ -1,0 +1,50 @@
+# 67 | ⑯ 时间与日程 | Birthdays and Holidays | 生日和节日
+P: Sonia wrote "{Dates|1273}" in a big circle. "What is the date today?" she asked. "It's the twenty-third of October," Ana said. "Good. For dates we use {first, second, third … thirty-first|1283}. Not 'October twenty-three'." Then she asked Leo, "{When were you born|1282}?" "On {November|1271} 5th," Leo said.
+Z: Sonia 在一个大圆圈里写了“日期”。“今天是几号？”她问。“十月二十三号，”Ana 说。“很好。日期要用序数词：first、second、third……thirty-first，不要说 ‘October twenty-three’。”然后她问 Leo：“你是哪天出生的？”“十一月五号，”Leo 说。
+P: Sonia asked another question: "{If you celebrate your birthday in Bali, what will you do?|1179}" Leo thought. "I will go to the beach with my friends and eat a big cake." Kenji said, "I will go to a fight night!" Everybody laughed.
+Z: Sonia 又问了一个问题：“如果你在巴厘岛过生日，你会做什么？”Leo 想了想：“我会和朋友们去海滩，吃一个大蛋糕。”Kenji 说：“我会去看格斗之夜！”大家都笑了。
+P: Next, they talked about months. "{May|1275} is the fifth month, {June|1276} is the sixth, and {July|1277} is the seventh," Sonia said. "In China, {Labor Day|1280} is in May and {National Day|1281} is in October," Leo said. "Here, National Day is on August 17th," Pak Made said. He was listening at the door.
+Z: 接着他们聊到月份。“五月是第五个月，六月是第六个，七月是第七个，”Sonia 说。“在中国，劳动节在五月，国庆节在十月，”Leo 说。“我们这里的国庆节是八月十七日，”Pak Made 说，他正在门口听着。
+P: "In Bali, there is a {festival|1278} almost every month," Pak Made said. "On big festival days, schools and offices close. It's a {day off|1279}." "We say day off or off day," Sonia added. "Both are fine."
+Z: “在巴厘岛，几乎每个月都有节日，”Pak Made 说，“大节日那天，学校和办公室都关门，放一天假。”“我们说 day off 或 off day，”Sonia 补充道，“两种都可以。”
+P: At the end, Sonia gave homework: write about "{the case of life deep impression in different country|1183}." Leo wrote: "Living in a different country left a deep impression on me. Every day in Bali feels like a festival."
+Z: 最后，Sonia 布置了作业：写“在异国生活留下的深刻印象”。Leo 写道：“在另一个国家生活给我留下了很深的印象。在巴厘岛的每一天都像过节一样。”
+W: 1273 | /deɪt/ | 日期 | What is the date today?; the due date
+X: What is the date of the next meeting? | 下次会议是哪天？
+X: The date of Galungan changes every year. | 加隆安节的日期每年都不一样。
+W: 1283 | /fɜːrst ˈsekənd θɜːrd … ˌθɜːrti ˈfɜːrst/ | 序数词 1st–31st | the first of May; the thirty-first of October
+X: The report is due on the thirty-first. | 报告三十一号截止。
+X: My visa ends on the second of December. | 我的签证十二月二号到期。
+W: 1282 | /bɔːrn/ | 出生 | be born in / on; When were you born?
+X: Our founder was born in Jakarta. | 我们的创始人出生在雅加达。
+X: Ketut was born in Ubud. | Ketut 出生在乌布。
+W: 1271 | /noʊˈvembər/ | 十一月 | in November; on November 5th
+X: The new office opens in November. | 新办公室十一月开张。
+X: The rainy season starts in November. | 雨季十一月开始。
+W: 1179 | /ɪf ju ˈselɪbreɪt jʊr ˈbɜːrθdeɪ ɪn …, wʌt wɪl ju duː/ | 如果你在（某国）过生日，你会做什么？ | If you celebrate your birthday in…, what will you do?
+X: If you celebrate your birthday at the office, what will you do? | 如果你在办公室过生日，你会做什么？
+X: If you celebrate your birthday in Bali, what will you do? I will watch the sunset. | 如果你在巴厘岛过生日会做什么？我会看日落。
+W: 1275 | /meɪ/ | 五月 | in May
+X: We plan to launch the app in May. | 我们计划五月上线这个应用。
+X: May is a good month to visit Bali. | 五月是去巴厘岛的好时候。
+W: 1276 | /dʒuːn/ | 六月 | in June
+X: My contract ends in June. | 我的合同六月到期。
+X: June is the start of the dry season. | 六月是旱季的开始。
+W: 1277 | /dʒuˈlaɪ/ | 七月 | in July
+X: The office is busy in July. | 七月办公室很忙。
+X: Hotels in Bali are full in July. | 七月巴厘岛的酒店都满了。
+W: 1280 | /ˈleɪbər deɪ/ | 劳动节 | on Labor Day
+X: The office is closed on Labor Day. | 劳动节办公室不上班。
+X: Many Chinese tourists come to Bali on Labor Day. | 劳动节很多中国游客来巴厘岛。
+W: 1281 | /ˈnæʃnəl deɪ/ | 国庆节 | National Day holiday
+X: Our China team is on holiday for National Day. | 我们中国团队国庆节放假。
+X: On National Day, Bali has flags on every street. | 国庆节那天巴厘岛每条街都挂着旗子。
+W: 1278 | /ˈfestɪvl/ | 节日 | a music festival; a festival day
+X: The company gives us a bonus before the festival. | 公司在节前给我们发奖金。
+X: The Ubud food festival is in April. | 乌布美食节在四月。
+W: 1279 | /deɪ ˈɔːf ˌɔːf deɪ/ | 休息日；休假 | take a day off; my off day
+X: Monday is my off day this week. | 这周一是我的休息日。
+X: Pak Made takes a day off for every ceremony. | 每次有仪式，Pak Made 都休息一天。
+W: 1183 | /ðə keɪs əv laɪf diːp ɪmˈpreʃn ɪn ˈdɪfrənt ˈkʌntri/ | 在异国生活留下的深刻印象（更自然：Living in another country left a deep impression on me.） | leave a deep impression on sb.
+X: Working with an international team left a deep impression on me. | 和国际团队一起工作给我留下了深刻印象。
+X: The ceremony left a deep impression on every visitor. | 那场仪式给每位访客都留下了深刻印象。

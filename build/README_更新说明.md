@@ -1,0 +1,56 @@
+# 单词站增量更新说明（Leo in Bali · v.zdc.sh.cn）
+
+> 核心原则：**旧的不动，只加新的。** 已上线的旧词条（id、内容、顺序）、旧章节、旧音频、浏览器里的学习进度（localStorage：`wsv2-anki` / `wsx-prefs` / `wsx-learned` / `wsv2-theme`）一律不改。新词只追加：分配新 id、写进新章节、生成新音频。
+
+## 目录
+```
+site/                    网站本体（与仓库 site/ 对应）
+build/
+  update.py              一键流水线：对比 → 生成数据 → 插入新章节 → 改 Anki 排序 → 生成音频 → 打包
+  diff.py                只做对比（新增 / 删除 / 变动）
+  chapters.py            解析并校验故事源文件
+  chapters/chNN.txt      新章节故事源文件（人工/AI 写）
+  verify.py              验证旧内容未变 + 无头 Chrome 截图
+  README_更新说明.md     本文件
+```
+
+## 每次更新的步骤
+1. **拿到新总表 CSV**（列：`#,单词,音标,中文,主题,高频,出现次数,出现日期,来源,笔记线索`，日期用 ` / ` 分隔）。
+2. **对比**：`python3 build/diff.py 新总表.csv site/data/words.json diff.json`
+   - 匹配按「单词文本」（去 HTML 实体、合并空格、忽略大小写），**不按 # 序号**（总表每次可能重排序号）。
+   - 输出新增 / 变动（日期、主题、中文）/ 删除。变动和删除只报告，不改旧卡。
+3. **写新章节**：在 `build/chapters/` 新建 `ch70.txt`、`ch71.txt`…（章号接着上次最大章号），格式：
+   ```
+   # 70 | ① 性格与情绪 | English Title | 中文标题
+   P: 英文段落，目标词写成 {出现形式|CSV序号}，如 Leo felt {overwhelmed|101}.
+   Z: 对应中文段落
+   W: 101 | /ˌoʊvərˈwelmd/ | 短释义(高亮下方的小字) | 搭配1; 搭配2
+   X: 工作场景例句 | 中文
+   X: 生活·巴厘岛例句 | 中文
+   ```
+   - 每章约 20 词、4–6 段、A2–B1；人物：Leo / Sonia / Kenji / Ana / Pak Made / Ketut / Warren（10/23 新增：澳洲室友，前厨师）。
+   - 只标注本批新词；{…|序号} 用**本次 CSV 的 # 列**。
+   - 校验：`python3 build/chapters.py diff.json` → 必须 `covered N / N`、`missing 0`。
+   - 已经在线上的章节会被自动跳过，旧章节文件不用删。
+4. **运行流水线**（需要 `pip install edge-tts`，联网）：
+   ```
+   python3 build/update.py --csv 新总表.csv --base 当前线上site目录 --batch 11/06 --out out --audio-cache audio_cache
+   ```
+   - `--batch` 是批次标签，会显示成「新 11/06」徽标和 Anki 里的「11/06 新增（N）」筛选项。
+   - 音频（美式 Ava、英式 Sonia）缓存在 `audio_cache/`，中断后**重跑同一命令即可续跑**，已生成的不会重做；脚本拒绝覆盖任何已有的旧音频。
+   - 没有被任何章节覆盖的新词不会上线，会列在 `out/need_story_TODO.txt`。
+   - 加 `--no-audio` 可以先快速预览页面。
+5. **验证**：`python3 build/verify.py 当前线上site目录 out/site shots/` → 应显示 `ALL PASS`。会检查：旧词条逐字段相同、旧章节 HTML 逐字节相同、旧音频逐字节相同、旧卡 id 与新卡顺序不变、学习/复习队列不变、localStorage 键不变，并截桌面/手机 × 日间/夜间图。
+6. **部署**：`out/deploy/` 里只有变动和新增的文件（3 个 html + data/ + 新音频），按原目录结构覆盖上传到服务器网站根目录即可；旧音频不需要重新上传。上传后浏览器强制刷新一次。
+7. **提交仓库**：把 `out/site/` 同步回仓库 `site/`，`build/` 一起提交。下次更新时 `--base` 指向新的 `site/`。
+
+## Anki 新卡顺序规则
+- 「新卡顺序 = 最新新增优先，其余按故事章节」（原来的 story 模式，值不变）：
+  1. 带批次标签（`bt`）的新词先出，按**最后一次课堂日期**从新到旧（`lk`），同一天再按章节、id；
+  2. 旧词完全保持原来的顺序（章节 → id）。
+- 筛选：「全部批次 / 10/23 新增（298）」，与主题、★、NEW 筛选叠加；清除筛选会一并清除。
+- 日期排序键 `lk`：默认学期从 9 月开始（9–12 月早于次年 1–8 月），跨年时用 `--year-start-month` 调整。
+- 旧存档里没有 `bt` 设置会自动补默认值，不会丢进度。
+
+## 新词条字段（追加在 words.json 的 W 里）
+沿用旧字段 `w p z t s g n d b k x h ss sf sh c new`，额外：`bt`（批次）、`ld`（最后课堂日期）、`lk`（排序键）、`cid`（当时 CSV 的 # 序号，仅供对照）。`new` 设为 0，保证原来的「只看 NEW」筛选结果不变。

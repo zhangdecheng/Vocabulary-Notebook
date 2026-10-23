@@ -1,0 +1,68 @@
+# 63 | ⑩ 动作与路径 | Slippers on the Stairs | 楼梯上的拖鞋
+P: Sonia wrote ten words on the board. "Today, {connect them together|1012}," she said. "Make one story with all the words." Leo looked at the board. "This is {tricky|1010}," he said. "{Maybe|1011} I can use my own life."
+Z: Sonia 在白板上写了十个词。“今天，把它们连起来，”她说，“用所有词编一个故事。”Leo 看着白板说：“这有点难。也许我可以用我自己的生活。”
+P: "Last Sunday, I was playing {chess|1008} with Pak Made. We were {in the middle of|799} a long game when it started to rain. I ran up the wet stairs in my slippers. I like to {wear slippers|797} everywhere in Bali. But then I started to {slip|795}."
+Z: “上周日，我在和 Pak Made 下国际象棋。一局长棋下到一半，开始下雨了。我穿着拖鞋跑上湿漉漉的楼梯。在巴厘岛我喜欢到哪儿都穿拖鞋。可是接着我开始打滑。”
+P: "One {slipper|796} flew into the garden, and I fell down three stairs. Ketut {shouted at|1013} me, 'Leo! Are you OK?' I said, 'Don't worry. {I am alive|1180}!'" The class laughed. Sonia said, "Good. Remember: alive is an adjective. 'I {live|794} in Bali' uses the verb."
+Z: “一只拖鞋飞进了花园，我从楼梯上摔下来三级。Ketut 冲我喊：‘Leo！你没事吧？’我说：‘别担心，我还活着！’”全班都笑了。Sonia 说：“很好。记住：alive 是形容词。‘I live in Bali’ 里用的是动词。”
+P: Leo was {alive|793}, but his foot hurt. Pak Made gave him a pair of shoes. "Slippers are not good here. You need to {protect the feet|1014}," he said. The next day, Sonia saw Leo in the street. She did not {recognize|1009} him at first. "Leo in real shoes? That's new!"
+Z: Leo 是活着，但脚很疼。Pak Made 给了他一双鞋。“这里穿拖鞋不好，你得保护双脚，”他说。第二天，Sonia 在街上看到了 Leo，一开始都没认出他。“Leo 穿正经鞋了？头一回啊！”
+P: Then Kenji told his story. "Every month, I {separate|798} my salary into two parts. One part is {sent|791} home to my parents. It is a kind of {aid|792} for my family. The other part is for me. But after rent, the money that {remains|790} is small." He sighed. "{Remain is less|1186}," he said. Sonia corrected him kindly: "What remains is less."
+Z: 接着 Kenji 讲了他的故事。“每个月，我把工资分成两份。一份寄回家给父母，算是对家里的一点资助。另一份留给自己。但交完房租，剩下的钱就不多了。”他叹了口气：“Remain is less。”Sonia 温和地纠正他：“What remains is less（剩下的更少）。”
+W: 1012 | /kəˈnekt ðem təˈɡeðər/ | 把它们连起来 | connect the ideas together
+X: Let's connect these two ideas together in one plan. | 我们把这两个想法连起来，做成一个方案。
+X: Bridges connect the small islands together. | 桥把这些小岛连在一起。
+W: 1010 | /ˈtrɪki/ | 棘手的；容易搞错的 | a tricky question; tricky to use
+X: That was a tricky question from the client. | 那是客户提出的一个棘手问题。
+X: Parking in Seminyak is tricky. | 在水明漾停车很麻烦。
+W: 1011 | /ˈmeɪbi/ | 也许 | Maybe I will…; maybe not
+X: Maybe we can move the meeting to Friday. | 也许我们可以把会议改到周五。
+X: Maybe I will go to the gym after the beach. | 也许我去完海滩再去健身房。
+W: 1008 | /tʃes/ | 国际象棋 | play chess; a game of chess
+X: Our CEO plays chess to relax. | 我们的 CEO 下国际象棋来放松。
+X: Old men play chess outside the warung. | 老人们在小吃店外面下象棋。
+W: 799 | /ɪn ðə ˈmɪdl əv/ | 在…中间；在…中途 | in the middle of a meeting / the road
+X: Sorry, I'm in the middle of a call. | 抱歉，我正在打电话。
+X: A dog was sleeping in the middle of the road. | 一只狗睡在马路中间。
+W: 797 | /wer ˈslɪpərz/ | 穿拖鞋 | wear slippers at home
+X: You can't wear slippers in the office. | 不能穿拖鞋上班。
+X: Everyone wears slippers to the beach. | 大家都穿拖鞋去海滩。
+W: 795 | /slɪp/ | 滑倒；打滑 | slip on the floor; slip and fall
+X: Be careful not to slip on the wet floor. | 小心别在湿地板上滑倒。
+X: Scooters slip easily on the sandy road. | 摩托车在沙路上很容易打滑。
+W: 796 | /ˈslɪpər/ | 拖鞋（一只） | a slipper; a pair of slippers
+X: The hotel gives each guest a pair of slippers. | 酒店给每位客人一双拖鞋。
+X: A monkey stole my slipper at the temple. | 一只猴子在寺庙偷了我的拖鞋。
+W: 1013 | /ˈʃaʊtɪd æt/ | 冲…喊；对…吼 | shout at sb. (not "shout to" when angry)
+X: A good manager never shouts at the team. | 好经理从不对团队大吼。
+X: The driver shouted at the dog on the road. | 司机冲路上的狗喊。
+W: 1180 | /aɪ æm əˈlaɪv/ | 我还活着／我住在上海（alive 形容词 vs live 动词） | I am alive. / I live in Shanghai.
+X: After the long project, I can finally say: I am alive! | 熬过这个长项目，我终于能说：我还活着！
+X: I live in Canggu, and I am alive after the big storm. | 我住在长谷，大风暴之后我还活着。
+W: 794 | /lɪv/ | 居住；生活 | live in Bali; live with sb.
+X: Our designer lives in Ubud and works online. | 我们的设计师住在乌布，远程工作。
+X: I live near the beach. | 我住在海滩附近。
+W: 793 | /əˈlaɪv/ | 活着的 | be alive; keep sth. alive
+X: We need new ideas to keep the business alive. | 我们需要新点子让生意活下去。
+X: The fish at the market are still alive. | 市场上的鱼还活着。
+W: 1014 | /prəˈtekt ðə fiːt/ | 保护双脚 | wear shoes to protect the feet
+X: Workers must wear boots to protect the feet. | 工人必须穿靴子保护双脚。
+X: Wear reef shoes to protect the feet from coral. | 穿溯溪鞋保护脚不被珊瑚划伤。
+W: 1009 | /ˈrekəɡnaɪz/ | 认出 | recognize sb.; recognize a voice
+X: I didn't recognize the client without his glasses. | 客户没戴眼镜，我没认出来。
+X: Do you recognize this temple from the photo? | 你能从照片里认出这座寺庙吗？
+W: 798 | /ˈsepəreɪt/ | 分开（动词） | separate A from B; separate the rubbish
+X: Please separate personal and work expenses. | 请把私人开销和工作开销分开。
+X: Our villa separates plastic from food waste. | 我们的别墅把塑料和厨余垃圾分开。
+W: 791 | /sent/ | 寄出；发送（send 的过去式） | sent an email; sent money home
+X: I sent the report to the client this morning. | 我今天早上把报告发给客户了。
+X: She sent a postcard from Bali to her mother. | 她从巴厘岛给妈妈寄了一张明信片。
+W: 792 | /eɪd/ | 援助；资助 | financial aid; first aid
+X: Every office needs a first aid kit. | 每个办公室都需要一个急救箱。
+X: After the flood, aid came from all over Indonesia. | 洪水过后，援助从印尼各地送来。
+W: 790 | /rɪˈmeɪn/ | 剩余；留下 | remain open; what remains
+X: Two tasks remain before the deadline. | 截止前还剩两项任务。
+X: The shop will remain closed during Nyepi. | 静居日期间商店会一直关门。
+W: 1186 | /rɪˈmeɪn ɪz les/ | 剩下的更少（规范：What remains is less.） | What remains is less.
+X: After tax, what remains is less than I hoped. | 扣完税，剩下的比我希望的少。
+X: After the rent, what remains is less than half my salary. | 交完房租，剩下的不到工资的一半。

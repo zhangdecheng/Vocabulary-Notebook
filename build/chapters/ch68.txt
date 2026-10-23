@@ -1,0 +1,60 @@
+# 68 | ⑭ 医疗与健康 | Leo Catches a Cold | Leo 感冒了
+P: On Monday morning, Leo woke up feeling {ill|1211}. He started to {sneeze|1212}, and he had a {runny nose|1213}. By lunchtime he had a bad {cough|1216} too. "Is it a {cold|1217} or the {flu|1218}?" he asked Ana. "If you have a fever, it might be the flu," she said.
+Z: 周一早上，Leo 醒来觉得不舒服。他开始打喷嚏，还流鼻涕。到中午他又咳得很厉害。“这是感冒还是流感？”他问 Ana。“如果发烧，可能就是流感，”她说。
+P: At the clinic, the doctor asked many questions. "Do you have any {allergies|1210}?" "No," Leo said. "Do you smoke {cigarettes|1207}?" "No." "Is your {snot|1214} yellow or green?" Leo laughed. "Doctor, is that a polite word?" "Not really," the doctor smiled. "In the hospital we say {mucus|1215}."
+Z: 在诊所，医生问了很多问题。“你对什么过敏吗？”“没有，”Leo 说。“你抽烟吗？”“不抽。”“你的鼻涕是黄色还是绿色？”Leo 笑了：“医生，这个词礼貌吗？”“不太礼貌，”医生笑着说，“在医院我们说 mucus（黏液）。”
+P: Leo also had other problems. "My muscles are {sore|1208} from the gym, and my {stomach|1360} hurts after spicy food," he said. The doctor checked him. "Nothing is {abnormal|1209}. You are just tired. Your {diet|1352} is {unhealthy|1221}: too much fried food and not enough sleep."
+Z: Leo 还有别的问题。“我的肌肉因为健身很酸痛，吃了辣的东西胃也疼，”他说。医生给他做了检查。“没有什么异常，你只是累了。你的饮食不健康：油炸食品太多，睡眠也不够。”
+P: Then the doctor looked at his feet. "You have a {corn|1219} here. That's from your old slippers." She touched his foot, and Leo jumped. "Sorry! My feet are very {ticklish|1220}!" The nurse laughed.
+Z: 接着医生看了看他的脚。“你这儿长了个鸡眼，是那双旧拖鞋磨出来的。”她碰了一下他的脚，Leo 跳了起来。“抱歉！我的脚特别怕痒！”护士笑了。
+W: 1211 | /ɪl/ | 生病的（英式） | feel ill; be ill
+X: I feel ill, so I'll work from home today. | 我不舒服，今天在家办公。
+X: Many tourists get ill from the tap water. | 很多游客喝了自来水生病了。
+W: 1212 | /sniːz/ | 打喷嚏 | sneeze a lot; Bless you!
+X: Cover your mouth when you sneeze in the office. | 在办公室打喷嚏时要捂住嘴。
+X: The incense at the temple made me sneeze. | 寺庙里的香让我打喷嚏。
+W: 1213 | /ˈrʌni noʊz/ | 流鼻涕 | have a runny nose
+X: I have a runny nose, so I'll turn off my camera. | 我流鼻涕，就把摄像头关了。
+X: Air-con all night gave me a runny nose. | 整晚开空调让我流鼻涕。
+W: 1216 | /kɔːf/ | 咳嗽 | have a cough; a bad cough
+X: He had a cough, so he missed the meeting. | 他咳嗽，所以没参加会议。
+X: The smoke from burning rubbish makes me cough. | 烧垃圾的烟让我咳嗽。
+W: 1217 | /koʊld/ | 感冒 | have / catch a cold
+X: Half the team has a cold this week. | 这周一半的同事都感冒了。
+X: You can catch a cold in the rainy season. | 雨季容易感冒。
+W: 1218 | /fluː/ | 流感 | have the flu; catch the flu
+X: Stay home if you have the flu. | 如果得了流感就待在家里。
+X: My flight was terrible because I had the flu. | 我得了流感，那次飞行太难受了。
+W: 1210 | /ˈælərdʒi/ | 过敏 | have an allergy to sth.; a food allergy
+X: Tell the caterer if anyone has a food allergy. | 如果有人食物过敏，告诉餐饮供应商。
+X: I have an allergy to peanuts, so I check every sauce. | 我对花生过敏，所以每种酱都要问清楚。
+W: 1207 | /ˌsɪɡəˈret/ | 香烟 | smoke a cigarette; a pack of cigarettes
+X: No cigarettes inside the office. | 办公室内禁止吸烟。
+X: Cigarettes are cheap in Indonesia. | 印尼的香烟很便宜。
+W: 1214 | /snɑːt/ | 鼻涕（口语，略粗） | wipe the snot
+X: Use a tissue, not your sleeve, for snot. | 擦鼻涕用纸巾，别用袖子。
+X: Kids with snot on their faces were playing in the rice field. | 挂着鼻涕的小孩在稻田里玩。
+W: 1215 | /ˈmjuːkəs/ | 黏液；鼻涕（医学说法） | clear mucus
+X: The report said the patient had mucus in the lungs. | 报告说病人肺里有黏液。
+X: Ginger tea helps clear mucus. | 姜茶有助于化痰。
+W: 1208 | /sɔːr/ | 酸痛的 | sore muscles; a sore throat
+X: My throat is sore after three hours of talking. | 讲了三个小时，我嗓子疼。
+X: My arms are sore after surfing. | 冲浪后我的手臂很酸。
+W: 1360 | /ˈstʌmək/ | 胃；肚子 | stomach ache; on an empty stomach
+X: Don't drink coffee on an empty stomach before work. | 别空腹喝咖啡去上班。
+X: Bali belly is a stomach problem many tourists get. | “巴厘肚”是很多游客会得的肠胃病。
+W: 1209 | /æbˈnɔːrml/ | 异常的 | abnormal results; nothing abnormal
+X: The system showed abnormal data last night. | 系统昨晚显示了异常数据。
+X: It's abnormal to have so much rain in August. | 八月下这么多雨不正常。
+W: 1352 | /ˈdaɪət/ | 饮食；节食 | a healthy diet; be on a diet
+X: Our canteen now has diet options. | 我们食堂现在有低卡选择。
+X: A Bali diet has lots of rice and vegetables. | 巴厘岛的饮食有很多米饭和蔬菜。
+W: 1221 | /ʌnˈhelθi/ | 不健康的 | unhealthy food; an unhealthy habit
+X: Working late every night is unhealthy. | 每晚加班很不健康。
+X: Fried snacks are tasty but unhealthy. | 油炸小吃好吃但不健康。
+W: 1219 | /kɔːrn/ | 鸡眼；玉米 | a corn on the foot; grilled corn
+X: New work shoes gave me a corn. | 新工作鞋把我的脚磨出了鸡眼。
+X: Grilled corn is a popular snack on the beach. | 烤玉米是海滩上很受欢迎的小吃。
+W: 1220 | /ˈtɪklɪʃ/ | 怕痒的 | be ticklish; ticklish feet
+X: That's a ticklish question for the boss. | 对老板来说那是个棘手的问题。
+X: Ketut is very ticklish, so she laughs at everything. | Ketut 很怕痒，动不动就笑。

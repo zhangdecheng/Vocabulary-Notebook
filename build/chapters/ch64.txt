@@ -1,0 +1,71 @@
+# 64 | ⑪ 人际 · 学习 · 观点 | Leo Makes a Study Plan | Leo 做学习计划
+P: Leo had two {options|976}: stay in Bali or go to Kuala Lumpur. Sonia asked him, "What is your {main aim|994}?" Leo thought. "To use English at work. And to {study happily|990}. In Shanghai I had a {crowded schedule|1270} and no time for anything."
+Z: Leo 有两个选择：留在巴厘岛，或者去吉隆坡。Sonia 问他：“你的主要目标是什么？”Leo 想了想：“在工作中用英语，还有，愉快地学习。在上海时我日程排得满满的，什么都没时间做。”
+P: Sonia drew two boxes. In the first box, she wrote "{falling situation|991}" and drew a line through it. "When you are too busy and too tired, your English goes down. That's a falling situation." In the second box she wrote "{good situation|995}": {learning|992} and {life balance|993}.
+Z: Sonia 画了两个框。在第一个框里，她写了“下滑的处境”，然后画了一道线把它划掉。“当你太忙太累时，英语就会退步，这就是下滑的处境。”在第二个框里她写了“好的状况”：学习与生活的平衡。
+P: Leo looked at his weekly {schedule|979}. He had classes every morning, but only a {limited|998} {amount of|999} speaking practice. "{Group classes|996} are good, but I want more chances to speak," he said. Sonia suggested a {day-off|986} every week. "Rest is part of {performance|977}," she said.
+Z: Leo 看了看自己的每周课表。他每天上午都有课，但口语练习的量很有限。“小组课不错，但我想要更多开口的机会，”他说。Sonia 建议他每周休息一天。“休息也是表现的一部分，”她说。
+P: Ana had an idea. "Why not {search for a partner|997}? Someone who wants to learn Chinese. You teach {each|975} other." "But finding a good partner is a {hit or miss|1189}," Kenji said. "My last partner only wanted to talk about crypto."
+Z: Ana 有个主意：“为什么不找个语伴呢？找一个想学中文的人，你们互相教。”“可是找到好语伴全凭运气，”Kenji 说，“我上一个语伴只想聊加密货币。”
+P: Kenji likes big group classes. Ana likes quiet reading. Leo likes talking. "{To each their own|1181}," Sonia said. "There is no one right way." In the end, Leo wrote in his notebook: "{The best effect that makes me decide|1184}: I am happy here." He chose to stay in Bali for three more months. "I don't want to {regret|985} it later," he said.
+Z: Kenji 喜欢大班课，Ana 喜欢安静地阅读，Leo 喜欢聊天。“萝卜青菜，各有所爱，”Sonia 说，“没有唯一正确的方法。”最后，Leo 在笔记本上写道：“让我下决心的最大因素：我在这里很开心。”他决定在巴厘岛再待三个月。“我不想以后后悔，”他说。
+W: 976 | /ˈɑːpʃənz/ | 选项（复数） | have two options; payment options
+X: We have three options for the new logo. | 新标志我们有三个方案。
+X: There are many options for breakfast in Canggu. | 长谷的早餐有很多选择。
+W: 994 | /meɪn eɪm/ | 主要目标 | my main aim is to…
+X: Our main aim this year is to find new clients. | 我们今年的主要目标是找新客户。
+X: My main aim in Bali is to learn to surf. | 我在巴厘岛的主要目标是学会冲浪。
+W: 990 | /ˈstʌdi ˈhæpɪli/ | 愉快地学习 | study happily and relax
+X: Good teachers help students study happily. | 好老师能让学生愉快地学习。
+X: Ketut studies happily when there is a snack. | 有零食的时候 Ketut 学得很开心。
+W: 1270 | /ˈkraʊdɪd ˈskedʒuːl/ | 排得满满的日程 | have a crowded schedule
+X: I have a crowded schedule this week, so let's meet next Monday. | 我这周日程很满，我们下周一见吧。
+X: The tour had a crowded schedule: five temples in one day. | 这个行程排得满满的：一天五座寺庙。
+W: 991 | /ˈfɔːlɪŋ ˌsɪtʃuˈeɪʃn/ | 下滑的处境 | stop a falling situation (more natural: a downward spiral)
+X: Sales are in a falling situation; we need a new plan. | 销售在下滑，我们需要新计划。
+X: Too many parties put my studies in a falling situation. | 派对太多，让我的学习一路下滑。
+W: 995 | /ɡʊd ˌsɪtʃuˈeɪʃn/ | 好的处境 | in a good situation
+X: The company is in a good situation after the new deal. | 新合同签下后公司状况良好。
+X: With a quiet room and a good teacher, I'm in a good situation to learn. | 有安静的房间和好老师，我处在很好的学习状态。
+W: 992 | /ˈlɜːrnɪŋ/ | 学习（动名词） | online learning; learning English
+X: Learning never stops in this job. | 这份工作里学习永远不会停止。
+X: Learning to cook Balinese food is fun. | 学做巴厘岛菜很有意思。
+W: 993 | /laɪf ˈbæləns/ | 生活平衡 | work-life balance
+X: Our company cares about work-life balance. | 我们公司重视工作与生活的平衡。
+X: People come to Bali to find a better life balance. | 人们来巴厘岛寻找更好的生活平衡。
+W: 979 | /ˈskedʒuːl/ | 日程；课程表 | a busy schedule; on schedule
+X: The project is on schedule. | 项目按计划进行。
+X: The ferry schedule changes in the rainy season. | 雨季渡轮时刻表会变。
+W: 998 | /ˈlɪmɪtɪd/ | 有限的 | limited time; a limited budget
+X: We have a limited budget for marketing. | 我们的营销预算有限。
+X: Seats on the sunset boat are limited. | 日落游船的座位有限。
+W: 999 | /əˈmaʊnt əv/ | …的数量 | a large amount of money / time
+X: The project needs a large amount of time. | 这个项目需要大量时间。
+X: A small amount of rain can flood the road in Kuta. | 一点点雨就能让库塔的路积水。
+W: 996 | /ɡruːp ˈklæsɪz/ | 小组课 | join group classes
+X: The company pays for group classes in English. | 公司出钱让大家上英语小组课。
+X: The yoga studio has group classes every morning. | 瑜伽馆每天早上都有小组课。
+W: 986 | /deɪ ˈɔːf/ | 休息日 | take a day off; my day off
+X: I'm taking a day off on Friday. | 我周五请一天假。
+X: On my day off, I go to the waterfall. | 休息日我去瀑布玩。
+W: 977 | /pərˈfɔːrməns/ | 表现；表演 | job performance; a dance performance
+X: My boss was happy with my performance this year. | 老板对我今年的表现很满意。
+X: The Kecak dance performance starts at sunset. | 克差舞表演在日落时开始。
+W: 997 | /sɜːrtʃ fɔːr ə ˈpɑːrtnər/ | 寻找同伴 / 搭档 | search for a language partner
+X: We are searching for a partner company in Jakarta. | 我们在雅加达寻找合作公司。
+X: I searched for a partner to share the villa. | 我在找人合租别墅。
+W: 975 | /iːtʃ/ | 每个；各自 | each other; each day
+X: Each team member has one task. | 每个团队成员负责一项任务。
+X: Each village in Bali has its own temple. | 巴厘岛每个村子都有自己的寺庙。
+W: 1189 | /hɪt ɔːr mɪs/ | 碰运气；成败参半 | be (a) hit or miss
+X: Online ads can be hit or miss. | 网络广告效果时好时坏。
+X: Street food can be a hit or a miss. | 路边摊的东西好不好吃全凭运气。
+W: 1181 | /tə iːtʃ ðer oʊn/ | 各有所好 | To each their own.
+X: Some like the office, some like home. To each their own. | 有人喜欢办公室，有人喜欢在家。各有所好。
+X: You like durian? To each their own! | 你喜欢榴莲？各有所好吧！
+W: 1184 | /ðə best ɪˈfekt ðət meɪks mi dɪˈsaɪd/ | 让我下决心的最大因素（更自然：The main reason I decided…） | the thing that made me decide
+X: The salary was the best effect that makes me decide to take the job. | 工资是让我决定接受这份工作的最大因素。
+X: The friendly people are the best effect that makes me decide to live in Bali. | 友好的人们是让我决定住在巴厘岛的最大因素。
+W: 985 | /rɪˈɡret/ | 后悔 | regret doing sth.; I regret it.
+X: I regret sending that email so fast. | 我后悔那么快就发了那封邮件。
+X: You won't regret visiting Nusa Penida. | 去佩尼达岛你不会后悔的。

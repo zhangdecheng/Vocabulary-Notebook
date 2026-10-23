@@ -1,0 +1,56 @@
+# 57 | ⑤ 食物与饮食 | Cooking Night with Chef Warren | Warren 大厨的烹饪之夜
+P: Warren used to work as a {chef|320} in Sydney. On Friday night, he cooked for the whole house. "Tonight we have {mussels|313}, chicken {curry|319} and an apple {pie|318}," he said. Leo was surprised. "You can cook all that?"
+Z: Warren 以前在悉尼当过厨师。周五晚上，他给全屋的人做饭。“今晚我们有青口贝、鸡肉咖喱，还有苹果派，”他说。Leo 很惊讶：“这些你都会做？”
+P: Leo helped with the curry. Warren showed him the steps. "First, {mix up|322} the chicken and the spices. Then add the {salt|311}. Not too much. Nobody likes {salty|310} curry." Leo tasted it. "It needs a little {sugar|312}," he said. Warren agreed.
+Z: Leo 帮忙做咖喱。Warren 教他步骤：“先把鸡肉和香料拌匀，然后放盐。别放太多，没人喜欢太咸的咖喱。”Leo 尝了尝：“还需要一点糖，”他说。Warren 表示同意。
+P: Kenji came late with a big {bucket|321} of {fried|316} chicken from a {delivery shop|324}. "Sorry, I was hungry," he said. He also brought chips and {tomato sauce|314}. "In Australia we say tomato sauce, not ketchup," Warren said.
+Z: Kenji 来晚了，带着一大桶从外卖店买来的炸鸡。“不好意思，我饿了，”他说。他还带了薯条和番茄酱。“在澳大利亚我们说 tomato sauce，不说 ketchup，”Warren 说。
+P: Then Warren used a small {fryer|315} to make banana {fritters|317}, like the pisang goreng on the street. "Out of the fryer, add a little sugar on top," he said. Ketut ate three of them.
+Z: 接着 Warren 用一个小油炸锅做了香蕉炸饼，就像街边的炸香蕉一样。“从炸锅里拿出来后，在上面撒一点糖，”他说。Ketut 一口气吃了三个。
+P: After dinner, everyone sat outside. Ana made a lemon and mint drink. "This is so {refreshing|323}," Leo said. "Good food, good friends and a cool drink. That's a perfect Friday."
+Z: 晚饭后，大家坐在外面。Ana 做了一杯柠檬薄荷饮料。“这个好清爽，”Leo 说，“好吃的、好朋友，再加一杯凉饮，这就是完美的周五。”
+W: 320 | /ʃef/ | 厨师；主厨 | a head chef; work as a chef
+X: The hotel is looking for a new head chef. | 酒店在招一位新主厨。
+X: The chef at the warung cooks everything in one pan. | 小吃店的厨师所有菜都用一口锅做。
+W: 313 | /ˈmʌsəlz/ | 青口贝；贻贝 | steamed mussels; a plate of mussels
+X: We ordered mussels for the client dinner. | 我们在客户晚宴上点了青口贝。
+X: Jimbaran restaurants serve fresh mussels on the beach. | 金巴兰的餐厅在海滩上供应新鲜青口贝。
+W: 319 | /ˈkɜːri/ | 咖喱 | chicken curry; mild / hot curry
+X: Our team ordered curry for lunch. | 我们团队午饭点了咖喱。
+X: I always ask for mild curry; the hot one is too spicy. | 我总是点微辣的咖喱，辣的太辣了。
+W: 318 | /paɪ/ | 派；馅饼 | apple pie; a piece of pie
+X: The bakery near our office sells great apple pie. | 我们办公室附近的面包店卖很棒的苹果派。
+X: Try the coconut pie at the night market. | 试试夜市的椰子派。
+W: 322 | /ˌmɪks ˈʌp/ | 拌匀；混淆 | mix up the sauce; mix up two words
+X: Don't mix up the two clients' names. | 别把两个客户的名字搞混了。
+X: Mix up the rice and the sambal before you eat. | 吃之前把米饭和辣椒酱拌匀。
+W: 311 | /sɔːlt/ | 盐 | add salt; salt and pepper
+X: Can you pass the salt, please? | 能把盐递给我吗？
+X: Bali makes sea salt by the beach in Amed. | 巴厘岛在艾湄湾海边晒海盐。
+W: 310 | /ˈsɔːlti/ | 咸的 | too salty; salty food
+X: The soup at the canteen is too salty. | 食堂的汤太咸了。
+X: After surfing, my skin feels salty. | 冲完浪后皮肤感觉咸咸的。
+W: 312 | /ˈʃʊɡər/ | 糖 | no sugar; too much sugar
+X: Coffee without sugar, please. | 咖啡不加糖，谢谢。
+X: Local iced tea has a lot of sugar. | 当地的冰茶糖放得很多。
+W: 321 | /ˈbʌkɪt/ | 桶；一桶 | a bucket of chicken; a bucket of water
+X: We ordered a bucket of chicken for the late meeting. | 开晚会时我们点了一桶炸鸡。
+X: Kids carry buckets of sand on the beach. | 孩子们在海滩上提着一桶桶的沙子。
+W: 316 | /fraɪd/ | 油炸的 | fried rice; fried chicken
+X: The office lunch was fried rice again. | 办公室午饭又是炒饭。
+X: Nasi goreng means fried rice in Indonesian. | Nasi goreng 在印尼语里是炒饭的意思。
+W: 324 | /dɪˈlɪvəri ʃɑːp/ | 外卖店；外送店 | order from a delivery shop
+X: The delivery shop near the office closes at ten. | 办公室附近的外卖店十点关门。
+X: That delivery shop only works with Gojek. | 那家外卖店只跟 Gojek 合作。
+W: 314 | /təˈmeɪtoʊ sɔːs/ | 番茄酱（英式） | chips with tomato sauce
+X: Can we get more tomato sauce for the fries? | 能给薯条多拿点番茄酱吗？
+X: Australians in Kuta always ask for tomato sauce. | 库塔的澳洲人总要番茄酱。
+W: 315 | /ˈfraɪər/ | 油炸锅 | an air fryer; out of the fryer
+X: The kitchen bought a new fryer for the café. | 厨房给咖啡馆买了一台新炸锅。
+X: An air fryer is popular in many Bali villas. | 空气炸锅在巴厘岛很多别墅里很受欢迎。
+W: 317 | /ˈfrɪtər/ | 油炸饼；炸馅饼 | banana fritters; corn fritters
+X: The café added corn fritters to the menu. | 咖啡馆在菜单上加了玉米饼。
+X: Banana fritters cost 5,000 rupiah on the street. | 路边的香蕉炸饼五千印尼盾。
+W: 323 | /rɪˈfreʃɪŋ/ | 清爽的；提神的 | a refreshing drink; refreshing news
+X: It was refreshing to hear honest feedback from the client. | 听到客户真诚的反馈让人耳目一新。
+X: A cold coconut is so refreshing after the beach. | 海滩回来喝一个冰椰子太清爽了。
