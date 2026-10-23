@@ -32,6 +32,11 @@ for f in ('stories.html', 'anki.html', 'index.html'):
 ok('anki.html script logic unchanged (only CSS/theme-color/?v=)', re.sub(r'<style.*?</style>|<!--v2pal-->|<!--/v2pal-->|"#26231f":"#e7dfd3"|"#6e2f22":"#e0703a"|content="#e7dfd3"|content="#e0703a"|\?v=[0-9a-f]+', '', rd(OUT, 'anki.html'), flags=re.S) == re.sub(r'<style.*?</style>|"#26231f":"#e7dfd3"|"#6e2f22":"#e0703a"|content="#e7dfd3"|content="#e0703a"', '', rd(BASE, 'anki.html'), flags=re.S))
 ok('header: 257 NEW card and old stats removed', 'NEW 新增词（全书）' not in o and 'id="btstat"' not in o and 'class="stats"' not in o)
 ok('about: no stale 53 章/1067', '全书 53 章' not in o and '1067 个词条' not in o)
+if CHMOD:
+    ok('PR2: no fill-in quiz in any chapter (base had %d)' % b.count('<div class="quiz">'), 'class="quiz"' not in o and b.count('<div class="quiz">') == 69)
+    ok('PR2: 说明 section + TOC 说明 link removed', 'id="about"' not in o and 'href="#about"' not in o)
+    ok('PR2: usage hint no longer mentions 填空小测', '填空' not in o.split('<section class="chap"')[0] and '读完一章在词表里勾「已掌握」' in o)
+    ok('PR2: chapter = header + story + word list only', all(re.sub(r'\s', '', re.sub(r'<header class="ch-h">.*?</header>|<div class="story">.*?</div>\n(?=<details)|<details class="wl".*?</details>', '', SO[n], flags=re.S)) == '<sectionclass="chap"id="c%s"data-c="%s"%s></section>' % (n, n, ('data-bt="%s"' % re.search(r'data-bt="([^"]*)"', SO[n]).group(1)) if 'data-bt' in SO[n][:80] else '') for n in SO))
 class Q(http.server.SimpleHTTPRequestHandler):
     def log_message(self, *a): pass
 srv = socketserver.ThreadingTCPServer(('127.0.0.1', 0), functools.partial(Q, directory=OUT)); srv.daemon_threads = True
@@ -157,8 +162,9 @@ with sync_playwright() as p:
             ok(T + ' green underline only on latest batch words (%d)' % u[0], u[0] > 0 and u[1] == 0 and u[2] == 0 and u[3] == 'none' and 'inset' in u[4], str(u[:5]))
             ok(T + ' usage hint says 绿色下划线 = 10/23 最新一批新增的词', '绿色下划线 = 10/23 最新一批新增的词' in u[5])
             ok(T + ' 最新补充 card hides 30 days after batch', pg.evaluate('[__hdr.batchVisible(new Date(2026,9,24)),__hdr.batchVisible(new Date(2026,10,21)),__hdr.batchVisible(new Date(2026,10,23)),__hdr.batchVisible(new Date(2027,0,5))]') == [True, True, False, False])
-            ab = pg.evaluate('document.querySelector("#about").innerText')
-            ok(T + ' 说明 coverage line computed (69 章 / 1365 词条 / 10/23 298 / 54–69)', '全书 69 章' in ab and '1365 个词条' in ab and '257' in ab and '10/23 新增 298 个' in ab and '54–69' in ab, [l for l in ab.split('\n') if '覆盖' in l][0][:120])
+            ab = pg.evaluate('(document.querySelector("#about")||{}).innerText||""')
+            if CHMOD: ok(T + ' PR2: no quiz / 说明 rendered, TOC footer hidden', pg.evaluate('!document.querySelector(".quiz,#about")&&getComputedStyle(document.querySelector(".tocf")).display==="none"'))
+            else: ok(T + ' 说明 coverage line computed (69 章 / 1365 词条 / 10/23 298 / 54–69)', '全书 69 章' in ab and '1365 个词条' in ab and '257' in ab and '10/23 新增 298 个' in ab and '54–69' in ab, [l for l in ab.split('\n') if '覆盖' in l][0][:120])
             # ---- mastered = ticked ∪ Anki mature, existing ids only, read-only
             A = json.dumps(ANKI)
             pg.evaluate('localStorage.setItem("wsx-learned",JSON.stringify({"1":1,"1068":1,"99999":1,"abc":1}));localStorage.setItem("wsv2-anki",%s)' % json.dumps(A)); pg.reload(); pg.wait_for_timeout(1200)
