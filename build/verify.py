@@ -34,7 +34,9 @@ ok('old BOUNDS keys identical', all(bo[a][k] == bn[a][k] for a in bo for k in bo
 keys = lambda s: sorted(set(re.findall(r"""(?:ld|sv|load|save|getItem|setItem)\(\s*['"]((?:wsv2|wsx)[\w-]*)['"]""", s)) | set(re.findall(r"""['"]((?:wsv2|wsx)-[\w-]+)['"]""", s)))
 for f in ('stories.html', 'anki.html', 'index.html'):
     a = open(os.path.join(BASE, f), encoding='utf-8').read(); b = open(os.path.join(OUT, f), encoding='utf-8').read()
-    ok('localStorage keys unchanged in ' + f, keys(a) == keys(b), str(keys(b)))
+    # 允许的新增：wsx-last（上次读到的章/段）；stories 只读 wsv2-anki 计算「已掌握」
+    extra = set(keys(b)) - set(keys(a)); allow = {'wsx-last', 'wsv2-anki'} if f == 'stories.html' else {'wsx-last'}
+    ok('localStorage keys kept (only allowed additions) in ' + f, set(keys(a)) <= set(keys(b)) and extra <= allow, str(keys(b)))
 # ---- browser
 class Q(http.server.SimpleHTTPRequestHandler):
     def log_message(self, *a): pass

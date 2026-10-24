@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><!--thm--><script>(function(){var t;try{t=localStorage.getItem("wsv2-theme")}catch(e){}if(t!=="dark"&&t!=="light"){t=(window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)?"dark":"light"}document.documentElement.setAttribute("data-theme",t)})();</script><!--/thm--><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#e0703a"><title>单词卡 · Anki 间隔复习 | Leo in Bali</title><style>:root{--bg:#fbf6ef;--card:#fffdf9;--ink:#2d2620;--mut:#7a6d60;--line:#eadfce;--acc:#e0703a;--acc2:#2f8f83;--star:#d9480f;
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><!--thm--><script>(function(){var t;try{t=localStorage.getItem("wsv2-theme")}catch(e){}if(t!=="dark"&&t!=="light"){t=(window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)?"dark":"light"}document.documentElement.setAttribute("data-theme",t)})();</script><!--/thm--><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#e7dfd3"><title>单词卡 · Anki 间隔复习 | Leo in Bali</title><style>:root{--bg:#fbf6ef;--card:#fffdf9;--ink:#2d2620;--mut:#7a6d60;--line:#eadfce;--acc:#e0703a;--acc2:#2f8f83;--star:#d9480f;
 --font:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",Roboto,Arial,sans-serif;--serif:Georgia,"Times New Roman","Songti SC",serif}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.6;-webkit-text-size-adjust:100%}
 button,select,input{font:inherit;color:inherit}
@@ -93,8 +93,62 @@ html[data-theme=dark] a.c p,html[data-theme=dark] .f{color:var(--mut)}
 #thm:hover{background:rgba(255,255,255,.32)}
 header.top{position:relative}
 @media print{#thm{display:none}}
-</style><!--/thm--></head><body>
-<header class="top"><!--thm--><button id="thm" type="button" aria-label="切换夜间/日间模式" title="切换夜间/日间模式"></button><!--/thm--><div class="in"><h1>🗂 单词卡 <small>Anki 间隔复习 · 1365 词</small></h1><span class="sp"></span><div class="cnt"><span class="n">新 <b id="cN">0</b></span><span class="l">学习 <b id="cL">0</b></span><span class="r">复习 <b id="cR">0</b></span></div><a href="index.html">首页</a> · <a href="stories.html">故事</a></div></header><!--thm--><script>(function(){var b=document.getElementById("thm"),h=document.documentElement;function p(){var d=h.getAttribute("data-theme")==="dark";b.textContent=d?"☀️ 日间":"🌙 夜间";var m=document.querySelector("meta[name=theme-color]");if(m)m.setAttribute("content",d?"#6e2f22":"#e0703a")}p();b.addEventListener("click",function(){var t=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",t);try{localStorage.setItem("wsv2-theme",t)}catch(e){}p()});window.addEventListener("storage",function(e){if(e.key==="wsv2-theme"&&e.newValue){h.setAttribute("data-theme",e.newValue);p()}});try{var q=matchMedia("(prefers-color-scheme: dark)");q.addEventListener&&q.addEventListener("change",function(e){var s;try{s=localStorage.getItem("wsv2-theme")}catch(x){}if(!s){h.setAttribute("data-theme",e.matches?"dark":"light");p()}})}catch(e){}})();</script><!--/thm-->
+</style><!--/thm--><!--v2pal--><style id="v2pal">
+/* v2 柔和配色（Iris 规范 §6）。--hl/--hlb/--star 与 Anki 评分按钮本轮不改 */
+:root,html[data-theme=light]{--bg:#efe9df;--hdr:linear-gradient(180deg,#e7dfd3 0%,#ebe4d9 100%);--card:#f6f1e9;--card2:#ebe3d7;--ink:#2e2a25;--mut:#665d53;--line:#ddd3c5;--bd:#85796b;
+--acc:#9a5b3e;--on-acc:#f6f1e9;--acc-t:#8c4f33;--acc2:#437066;--track:#d9cfc1;--nwd:#5f8c82;--pill-bg:#ebe3d7;--pill-ink:#8c4f33;--new-bg:#ebe3d7;--new-ink:#8c4f33;
+--bar:rgba(239,233,223,.96);--dim:rgba(46,42,37,.40);--shadow:0 2px 8px rgba(80,60,40,.10);--seg-on:#9a5b3e;--seg-on-ink:#f6f1e9;--zh:#5c5249;--tint:#e3ebe7}
+html[data-theme=dark]{--bg:#1f1d1a;--hdr:linear-gradient(180deg,#26231f 0%,#221f1c 100%);--card:#282522;--card2:#302c28;--ink:#e8e1d6;--mut:#a59d92;--line:#3a3631;--bd:#7a7064;
+--acc:#c58a6b;--on-acc:#1f1d1a;--acc-t:#d29b7d;--acc2:#86b3a8;--track:#3d3833;--nwd:#86b3a8;--pill-bg:#302c28;--pill-ink:#d9b49c;--new-bg:#302c28;--new-ink:#ddb092;
+--bar:rgba(31,29,26,.96);--dim:rgba(0,0,0,.55);--shadow:0 2px 10px rgba(0,0,0,.25);--seg-on:#c58a6b;--seg-on-ink:#1f1d1a;--zh:#c2b9ad;--tint:#26302d}
+html[data-theme] body{background:var(--bg);color:var(--ink)}
+html[data-theme] .seg,html[data-theme] .icon,html[data-theme] select,html[data-theme] #q,html[data-theme] .qr,html[data-theme] .say,html[data-theme] .pop,html[data-theme] .pop .row button,html[data-theme] .pw,html[data-theme] #totop,html[data-theme] .pop .px,html[data-theme] input[type=number],html[data-theme] .btn,html[data-theme] .sx .px,html[data-theme] details.set,html[data-theme] kbd,html[data-theme] .quiz input{background:var(--card);color:var(--ink);border-color:var(--bd)}
+html[data-theme] .seg button+button{border-left-color:var(--bd)}
+html[data-theme] .seg button.on,html[data-theme] .seg.acc button.on,html[data-theme] .btn.pri{background:var(--seg-on);color:var(--seg-on-ink);border-color:var(--seg-on)}
+html[data-theme] .say{color:var(--acc2);border-color:var(--line)}
+html[data-theme] .sayall{background:var(--card);color:var(--acc2);border-color:var(--acc2)}
+html[data-theme] .say:hover,html[data-theme] .say.on{background:var(--acc2);color:var(--on-acc);border-color:var(--acc2)}
+html[data-theme] .qbtn button{background:var(--acc2);color:var(--on-acc)}
+html[data-theme] .qbtn .shw,html[data-theme] .qbtn .rst{background:var(--card);color:var(--acc2);border:1px solid var(--acc2)}
+html[data-theme] .pw.cur{border-color:var(--acc2);color:var(--acc2)}html[data-theme] .pw:hover{background:var(--tint)}
+html[data-theme] .qr a{border-color:var(--line)}
+html[data-theme] .tgh,html[data-theme] .pop .form,html[data-theme] .toc a b,html[data-theme] .ch-no,html[data-theme] .cast b,html[data-theme] .pop .co b,html[data-theme] .pop .sc>b,html[data-theme] .box h4,html[data-theme] .co b,html[data-theme] td.wd a{color:var(--acc-t)}
+html[data-theme] td.wd a{color:var(--ink);border-bottom-color:var(--acc-t)}
+html[data-theme] .toc{background:var(--card);border-color:var(--line)}
+html[data-theme] .toc a:hover,html[data-theme] .toc a.cur{background:var(--card2)}
+html[data-theme] .cast div,html[data-theme] .pop .nt,html[data-theme] .skipbox,html[data-theme] .box,html[data-theme] .nt{background:var(--card2);color:var(--ink)}
+html[data-theme] .ch-meta span{background:var(--card2)}html[data-theme] .ch-meta .ch-prog{background:var(--tint);color:var(--acc2)}
+html[data-theme] .intro,html[data-theme] .chap,html[data-theme] .about{background:var(--card);border-color:var(--line);box-shadow:var(--shadow)}
+html[data-theme] .para.reading{background:var(--tint);box-shadow:inset 3px 0 0 var(--acc2)}
+html[data-theme] .zh{color:var(--zh);border-left-color:var(--line)}
+html[data-theme] .tw.nwd{box-shadow:none}
+html[data-theme] .tw.nwb{box-shadow:inset 0 -2px 0 var(--nwd)}
+html[data-theme] .pop{box-shadow:0 18px 40px rgba(60,45,30,.18);border-color:var(--line)}html[data-theme=dark] .pop{box-shadow:0 18px 40px rgba(0,0,0,.55)}
+html[data-theme] .pop .co,html[data-theme] .co{color:var(--ink)}
+html[data-theme] .pop .sx,html[data-theme] .sx{background:var(--tint);border-color:var(--line)}
+html[data-theme] .wl{background:var(--bg);border-color:var(--line)}
+html[data-theme] th{background:var(--card2)}html[data-theme] td{border-color:var(--line)}
+html[data-theme] tr.done td{background:var(--tint)}html[data-theme] .g-test td.mn{background:var(--card2)}
+html[data-theme] .quiz{background:var(--tint);border-color:var(--line)}
+html[data-theme] .toast{background:var(--ink);color:var(--bg)}
+html[data-theme] .nwt,html[data-theme] .pop h4 .nw,html[data-theme] .meta .nw,html[data-theme] .lacc{background:var(--acc2);color:var(--on-acc)}
+html[data-theme] .ch-bt,html[data-theme] .nwt.bt,html[data-theme] .ch-meta span.bt,html[data-theme] .pop h4 .bt,html[data-theme] .tocbt,html[data-theme] .nw.bt{background:var(--new-bg)!important;color:var(--new-ink)!important;box-shadow:inset 0 0 0 1px var(--line)}
+html[data-theme] .tgh.tgbt{color:var(--acc-t)}
+html[data-theme] #menu{background:var(--acc);color:var(--on-acc);box-shadow:var(--shadow)}
+html[data-theme] .card,html[data-theme] a.c{background:var(--card);border-color:var(--line);box-shadow:var(--shadow)}
+html[data-theme] .meta .tag,html[data-theme] .stat div{background:var(--card2)}
+html[data-theme] .show{background:var(--ink);color:var(--bg)}
+html[data-theme] a.c p,html[data-theme] .f{color:var(--mut)}
+/* index / anki 头部：平静的表面，不再用饱和渐变 */
+html[data-theme] .top{background:var(--hdr);color:var(--ink);border-bottom:1px solid var(--line)}
+html[data-theme] .top a{color:var(--acc-t)}
+html[data-theme] .top .cnt span{background:var(--card2);color:var(--ink)}
+html[data-theme] .top .cnt .n b{color:var(--acc2)}html[data-theme] .top .cnt .l b{color:var(--acc-t)}html[data-theme] .top .cnt .r b{color:var(--ink)}
+html[data-theme] #thm{background:var(--card);color:var(--ink);border:1px solid var(--bd)}
+html[data-theme] #thm:hover{background:var(--card2)}
+@media print{html[data-theme] .top{background:none}}
+</style><!--/v2pal--></head><body>
+<header class="top"><!--thm--><button id="thm" type="button" aria-label="切换夜间/日间模式" title="切换夜间/日间模式"></button><!--/thm--><div class="in"><h1>🗂 单词卡 <small>Anki 间隔复习 · 1365 词</small></h1><span class="sp"></span><div class="cnt"><span class="n">新 <b id="cN">0</b></span><span class="l">学习 <b id="cL">0</b></span><span class="r">复习 <b id="cR">0</b></span></div><a href="index.html">首页</a> · <a href="stories.html">故事</a></div></header><!--thm--><script>(function(){var b=document.getElementById("thm"),h=document.documentElement;function p(){var d=h.getAttribute("data-theme")==="dark";b.textContent=d?"☀️ 日间":"🌙 夜间";var m=document.querySelector("meta[name=theme-color]");if(m)m.setAttribute("content",d?"#26231f":"#e7dfd3")}p();b.addEventListener("click",function(){var t=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",t);try{localStorage.setItem("wsv2-theme",t)}catch(e){}p()});window.addEventListener("storage",function(e){if(e.key==="wsv2-theme"&&e.newValue){h.setAttribute("data-theme",e.newValue);p()}});try{var q=matchMedia("(prefers-color-scheme: dark)");q.addEventListener&&q.addEventListener("change",function(e){var s;try{s=localStorage.getItem("wsv2-theme")}catch(x){}if(!s){h.setAttribute("data-theme",e.matches?"dark":"light");p()}})}catch(e){}})();</script><!--/thm-->
 <div class="bar"><select id="fTheme" aria-label="主题筛选"></select><label><input type="checkbox" id="fStar"> 只看 ★ 高频</label><label><input type="checkbox" id="fNew"> 只看 NEW</label><select id="fBatch" aria-label="新增批次"><option value="">全部批次</option><option value="10/23">10/23 新增（298）</option></select>
 <label>方向 <select id="sDir"><option value="en">英 → 中</option><option value="zh">中 → 英（反向）</option><option value="both">双向</option></select></label></div>
 <main><div class="card" id="card"></div>
@@ -108,7 +162,7 @@ header.top{position:relative}
 <div class="row"><button class="btn pri" id="exp">⬇️ 导出进度 JSON</button><label class="btn">⬆️ 导入备份<input type="file" id="imp" accept=".json,application/json" hidden></label><button class="btn" id="rst">清空进度</button></div>
 <p style="font-size:12.5px;color:var(--mut)">调度：SM-2 改良版。新卡学习步长 1 分钟 → 10 分钟，之后按「良好」1 天 / 「简单」4 天毕业；复习卡按难度系数（EF，初始 2.5）放大间隔，「重来」会进入 10 分钟重学并缩短间隔。进度只保存在本浏览器（localStorage），换设备请用导出/导入。</p>
 </details></main><div id="toast" class="toast"></div>
-<script src="data/words.js"></script><script>var AUD_BASE="audio/",AUD_XS=1,STORY_URL="stories.html";</script><script>window.onerror=function(m,s,l){var c=document.getElementById('card');if(c)c.innerHTML='<div class="done"><div class="big">⚠️</div><h2>页面脚本出错</h2><p style="word-break:break-all">'+String(m).replace(/</g,'&lt;')+' (line '+l+')</p><p>请截图发给我；可尝试用 Chrome 打开或刷新。</p></div>'};
+<script src="data/words.js?v=784b9883"></script><script>var AUD_BASE="audio/",AUD_XS=1,STORY_URL="stories.html";</script><script>window.onerror=function(m,s,l){var c=document.getElementById('card');if(c)c.innerHTML='<div class="done"><div class="big">⚠️</div><h2>页面脚本出错</h2><p style="word-break:break-all">'+String(m).replace(/</g,'&lt;')+' (line '+l+')</p><p>请截图发给我；可尝试用 Chrome 打开或刷新。</p></div>'};
 (function(){'use strict';
 if(typeof DATA==='undefined'||!DATA.W){document.getElementById('card').innerHTML='<div class="done"><div class="big">⚠️</div><h2>单词数据没有加载</h2><p>找不到 data/words.js。网站版请确认 data/ 文件夹已上传；单文件版请下载完整文件后用浏览器打开（不要在聊天预览里打开）。</p></div>';return}
 var W=DATA.W,CT=DATA.CT,K='wsv2-anki',MEM={};
