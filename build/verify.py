@@ -18,9 +18,10 @@ ok('new ids do not collide and start after max old id', int(newids[0]) > int(old
 ok('old ids still present in same key order', list(N['W'].keys())[:len(old)] == list(B['W'].keys()))
 # old chapter sections byte-identical
 bs = open(os.path.join(BASE, 'stories.html'), encoding='utf-8').read(); ns = open(os.path.join(OUT, 'stories.html'), encoding='utf-8').read()
-def sec(s, n):
-    i = s.index('<section class="chap" id="c%s"' % n); return s[i:s.index('</section>', i)]
-ok('old chapter sections c1..c%s byte-identical' % len(B['CH']), all(sec(bs, n) == sec(ns, n) for n in B['CH']))
+def sec(s, n):  # 章末填空小测已在 10/24 去掉：比较时两边都忽略 .quiz，其余（正文、词表）必须逐字节相同
+    i = s.index('<section class="chap" id="c%s"' % n); return re.sub(r'<div class="quiz"><h3>.*?<span class="score"></span></div></div>', '', s[i:s.index('</section>', i)], flags=re.S)
+ok('old chapter sections c1..c%s byte-identical (quiz removed)' % len(B['CH']), all(sec(bs, n) == sec(ns, n) for n in B['CH']))
+ok('no fill-in quiz / 说明 section left on stories page', 'class="quiz"' not in ns and 'id="about"' not in ns)
 # old audio untouched
 bad = []
 for acc in ('us', 'uk'):
@@ -107,10 +108,10 @@ with sync_playwright() as p:
             pg.goto(uo + 'index.html'); pg.wait_for_timeout(400)
             f = os.path.join(SHOTS, 'index_%s_%s.png' % (dev, th)); pg.screenshot(path=f); shots.append(f)
             ctx.close()
-    # quiz works on a new chapter
+    # new chapter renders: paragraphs + word list, no quiz
     ctx = br.new_context(); pg = ctx.new_page(); pg.goto(uo + 'stories.html#c60'); pg.wait_for_timeout(500)
-    pg.evaluate('''()=>{var q=document.querySelector('#c60 .quiz');q.querySelectorAll('li').forEach(li=>{li.querySelector('input').value=li.getAttribute('data-a')});q.querySelector('.chk').click()}''')
-    sc = pg.evaluate('document.querySelector("#c60 .quiz .score").textContent'); ok('new chapter quiz checks correctly', '5' in sc, sc)
+    r = pg.evaluate('[document.querySelectorAll("#c60 .para").length,document.querySelectorAll("#c60 details.wl tbody tr").length,document.querySelectorAll(".quiz").length]')
+    ok('new chapter renders paragraphs + word list, no quiz', r[0] > 0 and r[1] > 0 and r[2] == 0, str(r))
     # audio for new segment & word resolves
     for u in ('audio/us/c54p0.mp3', 'audio/uk/c69p0.mp3', 'audio/us/w1068.mp3', 'audio/uk/x1365_1.mp3'):
         r = pg.request.get(uo + u); ok('audio served ' + u, r.ok and len(r.body()) > 1000, str(len(r.body())))

@@ -116,17 +116,8 @@ def render_chapter(ch, W, bt):
     for i in ids:
         w = W[i]; z = w['z']; z = z if len(z) <= 60 else z[:58].rstrip('；;，, ') + ' …'
         rows.append('<tr data-i="%s"><td class="wd"><a href="#" class="jump" data-i="%s">%s</a> <sup class="nwt bt">新 %s</sup></td><td class="ph">%s</td><td class="pr"><button class="pw" data-i="%s" data-acc="us" title="美式发音">🇺🇸 美</button><button class="pw" data-i="%s" data-acc="uk" title="英式发音">🇬🇧 英</button></td><td class="mn">%s</td><td class="sr">%s</td><td><label class="lk"><input type="checkbox" class="lrn" data-i="%s"><span>已掌握</span></label></td></tr>' % (i, i, esc(w['w']), esc(bt), esc(w['p']), i, i, esc(z), '★' if w['s'] else '', i))
-    # quiz: up to 5 words with short surfaces, spread over chapter
-    cand = [i for i in ids if len(W[i]['sf'].split()) <= 3 and W[i]['ss'].count(W[i]['sf']) == 1 and W[i]['sf'] != W[i]['ss']]
-    if len(cand) > 5:
-        step = len(cand) / 5.0; cand = [cand[int(k * step)] for k in range(5)]
-    qs = []
-    for i in cand:
-        w = W[i]; a = w['sf']; s = w['ss']; x = s.index(a)
-        size = len(a) + 1
-        first = re.sub(r'[^A-Za-z]', '', a)[:1].lower() or a[:1]
-        qs.append('<li data-a="%s" data-i="%s"><span>%s <input type="text" autocomplete="off" autocapitalize="off" spellcheck="false" size="%d" aria-label="填空"> %s</span><em class="hint">提示：%s · 首字母 %s · %d 个字符</em><b class="fb"></b></li>' % (esc(a), i, esc(s[:x]), size, esc(s[x + len(a):]), esc(ch['words'][ch['rev'][i]]['gl']), esc(first), len(a), ))
-    quiz = '<div class="quiz"><h3>✍️ 小测：%d 道填空 <small>答案来自本章原句</small></h3><ol>%s</ol><div class="qbtn"><button class="chk">检查答案</button><button class="shw">显示答案</button><button class="rst">重做</button><span class="score"></span></div></div>' % (len(qs), ''.join(qs)) if qs else ''
+    # 章末不再生成填空小测（10/24 起去掉，用户反馈多余）；保留空串让新章节 HTML 与清理后的旧章节结构一致
+    quiz = ''
     return ('<section class="chap" id="c%d" data-c="%d" data-bt="%s">\n' % (no, no, esc(bt)) +
         '<header class="ch-h"><div class="ch-no">Chapter %d<span class="ch-th">%s</span><span class="ch-bt">新 %s</span></div>\n' % (no, esc(ch['theme']), esc(bt)) +
         '<h2><span lang="en">%s</span><small>%s</small></h2>\n' % (esc(ch['title_en']), esc(ch['title_zh'])) +
@@ -142,7 +133,10 @@ def patch_stories(s, new_chs, W, CT, total_words, bt_counts):
     for ch in new_chs:
         if 'id="c%d"' % ch['no'] in s: raise SystemExit('chapter %d already in stories.html' % ch['no'])
     secs = ''.join(ch['html'] for ch in new_chs)
-    i = s.index('<section class="about"'); s = s[:i] + secs + s[i:]
+    # 新章节插在最后一章后面（「说明」区已去掉；旧站点还有的话插在它前面）
+    i = s.find('<section class="about"')
+    if i < 0: i = s.index('</main>')
+    s = s[:i] + secs + s[i:]
     # TOC: one group per batch
     by = {}
     for ch in new_chs: by.setdefault(ch['bt'], []).append(ch)
@@ -160,7 +154,7 @@ def patch_stories(s, new_chs, W, CT, total_words, bt_counts):
         s = re.sub(r'<div id="btstat"><b>[^<]*</b>', '<div id="btstat"><b>%s</b>' % esc(' / '.join('%s·%d' % (b, n) for b, n in list(bt_counts.items())[-1:])), s, count=1)
     # about
     li = '<li>%s 更新：新增第 %d–%d 章，覆盖本批 %d 个新词（章节标「新 %s」）。旧章节、旧词条和学习进度不变。</li>' % (new_chs[0]['bt'], new_chs[0]['no'], new_chs[-1]['no'], sum(len(c['ids']) for c in new_chs), new_chs[0]['bt'])
-    s = s.replace('<section class="about" id="about"><h2>说明</h2><ul>', '<section class="about" id="about"><h2>说明</h2><ul>' + li, 1)
+    s = s.replace('<section class="about" id="about"><h2>说明</h2><ul>', '<section class="about" id="about"><h2>说明</h2><ul>' + li, 1)  # 无「说明」区时不做任何事
     # css + popup badge (idempotent)
     if CSS_MARK not in s: s = s.replace('</style>', CSS + '</style>', 1)
     old = "(w.new?'<span class=\"nw\">NEW</span>':'')+'</h4>'"

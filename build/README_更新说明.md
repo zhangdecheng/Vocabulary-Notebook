@@ -14,7 +14,10 @@ build/
   postbuild.py           站点后处理（update.py 结尾自动调用，幂等，可单独重跑）：
     navfix.py            章节导航：上一章/下一章、目录抽屉可滚动、继续阅读（记到段落，键 wsx-last）
     header.py            v2 柔和配色（三页）+ 故事页新头部（继续阅读 / 最新补充 / 已掌握 / 设置面板），数字按 words.json 重算
+    noquiz.py            去掉每章末尾的填空小测、页面末尾的「说明」区和目录里的「说明」链接（10/24 用户反馈多余）
     cachefix.py          data/words.js、bounds.js 加 ?v=内容哈希，更新后不用强刷
+  check_highlight.py     朗读逐词高亮与音频时间对齐的回归测试
+  shots_pr2.py           去掉小测/说明前后的手机对比截图
   verify_v2.py           头部 + 导航 + 配色回归测试（手机/桌面 × 日间/夜间）
   shots_header.py        头部截图（手机夜间/日间、设置面板、桌面）
   README_更新说明.md     本文件
@@ -38,6 +41,7 @@ build/
    - 只标注本批新词；{…|序号} 用**本次 CSV 的 # 列**。
    - 校验：`python3 build/chapters.py diff.json` → 必须 `covered N / N`、`missing 0`。
    - 已经在线上的章节会被自动跳过，旧章节文件不用删。
+   - 生成的章节只有：标题区 + 故事段落 + 本章词表（+ 运行时加的上一章/下一章）。**不生成填空小测，也不加「说明」**；章节文件里不需要写小测题或说明。
 4. **运行流水线**（需要 `pip install edge-tts`，联网）：
    ```
    python3 build/update.py --csv 新总表.csv --base 当前线上site目录 --batch 11/06 --out out --audio-cache audio_cache
@@ -47,8 +51,9 @@ build/
    - 没有被任何章节覆盖的新词不会上线，会列在 `out/need_story_TODO.txt`。
    - 加 `--no-audio` 可以先快速预览页面。
    - 流水线最后会自动跑 `build/postbuild.py out/site`：头部的章数、词数、「最新补充」批次与章节范围、说明里的覆盖统计都按新数据重算；最新一批 = 最后一个带 `data-bt` 的章节，卡片在批次日期后 30 天自动隐藏；绿色下划线只标最新一批（运行时加 class，不改章节 HTML）。
-5. **验证**：`python3 build/verify.py 当前线上site目录 out/site shots/` → 应显示 `ALL PASS`。会检查：旧词条逐字段相同、旧章节 HTML 逐字节相同、旧音频逐字节相同、旧卡 id 与新卡顺序不变、学习/复习队列不变、localStorage 键不变（只允许新增 `wsx-last`），并截桌面/手机 × 日间/夜间图。
-   再跑 `python3 build/verify_v2.py 当前线上site目录 out/site shots/v2` 检查头部、设置面板、章节切换、配色 → `ALL PASS`。
+5. **验证**：`python3 build/verify.py 当前线上site目录 out/site shots/` → 应显示 `ALL PASS`。会检查：旧词条逐字段相同、旧章节 HTML 逐字节相同（比较时忽略已去掉的小测）、旧音频逐字节相同、旧卡 id 与新卡顺序不变、学习/复习队列不变、localStorage 键不变（只允许新增 `wsx-last`），并截桌面/手机 × 日间/夜间图。
+   再跑 `python3 build/verify_v2.py 当前线上site目录 out/site shots/v2` 检查头部、设置面板、章节切换、配色 → `ALL PASS`（如果线上 site 还带小测，加 `--chapters-modified`）。
+   朗读高亮：`python3 build/check_highlight.py 当前线上site目录 out/site` → `ALL PASS`。
 6. **部署**（现在走 GitHub PR：Ethan 开 PR → 张烨合并 → 部署）：`out/deploy/` 里只有变动和新增的文件（3 个 html + data/ + 新音频），按原目录结构覆盖上传到服务器网站根目录即可；旧音频不需要重新上传。上传后浏览器强制刷新一次。
 7. **提交仓库**：把 `out/site/` 同步回仓库 `site/`，`build/` 一起提交。下次更新时 `--base` 指向新的 `site/`。
 

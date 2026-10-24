@@ -290,7 +290,8 @@ s = re.sub(r'<span class="tw demo nwb">绿色下划线</span> = <span data-x="lb
 # about: coverage line computed from data
 cov = ('<li>覆盖：全书 <span data-x="ch">%d</span> 章把单词总表 <span data-x="w">%d</span> 个词条全部写进英文故事并高亮'
        '（其中 <span data-x="nw">%d</span> 个是旧词表里标 NEW 的词；最新一批 <span data-x="lb">%s</span> 新增 <span data-x="lbnn">%d</span> 个，在第 <span data-x="lbr2">%d–%d</span> 章）。</li>') % (NCH, NW, NNEW, LB, LBN, NF, NL)
-s, k = re.subn(r'<li>覆盖：全书 (?:\d+|<span data-x="ch">\d+</span>) 章.*?</li>', lambda m: cov, s, count=1, flags=re.S); assert k == 1, 'about anchor'
+if 'id="about"' in s:  # 「说明」区在 PR #2 起已去掉；还在的话照常更新覆盖统计
+    s, k = re.subn(r'<li>覆盖：全书 (?:\d+|<span data-x="ch">\d+</span>) 章.*?</li>', lambda m: cov, s, count=1, flags=re.S); assert k == 1, 'about anchor'
 # header script after navfix (needs window.__nav)
 i = s.rfind('</body>'); s = s[:i] + HJS + '\n' + s[i:]
 wr('stories.html', s); print('header', 'stories.html', 'chapters', NCH, 'words', NW, 'latest', LB, LBN, '%d-%d' % (NF, NL))
