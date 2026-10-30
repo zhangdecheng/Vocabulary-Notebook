@@ -1,0 +1,56 @@
+# 76 | ⑧ 商业 · 经济 · 竞赛排名 | Warren's Cafe Plan | Warren 的咖啡馆计划
+P: Warren wants to open a small cafe in Canggu. "But there are fifty cafes here," Leo said. "How will you {attract|1376} people?" Warren said, "My coffee will be good and {cheap|1378}. Not {expensive|1379}. Maybe the {cheapest|1380} in Canggu."
+Z: Warren 想在仓古开一家小咖啡馆。“可这里已经有五十家咖啡馆了，”Leo 说，“你怎么吸引客人？”Warren 说：“我的咖啡会又好又便宜，不贵。说不定是仓古最便宜的。”
+P: Leo works in marketing, so he had an idea. "First, you need to {find main customers|1416}. Let's draw a {user persona|1409}." Warren asked, "What is a {persona|1408}?" Leo said, "It is like a picture of one customer. For example: a young digital nomad, 28, works on a laptop all day."
+Z: Leo 是做市场营销的，所以他有个主意。“首先，你得找到主要客户。我们来画一个用户画像吧。”Warren 问：“什么是人设？”Leo 说：“就像描绘一个具体的客户。比如：一个 28 岁的年轻数字游民，整天用笔记本电脑工作。”
+P: "Your cafe and the cafe next door have {the same customer|1424}," Leo said. "So your cafe needs a different {function|1427}. Maybe fast Wi-Fi and quiet tables for work." Warren nodded. "Good idea. Then people stay longer."
+Z: “你的咖啡馆和隔壁那家有相同的客户，”Leo 说，“所以你的店需要不一样的功能，比如高速 Wi-Fi 和适合工作的安静座位。”Warren 点点头：“好主意，这样大家会待得更久。”
+P: Warren was worried about money. "My old restaurant in Sydney went {bankrupt|1407}," he said. "This time, I want to {stay alive|1417}." Leo said, "Then watch your {ROI|1428}. Small steps. {Protect the company|1418} first. A slow business can {last long|1434}."
+Z: Warren 担心钱的问题。“我以前在悉尼的餐厅破产了，”他说，“这一次，我想活下去。”Leo 说：“那就盯紧投资回报率。一步一步来，先保护好公司。稳扎稳打的生意才能长久。”
+P: A month later, Warren made an {announcement|1426} on Instagram: "New cafe opening next week! First coffee free." Ana shared it on her YouTube channel. Many people came on the first day.
+Z: 一个月后，Warren 在 Instagram 上发了一则公告：“新咖啡馆下周开业！第一杯咖啡免费。”Ana 在她的 YouTube 频道上转发了。开业第一天来了好多人。
+W: 1376 | /əˈtrækt/ | 吸引 | attract customers; attract tourists
+X: We need a new ad to attract more customers. | 我们需要一个新广告来吸引更多客户。
+X: The rice terraces attract many tourists. | 梯田吸引了很多游客。
+W: 1378 | /tʃiːp/ | 便宜的 | cheap food; very cheap
+X: Cheap products are not always good products. | 便宜的产品不一定是好产品。
+X: The food at the warung is cheap. | 小吃店的东西很便宜。
+W: 1379 | /ɪkˈspensɪv/ | 贵的 | too expensive; not expensive
+X: Private classes are more expensive than group classes. | 一对一课程比小班课贵。
+X: Hotels in Nusa Dua are expensive. | 努沙杜瓦的酒店很贵。
+W: 1380 | /ˈtʃiːpɪst/ | 最便宜的（cheap 最高级） | the cheapest one
+X: The cheapest plan does not include support. | 最便宜的套餐不含售后服务。
+X: This is the cheapest warung in Canggu. | 这是仓古最便宜的小吃店。
+W: 1416 | /faɪnd meɪn ˈkʌstəmərz/ | 找到主要客户 | first, find main customers
+X: Before you make ads, find main customers. | 做广告前先找到主要客户。
+X: Ana wants to find main customers for her T-shirts. | Ana 想为她的 T 恤找到主要客户。
+W: 1409 | /ˈjuːzər pərˈsoʊnə/ | 用户画像 | draw a user persona
+X: The team made a user persona for the new app. | 团队给新应用做了用户画像。
+X: Leo's user persona for the cafe is a digital nomad. | Leo 给咖啡馆做的用户画像是数字游民。
+W: 1408 | /pərˈsoʊnə/ | 人设；角色形象 | a clear persona; online persona
+X: Every brand needs a clear persona. | 每个品牌都需要清晰的形象定位。
+X: Ana's online persona is friendly and funny. | Ana 在网上的人设友善又有趣。
+W: 1424 | /ðə seɪm ˈkʌstəmər / ðə ˈkɑːmən ˈkʌstəmər/ | 相同的客户 / 共同的客户 | have the same customers
+X: We and our competitor have the same customers. | 我们和竞争对手的客户是同一批人。
+X: The two surf shops share the common customer. | 这两家冲浪店有共同的客户群。
+W: 1427 | /ˈfʌŋkʃn/ | 功能 | the same function; a new function
+X: The new app has a useful search function. | 新应用有一个很实用的搜索功能。
+X: Pak Made's phone has only one function: calls. | Pak Made 的手机只有一个功能：打电话。
+W: 1407 | /ˈbæŋkrʌpt/ | 破产的 | go bankrupt
+X: The company went bankrupt last year. | 这家公司去年破产了。
+X: Many small shops in Kuta went bankrupt. | 库塔很多小店都倒闭了。
+W: 1417 | /steɪ əˈlaɪv/ | 活下去；（公司）生存下去 | help the business stay alive
+X: Small companies must cut costs to stay alive. | 小公司必须削减成本才能生存。
+X: In the rainy season, some cafes just try to stay alive. | 雨季时有些咖啡馆只求活下去。
+W: 1428 | /ˌɑːr oʊ ˈaɪ/ | 投资回报率（ROI） | a high ROI; ROI = return on investment
+X: The ROI of this ad was very high. | 这个广告的投资回报率很高。
+X: Warren checks the ROI of his cafe every month. | Warren 每月都看咖啡馆的投资回报率。
+W: 1418 | /prəˈtekt ðə ˈkʌmpəni/ | 保护公司 | rules protect the company
+X: These rules protect the company and the staff. | 这些规定保护公司，也保护员工。
+X: A good contract can protect the company. | 一份好合同能保护公司。
+W: 1434 | /læst lɔːŋ/ | 持久；耐用 | last long; doesn't last long
+X: Good customer service makes a business last long. | 好的客户服务让生意更持久。
+X: Cheap flip-flops don't last long. | 便宜的人字拖穿不久。
+W: 1426 | /əˈnaʊnsmənt/ | 公告；通知 | make an announcement
+X: The CEO made an announcement this morning. | CEO 今天早上发布了一则公告。
+X: There is an announcement at the airport: the flight is late. | 机场广播通知：航班延误了。

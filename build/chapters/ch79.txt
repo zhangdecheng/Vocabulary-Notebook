@@ -1,0 +1,74 @@
+# 79 | ⑨ 城市生活 · 物品 · 服装 | A Shopping List for the Trip | 旅行购物清单
+P: "My visa is {about to end|1508}," Leo told Warren. "Before I leave Bali for a while, I want to take a short trip to Lombok." He bought a {plane ticket|1493} online. Then he made a {list|1566}: a new phone {screen|1666}, a {phone strap|1649}, a phone {holder|1659} for the scooter, and {headphones|1669}.
+Z: “我的签证快到期了，”Leo 对 Warren 说，“离开巴厘岛一段时间之前，我想去龙目岛短途旅行一趟。”他在网上买了机票，然后列了一张清单：新的手机屏幕、手机挂绳、摩托车用的手机支架，还有耳机。
+P: On Saturday, Leo and Ana went to a big {mall|1647} in Kuta. They met at the {fountain|1472} in the middle. First, they went to a phone {shop|1541}. The man fixed Leo's screen in one hour. "The phone strap is good," he said. "Your phone won't fall out of your {pocket|1671} again."
+Z: 周六，Leo 和 Ana 去了库塔的一家大商场。他们在商场中间的喷泉那儿碰头。首先，他们去了一家手机店。店员一个小时就修好了 Leo 的屏幕。“挂绳挺好的，”他说，“这样你的手机就不会再从口袋里掉出来了。”
+P: Ana needed a new {camera|1540} for her YouTube videos. She also bought {shoes|1501} and {boots|1491} for hiking. "In Lombok, there is a {helicopter|1490} tour over the mountain," she said. "I want to film it." Leo said, "And bring {gloves|1485}. It is cold up there."
+Z: Ana 需要为她的 YouTube 视频买一台新相机。她还买了鞋子和徒步靴。“龙目岛有坐直升机飞越火山的项目，”她说，“我想拍下来。”Leo 说：“记得带上手套，上面很冷。”
+P: They had lunch at a restaurant in the mall. The {waiter|1494} was very friendly. He was a {local|1685} from Kuta. "This mall is very big," Ana said. "How many {square|1665} meters?" The waiter laughed. "I don't know. But I walk ten thousand steps every day!"
+Z: 他们在商场里一家餐厅吃午饭。服务员很友好，是库塔本地人。“这个商场好大，”Ana 说，“有多少平方米？”服务员笑了：“我不知道。不过我每天都要走一万步！”
+P: At home, Warren was in the kitchen. "I need a new {knife|1686} and {scissors|1687} for my cafe," he said. Leo opened his bag. "Here. I bought them for you at the mall." Warren smiled. "Thanks, bro. Have a good trip!"
+Z: 回到家，Warren 在厨房里。“我的咖啡馆需要一把新刀和一把剪刀，”他说。Leo 打开包：“给你，我在商场给你买了。”Warren 笑了：“谢了，兄弟。旅途愉快！”
+W: 1508 | /saɪn tə end/ | （签证）到期；期满（板书 sign to end，自然说法 about to end / expires） | my visa is about to end
+X: My work contract is about to end. | 我的工作合同快到期了。
+X: Kenji's visa is about to end, so he goes to the office. | Kenji 的签证快到期了，所以他去了移民局。
+W: 1493 | /pleɪn ˈtɪkɪt/ | 机票 | buy a plane ticket
+X: The company paid for my plane ticket. | 公司给我报销了机票。
+X: The plane ticket to Lombok is cheap. | 去龙目岛的机票很便宜。
+W: 1566 | /lɪst/ | 清单；列表 | make a list; a shopping list
+X: Make a list of things for the meeting. | 把开会要准备的东西列个清单。
+X: Ana has a long shopping list. | Ana 有一长串购物清单。
+W: 1666 | /skriːn/ | 屏幕 | a broken screen; a big screen
+X: Please share your screen in the online meeting. | 线上会议时请共享你的屏幕。
+X: The cafe shows football on a big screen. | 咖啡馆在大屏幕上放足球比赛。
+W: 1649 | /foʊn stræp/ | 手机挂绳 | buy a phone strap
+X: The company gives a phone strap with its logo. | 公司送带标志的手机挂绳。
+X: Ketut has a pink phone strap. | Ketut 有一根粉色的手机挂绳。
+W: 1659 | /ˈhoʊldər/ | 支架；持有人 | a phone holder; a card holder
+X: I keep a phone holder on my desk for video calls. | 我在桌上放了个手机支架，方便视频通话。
+X: Most scooters in Bali have a phone holder. | 巴厘岛的摩托车大多装了手机支架。
+W: 1669 | /ˈhedfoʊn/ | 耳机 | wear headphones
+X: I wear headphones to focus at work. | 我戴耳机专心工作。
+X: Kenji listens to music with headphones on the beach. | Kenji 在海滩上戴着耳机听音乐。
+W: 1647 | /mɔːl/ | 商场 | go to the mall; a big mall
+X: Our new store is in the mall downtown. | 我们的新店开在市中心的商场里。
+X: There is a big mall near the airport in Kuta. | 库塔机场附近有一家大商场。
+W: 1472 | /ˈfaʊntn/ | 喷泉 | meet at the fountain
+X: There is a fountain in front of our office building. | 我们办公楼前有个喷泉。
+X: Let's meet at the fountain. | 我们在喷泉那儿见。
+W: 1541 | /ʃɑːp/ | 商店；购物 | a phone shop; go to the shop
+X: The company opened a new shop in Jakarta. | 公司在雅加达开了家新店。
+X: There is a small shop at the end of our street. | 我们街尾有家小商店。
+W: 1671 | /ˈpɑːkɪt/ | 口袋 | in my pocket
+X: My phone is always in my pocket at work. | 上班时我手机总在口袋里。
+X: Leo found sand in his pocket. | Leo 在口袋里发现了沙子。
+W: 1540 | /ˈkæmərə/ | 相机；摄像机 | a new camera; phone camera
+X: Turn on your camera in the meeting, please. | 开会时请打开摄像头。
+X: Ana takes her camera everywhere. | Ana 走到哪儿都带着相机。
+W: 1501 | /ʃuːz/ | 鞋子 | new shoes; take off your shoes
+X: Please take off your shoes in the meeting room. | 进会议室请脱鞋。
+X: Bring old shoes for the ATV tour. | 参加全地形车之旅带双旧鞋。
+W: 1491 | /buːts/ | 靴子 | hiking boots; rain boots
+X: Workers on the building site must wear boots. | 工地上的工人必须穿靴子。
+X: The boots are provided by the tour. | 靴子由旅游团提供。
+W: 1490 | /ˈhelɪkɑːptər/ | 直升机 | take a helicopter tour
+X: The CEO took a helicopter to the meeting. | CEO 坐直升机去开会。
+X: A helicopter tour over Bali is very expensive. | 坐直升机游览巴厘岛很贵。
+W: 1485 | /ɡlʌvz/ | 手套（复数） | wear gloves
+X: The kitchen staff must wear gloves. | 厨房员工必须戴手套。
+X: Wear gloves when you ride a scooter. | 骑摩托车时戴上手套。
+W: 1494 | /ˈweɪtər/ | 服务员 | ask the waiter
+X: The waiter brought the menu to our table. | 服务员把菜单拿到了我们桌上。
+X: The waiter in Warren's cafe is from Ubud. | Warren 咖啡馆的服务员是乌布人。
+W: 1685 | /ˈloʊkl/ | 本地的；本地人 | local food; a local
+X: We hire local staff for our Bali office. | 我们巴厘岛办公室招本地员工。
+X: Pak Made is a local, so he knows every road. | Pak Made 是本地人，每条路他都熟。
+W: 1665 | /skwer/ | 广场；正方形；平方 | a square meter; the main square
+X: The new office is 200 square meters. | 新办公室有 200 平方米。
+X: There is a big square in front of the temple. | 神庙前有个大广场。
+W: 1686 | /naɪf/ | 刀 | a kitchen knife; a sharp knife
+X: Be careful with the knife in the office kitchen. | 用办公室厨房的刀要小心。
+X: Pak Made opens coconuts with a big knife. | Pak Made 用一把大刀开椰子。
+W: 1687 | /ˈsɪzərz/ | 剪刀 | a pair of scissors
+X: Can I borrow your scissors? | 能借一下你的剪刀吗？
+X: Ketut cut paper with small scissors. | Ketut 用小剪刀剪纸。

@@ -1,0 +1,67 @@
+# 84 | ⑭ 医疗与健康 | A Visit to the Clinic | 去诊所看病
+P: Leo's arm still hurt after the weekend. He went to a clinic in Canggu. "Where is the {pain|1663}?" the doctor asked. "Here, in my arm," Leo said. "It is {not comfortable|1530} when I type." The doctor checked it. "It's a small {injury|1520}. Rest for a week."
+Z: 周末过后，Leo 的胳膊还在疼。他去了仓古的一家诊所。“哪里疼？”医生问。“这里，胳膊上，”Leo 说，“打字的时候很不舒服。”医生检查了一下：“是个小伤，休息一周吧。”
+P: The doctor also looked at his face. "Your skin will {turn darker|1396} in the sun here. And you have {sensitive skin|1519}. Use sunscreen every day." Then she checked his blood. "Good. No {high blood pressure|1588} and no {low blood pressure|1589}."
+Z: 医生还看了看他的脸。“在这里晒太阳，你的皮肤会变黑。而且你是敏感肌，每天都要涂防晒霜。”然后她给他查了血压。“不错，没有高血压，也没有低血压。”
+P: Leo said, "My father has {blood problems|1605}. I worry about him." The doctor said, "Many people in their sixties have an {illness|1624} like that. Tell him to walk every day. It also lowers the risk of {cancer|1625}." Leo nodded. "I'll call him tonight."
+Z: Leo 说：“我爸爸血压血糖方面有问题，我很担心他。”医生说：“很多六十多岁的人都有这类病。让他每天散散步，这也能降低患癌的风险。”Leo 点点头：“我今晚就给他打电话。”
+P: At the cashier, Leo looked for his {wallet|1366}. It was not in his pocket! "I left it at home," he said. "I {blame|1367} my bad memory." The nurse smiled. "You can pay by phone."
+Z: 在收银台，Leo 找钱包，可钱包不在口袋里！“我把它落在家里了，”他说，“都怪我记性差。”护士笑着说：“您可以用手机付款。”
+P: That night, Leo's mother called. "I got a strange message," she said. "It said, 'Your son is {kidnapped|1522}. Pay a {ransom|1630}.'" Leo said, "Mom, I'm fine! It's {fraud|1678}. They want to {blackmail|1648} people for money." His mother said, "There was no {evidence|1673}, so I called you first."
+Z: 那天晚上，Leo 的妈妈打来电话。“我收到一条奇怪的短信，”她说，“上面写着：‘你儿子被绑架了，交赎金。’”Leo 说：“妈，我没事！这是诈骗。他们想敲诈别人的钱。”妈妈说：“没有任何证据，所以我先给你打了电话。”
+P: Leo said, "Good choice, Mom. Always call first. Also, don't believe news videos about a {riot|1684} without checking. Many are fake." His mother laughed. "My son is a teacher now."
+Z: Leo 说：“妈，您做得对，一定要先打电话。还有，看到关于暴乱的新闻视频也别急着信，先核实，很多都是假的。”妈妈笑了：“我儿子现在都能当老师了。”
+W: 1663 | /peɪn/ | 疼痛 | have a pain in…; back pain
+X: Many office workers have back pain. | 很多上班族都有背痛。
+X: I have a pain in my arm. | 我胳膊疼。
+W: 1530 | /nɑːt ˈkʌmftəbl/ | 不舒服 | I am not comfortable…
+X: I am not comfortable with this chair at work. | 公司这把椅子坐着不舒服。
+X: I am not comfortable in wet clothes. | 穿湿衣服很不舒服。
+W: 1520 | /ˈɪndʒəri/ | 受伤；伤害 | a knee injury; a small injury
+X: He missed work for a week because of an injury. | 他因为受伤一周没上班。
+X: Surfers often get a foot injury on the coral. | 冲浪的人常被珊瑚划伤脚。
+W: 1396 | /tɜːrn ˈdɑːrkər/ | 变黑；（皮肤）晒黑 | skin turns darker
+X: The sky turned darker before the meeting ended. | 会议还没结束，天就暗了下来。
+X: My skin turns darker in the Bali sun. | 在巴厘岛的阳光下我的皮肤会晒黑。
+W: 1519 | /ˈsensətɪv skɪn/ | 敏感肌 | have sensitive skin
+X: This product is good for sensitive skin. | 这款产品适合敏感肌。
+X: Ana has sensitive skin, so she wears a hat. | Ana 是敏感肌，所以她戴帽子。
+W: 1588 | /haɪ blʌd ˈpreʃər/ | 高血压 | have high blood pressure
+X: Stress at work can cause high blood pressure. | 工作压力可能导致高血压。
+X: My father has high blood pressure. | 我爸有高血压。
+W: 1589 | /loʊ blʌd ˈpreʃər/ | 低血压 | low blood pressure makes me dizzy
+X: Low blood pressure makes me tired in the morning. | 低血压让我早上很累。
+X: Drink water if you have low blood pressure in the heat. | 天热时如果低血压，要多喝水。
+W: 1605 | /blʌd ˈprɑːbləmz/ | 血液（血压/血糖）问题 | have blood problems
+X: Long hours at a desk can lead to blood problems. | 长时间伏案可能导致血压血糖问题。
+X: Pak Made eats less salt because of blood problems. | Pak Made 因为血压问题少吃盐。
+W: 1624 | /ˈɪlnəs/ | 疾病 | a serious illness
+X: He took a month off because of an illness. | 他因病休了一个月。
+X: Good food and sleep protect you from illness. | 好好吃饭睡觉能让你少生病。
+W: 1625 | /ˈkænsər/ | 癌症 | cause cancer; the risk of cancer
+X: The company gives free cancer checks to staff. | 公司为员工提供免费癌症筛查。
+X: Too much sun can cause skin cancer. | 晒太阳太多可能导致皮肤癌。
+W: 1366 | /ˈwɑːlɪt/ | 钱包，皮夹 | lose my wallet; a leather wallet
+X: I left my wallet in the meeting room. | 我把钱包落在会议室了。
+X: This wallet feels like leather. | 这个钱包摸上去像是皮的。
+W: 1367 | /bleɪm/ | 责怪，归咎于；责备 | blame sb. for sth.; take the blame
+X: Don't blame the new staff for the mistake. | 别把错误怪到新员工头上。
+X: Let the people suffer. I will take the blame. | 苦一苦百姓，骂名我来担！
+W: 1522 | /ˈkɪdnæp/ | 绑架 | be kidnapped
+X: The movie is about a kidnap in a big city. | 这部电影讲的是大城市里的一起绑架案。
+X: In the story, a rich man's son is kidnapped. | 故事里，一个富人的儿子被绑架了。
+W: 1630 | /ˈrænsəm/ | 赎金 | ask for a ransom; pay a ransom
+X: Hackers asked the company for a ransom. | 黑客向公司索要赎金。
+X: In the movie, they asked for a big ransom. | 电影里，他们索要了一大笔赎金。
+W: 1678 | /frɔːd/ | 诈骗 | phone fraud; it is a fraud
+X: The bank warns customers about phone fraud. | 银行提醒客户警惕电话诈骗。
+X: A cheap villa online can be a fraud. | 网上便宜得离谱的别墅可能是诈骗。
+W: 1648 | /ˈblækmeɪl/ | 勒索；敲诈 | blackmail sb.
+X: Never pay if someone tries to blackmail you online. | 如果有人在网上敲诈你，千万别付钱。
+X: In the TV series, he blackmails his boss. | 电视剧里，他敲诈了自己的老板。
+W: 1673 | /ˈevɪdəns/ | 证据 | there is no evidence; find evidence
+X: We need evidence before we make a decision. | 做决定前我们需要证据。
+X: The police found evidence on the beach. | 警察在海滩上找到了证据。
+W: 1684 | /ˈraɪət/ | 暴乱 | a riot in the news
+X: The news showed a riot after the football match. | 新闻播了球赛后的骚乱。
+X: Many old riot videos online are fake. | 网上很多旧的暴乱视频是假的。

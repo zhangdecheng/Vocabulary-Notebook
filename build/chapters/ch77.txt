@@ -1,0 +1,54 @@
+# 77 | ⑧ 商业 · 经济 · 竞赛排名 | Leo Gets a Reward | Leo 获得了奖励
+P: Leo got an {email|1664} from his company {HQ|1527} in Shanghai. "Congratulations! You are the {Best employee of the month|1586}." There was also a {reward|1631}: a free dinner for two. Leo was very happy. "This is good for my {career|1528}," he said.
+Z: Leo 收到了上海公司总部的一封邮件：“恭喜！你是本月最佳员工。”还有一份奖励：一顿免费的双人晚餐。Leo 特别开心。“这对我的职业发展有好处，”他说。
+P: The dinner was at a new {branch|1646} of a famous restaurant in Seminyak. Leo took Warren with him. "The dinner is {free of charge|1645}," Leo told the waiter. "It is {provided by|1492} my company." The waiter checked and said, "Yes, it's all paid."
+Z: 晚餐在水明漾一家知名餐厅的新分店。Leo 带上了 Warren。“这顿饭是免费的，”Leo 对服务员说，“由我们公司提供。”服务员确认后说：“是的，都已经付过了。”
+P: After dinner, the waiter brought the {bill|1644}. The drinks were not free. Warren paid, and he left a {tip|1688} for the waiter. "Can I have the {receipt|1643}?" Leo asked. "My company needs it, and I need {approval|1564} from my boss."
+Z: 饭后，服务员拿来了账单——酒水不免费。Warren 付了钱，还给服务员留了小费。“能给我小票吗？”Leo 问，“公司需要，而且我还得等老板审批。”
+P: On the way home, they walked past a {bank|1567}. A man was selling tickets outside. "{Welfare|1642} {lottery|1641}! Win a million!" Warren laughed. "Leo, you are lucky this month. Maybe buy one?" Leo said, "No, thanks. Hard work is my lottery."
+Z: 回家路上，他们经过一家银行。门外有个人在卖彩票：“福利彩票！中一百万！”Warren 笑着说：“Leo，你这个月运气好，要不买一张？”Leo 说：“不了，谢谢。努力工作就是我的彩票。”
+W: 1664 | /ˈiːmeɪl/ | 电子邮件；发邮件 | send an email; email sb.
+X: Please email me the report by Friday. | 请在周五前把报告发邮件给我。
+X: Ana gets many emails from her YouTube fans. | Ana 收到很多 YouTube 粉丝的邮件。
+W: 1527 | /ˌeɪtʃ ˈkjuː/ | 总部（headquarters 的缩写） | company HQ
+X: Our HQ is in Shanghai. | 我们的总部在上海。
+X: The surf brand has its HQ in Bali. | 那个冲浪品牌的总部在巴厘岛。
+W: 1586 | /best ɪmˈplɔɪiː əv ðə mʌnθ/ | 月度最佳员工 | be the best employee of the month
+X: She was the best employee of the month again. | 她又一次当选月度最佳员工。
+X: The hotel puts a photo of the best employee of the month at the door. | 酒店在门口贴出月度最佳员工的照片。
+W: 1631 | /rɪˈwɔːrd/ | 奖励；报酬 | a reward for good work
+X: The team got a reward for the big sale. | 团队因为一笔大单获得了奖励。
+X: Ketut got ice cream as a reward. | Ketut 得到了冰淇淋作为奖励。
+W: 1528 | /kəˈrɪr/ | 职业；事业 | a good career; career plan
+X: Learning English can help your career. | 学英语对你的事业有帮助。
+X: Warren started his career as a chef. | Warren 最早是当厨师起家的。
+W: 1646 | /bræntʃ/ | 分店；分支 | open a new branch
+X: The bank is opening a new branch in Ubud. | 那家银行要在乌布开一家新分行。
+X: The cafe has three branches in Bali. | 这家咖啡馆在巴厘岛有三家分店。
+W: 1645 | /friː əv tʃɑːrdʒ/ | 免费 | it is free of charge
+X: Delivery is free of charge for big orders. | 大订单免运费。
+X: Water is free of charge at this cafe. | 这家咖啡馆的水是免费的。
+W: 1492 | /prəˈvaɪdɪd baɪ/ | 由……提供 | provided by the company
+X: Lunch is provided by the company. | 午餐由公司提供。
+X: Helmets are provided by the tour company. | 头盔由旅行社提供。
+W: 1644 | /bɪl/ | 账单 | pay the bill; can I have the bill?
+X: The client will pay the bill for dinner. | 晚餐的账单由客户付。
+X: Can I have the bill, please? | 请给我账单，买单。
+W: 1688 | /tɪp/ | 小费 | leave a tip; 10% tip
+X: In the US, people leave a big tip. | 在美国，人们会给不少小费。
+X: Leo leaves a tip for the massage lady. | Leo 给按摩阿姨留了小费。
+W: 1643 | /rɪˈsiːt/ | 收据；小票 | keep the receipt; can I have the receipt?
+X: Keep the receipt for the company. | 把小票留着交给公司。
+X: The warung doesn't give a receipt. | 那家小吃店不给小票。
+W: 1564 | /əˈpruːvl/ | 批准；审批 | wait for approval; get approval
+X: The new plan needs approval from the boss. | 新方案需要老板批准。
+X: My visa is waiting for approval. | 我的签证在等审批。
+W: 1567 | /bæŋk/ | 银行 | work at a bank; go to the bank
+X: Ana's sister works at a bank in London. | Ana 的姐姐在伦敦一家银行工作。
+X: There is a bank next to the market. | 市场旁边有一家银行。
+W: 1642 | /ˈwelfer/ | 福利 | staff welfare; welfare lottery
+X: The company spends more on staff welfare this year. | 公司今年在员工福利上投入更多。
+X: The welfare lottery helps old people. | 福利彩票帮助老年人。
+W: 1641 | /ˈlɑːtəri/ | 彩票 | win the lottery; buy a lottery ticket
+X: If I win the lottery, I will start my own company. | 如果我中了彩票，我就自己开公司。
+X: Pak Made never buys lottery tickets. | Pak Made 从不买彩票。

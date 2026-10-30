@@ -1,0 +1,76 @@
+# 78 | ⑨ 城市生活 · 物品 · 服装 | A Day at the Beach Club | 海滩俱乐部的一天
+P: Ana wanted to make a video at {Atlas|1402}, a big beach {club|1401} in Bali. "Let's {check out the place|1368} first," she said. On Saturday, Leo, Ana and Kenji went there. There were many people at the door. "Please {go in the queue|1414}," a staff member said.
+Z: Ana 想在巴厘岛一家大型海滩俱乐部 Atlas 拍视频。“我们先去看看这个地方吧，”她说。周六，Leo、Ana 和 Kenji 去了那里。门口人很多。“请排队，”一位工作人员说。
+P: A man tried to {cut the line|1415}. "Sorry, the line starts back there," Kenji said politely. The man said sorry and walked to the back. At the {cashier|1410}, Leo paid for three {tickets|1374}.
+Z: 一个男人想插队。“不好意思，队伍从后面开始，”Kenji 礼貌地说。那个人道了歉，走到了后面。在收银台，Leo 买了三张票。
+P: Near the pool, there was a sign: "Please {wash feet|1406} before you swim." Leo's feet were {dirty|1405} from the sand. He washed them and {took off his clothes|1369}. Under his clothes, he had his swimming shorts. "Ready!" he said and jumped in.
+Z: 泳池边有块牌子：“下水前请洗脚。”Leo 的脚上沾满了沙子，很脏。他洗了脚，脱掉衣服，里面早就穿好了泳裤。“准备好了！”他说着就跳了进去。
+P: On Monday, Leo had to go to the immigration office to {extend visa time|1433}. Warren rented a car. "Which one? {BYD, Volvo or Tesla|1422}?" the man asked. "The cheapest one," Warren said. They got a small BYD.
+Z: 周一，Leo 得去移民局延长签证时间。Warren 租了一辆车。“要哪一辆？比亚迪、沃尔沃还是特斯拉？”租车的人问。“最便宜的那辆，”Warren 说。他们拿到了一辆小比亚迪。
+P: Leo had a lot of {baggage|1449}, because he was moving to a new room after the office. "Is there {space|1450} in the {trunk|1451}?" he asked. Warren opened it. "Yes. The trunk can {store items|1452} like your bags and your surfboard."
+Z: Leo 的行李很多，因为办完签证他要搬去新房间。“后备箱还有空间吗？”他问。Warren 打开看了看：“有。后备箱能放东西，比如你的包和冲浪板。”
+P: On the way, Warren looked at the {fuel|1432} light. "The {tank|1447} is almost empty," he said. They stopped to get fuel. The office was very cold inside. Leo's shirt was too {thin|1445}. "I should {wear a coat|1384} next time," he said. "Or {train|1394} my body to love the cold!" Warren laughed.
+Z: 路上，Warren 看了看油量灯。“油箱快空了，”他说。他们停下来加油。移民局里面特别冷，Leo 的衬衫太薄了。“下次我得穿件外套，”他说。“或者训练身体爱上寒冷！”Warren 笑了。
+W: 1402 | /ˈætləs/ | Atlas（巴厘岛的海滩俱乐部名） | go to Atlas beach club
+X: Our company party was at Atlas this year. | 今年我们公司派对在 Atlas 办的。
+X: Atlas is a big beach club in Canggu. | Atlas 是仓古一家很大的海滩俱乐部。
+W: 1401 | /klʌb/ | 俱乐部 | a beach club; join a club
+X: The company has a running club. | 公司有一个跑步俱乐部。
+X: Warren is in a surf club in Canggu. | Warren 加入了仓古的一个冲浪俱乐部。
+W: 1368 | /tʃek aʊt ðə pleɪs/ | 去看看/考察这个地方 | let's check out the place first
+X: Let's check out the place before we rent the office. | 租办公室前我们先去看看。
+X: Kenji wants to check out the place before the party. | Kenji 想在派对前先去看看场地。
+W: 1414 | /ɡoʊ ɪn ðə kjuː/ | 去排队 | please go in the queue (also: join the queue)
+X: Please go in the queue for the coffee machine. | 用咖啡机请排队。
+X: At the airport, we had to go in the queue for an hour. | 在机场我们排了一个小时的队。
+W: 1415 | /kʌt ðə laɪn/ | 插队 | don't cut the line
+X: Don't cut the line at the lunch counter. | 打饭时别插队。
+X: A tourist tried to cut the line at the temple. | 一个游客想在神庙门口插队。
+W: 1410 | /kæˈʃɪr/ | 收银员；收银台 | pay at the cashier
+X: The cashier gave me the wrong change. | 收银员找错了零钱。
+X: Please pay at the cashier near the door. | 请在门口的收银台付款。
+W: 1374 | /ˈtɪkɪts/ | 票（ticket 的复数） | buy tickets online
+X: I bought the tickets for the conference online. | 我在网上买了会议门票。
+X: The tickets for the dance show are cheap. | 舞蹈表演的票很便宜。
+W: 1406 | /wɑːʃ fiːt/ | 洗脚 | wash feet before the pool
+X: The hotel asks guests to wash feet before the pool. | 酒店要求客人下泳池前洗脚。
+X: Ketut washes her feet after playing in the sand. | Ketut 在沙子里玩完后洗脚。
+W: 1405 | /ˈdɜːrti/ | 脏的 | dirty feet; get dirty
+X: The meeting room was dirty after the party. | 派对后会议室很脏。
+X: My shoes got dirty in the rain. | 我的鞋在雨里弄脏了。
+W: 1369 | /teɪk ɔːf maɪ kloʊðz/ | 脱掉我的衣服 | take off my clothes (take off = 脱下)
+X: At the spa, I take off my clothes and put on a robe. | 在水疗馆，我脱下衣服换上浴袍。
+X: I take off my clothes before swimming. | 游泳前我把衣服脱掉。
+W: 1433 | /ɪkˈstend ˈviːzə taɪm/ | 延长签证时间 | extend visa time (also: extend my visa)
+X: The company helps foreign staff extend visa time. | 公司帮外籍员工延长签证时间。
+X: Leo needs to extend his visa time this month. | Leo 这个月要延签。
+W: 1422 | /biː waɪ diː / ˈvɑːlvoʊ / ˈteslə/ | 汽车品牌：比亚迪 / 沃尔沃 / 特斯拉 | compare BYD, Volvo and Tesla
+X: Our company cars are BYD, Volvo and Tesla. | 我们公司的车有比亚迪、沃尔沃和特斯拉。
+X: You can rent a BYD, Volvo or Tesla in Bali now. | 现在在巴厘岛可以租比亚迪、沃尔沃或特斯拉。
+W: 1449 | /ˈbæɡɪdʒ/ | 行李 | a lot of baggage; baggage space
+X: How much baggage can I take on a business trip? | 出差能带多少行李？
+X: The plane ticket includes 20 kg of baggage. | 机票含 20 公斤行李额。
+W: 1450 | /speɪs/ | 空间 | no space; baggage space
+X: There is no space for a new desk in the office. | 办公室没地方放新桌子了。
+X: The villa has a lot of space. | 那栋别墅空间很大。
+W: 1451 | /trʌŋk/ | （汽车）后备箱 | open the trunk; put it in the trunk
+X: Put the samples in the trunk. | 把样品放进后备箱。
+X: The taxi trunk was too small for the surfboard. | 出租车后备箱太小，放不下冲浪板。
+W: 1452 | /stɔːr ˈaɪtəmz/ | 存放物品 | the trunk stores items
+X: We use this room to store items for events. | 我们用这间屋子存放活动物品。
+X: The hotel can store items for guests. | 酒店可以帮客人寄存物品。
+W: 1432 | /ˈfjuːəl/ | 燃油；燃料 | fuel price; need fuel
+X: Fuel costs are a big part of our budget. | 燃油费是我们预算的一大块。
+X: Fuel is cheap in Indonesia. | 印尼的油价便宜。
+W: 1447 | /tæŋk/ | （油）箱；坦克 | fuel tank; the tank is empty
+X: Fill the tank before the long drive. | 长途开车前把油箱加满。
+X: The scooter tank is very small. | 摩托车的油箱很小。
+W: 1445 | /θɪn/ | 薄的；瘦的 | too thin; thin noodles
+X: The walls in this office are very thin. | 这间办公室的墙很薄。
+X: My raincoat is too thin. | 我的雨衣太薄了。
+W: 1384 | /wer koʊt/ | 穿外套 | wear a coat
+X: I wear a coat in the office because of the air conditioner. | 因为空调太冷，我在办公室穿外套。
+X: You need to wear a coat on Mount Batur at night. | 晚上在巴图尔火山上得穿外套。
+W: 1394 | /treɪn/ | 火车；训练 | take the train; train at the gym
+X: The company will train new staff next week. | 公司下周培训新员工。
+X: There is no train in Bali. | 巴厘岛没有火车。

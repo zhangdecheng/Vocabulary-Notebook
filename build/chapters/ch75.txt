@@ -1,0 +1,66 @@
+# 75 | ⑦ 地理与自然 | A Map on the Board | 白板上的地图
+P: In class, Sonia drew a map of China on the board. "Leo, show us," she said. Leo pointed. "{Beijing|1577} is in the {north|1543}. {Shanghai|1576} is in the {east|1545}. {Chongqing|1575} is in the {west|1546}, and {Hong Kong|1574} is in the {south|1544}."
+Z: 课上，Sonia 在白板上画了一张中国地图。“Leo，给我们讲讲，”她说。Leo 指着地图：“北京在北方，上海在东边，重庆在西边，香港在南方。”
+P: "China is a big country in {Asia|1568}," Leo said. "It has amazing {nature views|1533}. There are big mountains, green {forests|1502} and deep {caves|1504}." Kenji said, "In Japan we have many mountains too, and we have the {sea|1398} everywhere."
+Z: “中国是亚洲的一个大国，”Leo 说，“那里有很美的自然风光，有高山、绿色的森林和很深的山洞。”Kenji 说：“日本也有很多山，而且到处都是海。”
+P: Ana said, "I am from London. Last year I went to {France|1672} and {Germany|1550} by train. It was easy." Kenji said, "I went to {Kuala Lumpur|1557} last month. It is close to Bali." Leo said, "Bali is a beautiful {island|1399}. I want to stay here for a long time."
+Z: Ana 说：“我来自伦敦。去年我坐火车去了法国和德国，很方便。”Kenji 说：“我上个月去了吉隆坡，离巴厘岛很近。”Leo 说：“巴厘岛是个美丽的岛，我想在这里待很久。”
+P: After class, Leo went to Pak Made's house. Ketut was watering the {plants|1454} in the garden. There was a red {rose|1655} by the door. "This is for my mother," Ketut said. "She loves roses." Leo smiled. "In Shanghai, my mother loves them too."
+Z: 下课后，Leo 去了 Pak Made 家。Ketut 正在花园里给植物浇水。门边有一朵红玫瑰。“这是给我妈妈的，”Ketut 说，“她最喜欢玫瑰了。”Leo 笑了：“我在上海的妈妈也喜欢。”
+W: 1577 | /ˌbeɪˈdʒɪŋ/ | 北京 | live in Beijing
+X: Our Beijing office opens at nine. | 我们北京办公室九点开门。
+X: Ana wants to see the Great Wall near Beijing. | Ana 想去看北京附近的长城。
+W: 1543 | /nɔːrθ/ | 北；北方 | in the north; go north
+X: Our new store is in the north of the city. | 我们的新店在城市北边。
+X: Lovina is in the north of Bali. | 罗威纳在巴厘岛北部。
+W: 1576 | /ˌʃæŋˈhaɪ/ | 上海 | from Shanghai
+X: Many big companies have offices in Shanghai. | 很多大公司在上海设有办公室。
+X: Leo misses the food in Shanghai. | Leo 想念上海的美食。
+W: 1545 | /iːst/ | 东；东方 | in the east; the east coast
+X: Our main customers are in the east of China. | 我们的主要客户在中国东部。
+X: The sun comes up in the east over Sanur. | 太阳从沙努尔东边升起。
+W: 1575 | /ˌtʃʊŋˈtʃɪŋ/ | 重庆 | Chongqing hot pot
+X: Our supplier is in Chongqing. | 我们的供应商在重庆。
+X: Chongqing hot pot is very spicy. | 重庆火锅很辣。
+W: 1546 | /west/ | 西；西方 | in the west; go west
+X: The company plans to grow in the west of China. | 公司计划在中国西部发展。
+X: The sunset is in the west, over the sea. | 日落在西边的海面上。
+W: 1574 | /ˌhɑːŋ ˈkɑːŋ/ | 香港 | fly to Hong Kong
+X: I have a business trip to Hong Kong next week. | 我下周去香港出差。
+X: Hong Kong is famous for dim sum. | 香港以早茶点心闻名。
+W: 1544 | /saʊθ/ | 南；南方 | in the south; the south of China
+X: The factory is in the south of China. | 工厂在中国南方。
+X: Uluwatu is in the south of Bali. | 乌鲁瓦图在巴厘岛南部。
+W: 1568 | /ˈeɪʒə/ | 亚洲 | in Asia; Southeast Asia
+X: The company wants to sell more in Asia. | 公司想在亚洲卖得更多。
+X: Bali is one of the most popular places in Asia. | 巴厘岛是亚洲最受欢迎的地方之一。
+W: 1533 | /ˈneɪtʃər vjuːz/ | 自然风光 | amazing nature views
+X: The hotel website shows great nature views. | 酒店官网展示了美丽的自然风光。
+X: You can see great nature views from Mount Batur. | 在巴图尔火山上能看到美丽的自然风光。
+W: 1502 | /ˈfɔːrɪst/ | 森林 | a green forest; in the forest
+X: The company plants trees to protect the forest. | 公司植树来保护森林。
+X: There is a monkey forest in Ubud. | 乌布有一片猴林。
+W: 1504 | /keɪv/ | 山洞 | go into a cave
+X: The tour company offers cave trips. | 这家旅行社提供山洞探险游。
+X: Goa Gajah is a famous cave in Bali. | 象窟是巴厘岛一个著名的山洞。
+W: 1398 | /siː/ | 海 | by the sea; swim in the sea
+X: The new office has a view of the sea. | 新办公室能看到海。
+X: The sea in Amed is very clear. | 艾湄湾的海水非常清澈。
+W: 1672 | /fræns/ | 法国 | go to France
+X: Our wine comes from France. | 我们的葡萄酒来自法国。
+X: Ana's friend from France teaches surfing. | Ana 的一个法国朋友教冲浪。
+W: 1550 | /ˈdʒɜːrməni/ | 德国 | from Germany
+X: The machines are made in Germany. | 这些机器是德国制造的。
+X: Many tourists from Germany visit Ubud. | 很多德国游客去乌布。
+W: 1557 | /ˌkwɑːlə ˈlʊmpʊr/ | 吉隆坡（马来西亚首都） | fly to Kuala Lumpur
+X: We have a meeting in Kuala Lumpur on Friday. | 我们周五在吉隆坡有个会。
+X: The flight from Bali to Kuala Lumpur is short. | 巴厘岛飞吉隆坡很快。
+W: 1399 | /ˈaɪlənd/ | 岛 | a small island; on the island
+X: Our hotel group has three hotels on the island. | 我们酒店集团在岛上有三家酒店。
+X: Nusa Penida is an island near Bali. | 努沙佩尼达是巴厘岛附近的一个岛。
+W: 1454 | /plænts/ | 植物（plant 的复数） | water the plants
+X: There are many green plants in our office. | 我们办公室有很多绿植。
+X: Ketut waters the plants every morning. | Ketut 每天早上给植物浇水。
+W: 1655 | /roʊz/ | 玫瑰 | a red rose
+X: The client sent a rose to every woman in the office. | 客户给办公室每位女士送了一朵玫瑰。
+X: There are roses in the hotel garden. | 酒店花园里有玫瑰。
