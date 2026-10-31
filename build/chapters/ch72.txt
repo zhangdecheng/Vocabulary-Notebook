@@ -1,0 +1,59 @@
+# 72 | ⑤ 食物与饮食 | Leo Misses Home Food | Leo 想念家乡菜
+P: Leo was hungry, and he missed {mainland food|1391}. "In China, there is so much {delicious food|1534}," he told Warren. "In Chongqing they have spicy hot pot. In Shanghai my mother makes {duck legs|1571} with soy sauce." Warren said, "Then let's cook Chinese food tonight."
+Z: Leo 饿了，他很想念国内的饭菜。“在中国有好多美食，”他对 Warren 说，“重庆有麻辣火锅。在上海，我妈妈会做酱鸭腿。”Warren 说：“那我们今晚做中国菜吧。”
+P: But first they needed lunch. They went to a small {warung|1392} near their house. The food was {simple|1442}: rice, vegetables and a hot {soup|1443}. Leo ordered chicken. "The meat {near the bone|1551} is the best," Pak Made said. He gave Leo the biggest piece.
+Z: 不过他们得先吃午饭。他们去了家附近的一家小吃店。饭菜很简单：米饭、蔬菜和一碗热汤。Leo 点了鸡肉。“靠近骨头的肉最好吃，”Pak Made 说。他给了 Leo 最大的一块。
+P: Pak Made talked about his family. "My father used to {plant rice|1553} in Tabanan. We were never hungry, but we often ate {bland food|1640} with no salt." Leo said, "My grandfather said {hunger|1446} is the best sauce." Pak Made laughed. "He was right."
+Z: Pak Made 聊起他的家人。“我父亲以前在塔巴南种水稻。我们从来没挨过饿，但常常吃不放盐的清淡食物。”Leo 说：“我爷爷说，饥饿是最好的调味酱。”Pak Made 笑了：“他说得对。”
+P: In the afternoon, Leo studied at a {cafe|1436}. He had a coffee and some {cookies|1461}. He tried to {stir|1584} his coffee with a pen, because there was no spoon. The waiter saw him and brought a spoon. Leo's face turned red.
+Z: 下午，Leo 在一家咖啡馆学习。他点了一杯咖啡和一些饼干。因为没有勺子，他试着用笔搅拌咖啡。服务员看见了，给他拿来一把勺子。Leo 的脸一下子红了。
+P: That night, Warren cooked in a big {pot|1385}. Kenji came with a bag of {take out|1639} food from a Chinese restaurant. Warren's neighbor came too. He drank too much beer and got a little {drunk|1393}. He sang a song and then fell asleep on the sofa.
+Z: 那天晚上，Warren 用一口大锅做饭。Kenji 从一家中餐馆带来一袋外卖。Warren 的邻居也来了，他啤酒喝多了，有点醉。他唱了一首歌，然后就在沙发上睡着了。
+W: 1391 | /ˈmeɪnlænd fuːd/ | （中国）大陆的食物 | miss mainland food
+X: Our Chinese clients always ask where to find mainland food. | 我们的中国客户总问哪里能吃到国内的饭菜。
+X: There is a new mainland food restaurant in Denpasar. | 登巴萨新开了一家中餐馆。
+W: 1534 | /dɪˈlɪʃəs fuːd/ | 美食 | a lot of delicious food
+X: The hotel is famous for delicious food and good service. | 这家酒店以美食和优质服务闻名。
+X: There is delicious food at every corner in Bali. | 巴厘岛处处都有美食。
+W: 1571 | /dʌk leɡz/ | 鸭腿 | fried duck legs
+X: We ordered fried duck legs for the team lunch. | 团队午餐我们点了炸鸭腿。
+X: Crispy duck legs are a famous Bali dish. | 脆皮鸭腿是巴厘岛的名菜。
+W: 1392 | /ˈwɑːrʊŋ/ | （印尼）小吃店；路边小饭馆 | a local warung
+X: Our team often eats lunch at the warung next to the office. | 我们团队常在公司旁边的小吃店吃午饭。
+X: The warung near the beach sells fresh fish. | 海边那家小吃店卖新鲜的鱼。
+W: 1442 | /ˈsɪmpl/ | 简单的 | a simple lunch; keep it simple
+X: Keep the slides simple, please. | 幻灯片请做得简单些。
+X: I just want a simple lunch today. | 我今天只想吃顿简单的午饭。
+W: 1443 | /suːp/ | 汤 | hot soup; chicken soup
+X: The canteen has a different soup every day. | 食堂每天的汤都不一样。
+X: Soto ayam is a chicken soup from Indonesia. | Soto ayam 是一种印尼鸡汤。
+W: 1551 | /nɪr ðə boʊn miːt/ | 靠近骨头的肉 | the meat near the bone (also: meat on the bone)
+X: The chef said the meat near the bone has the most flavor. | 厨师说骨头边的肉最有味道。
+X: Ketut always eats the meat near the bone. | Ketut 总爱吃骨头边上的肉。
+W: 1553 | /plænt raɪs/ | 种水稻 | plant rice in the fields
+X: The company helps farmers plant rice with new machines. | 这家公司用新机器帮农民种水稻。
+X: Farmers plant rice near Jatiluwih. | 农民在贾蒂卢维附近种水稻。
+W: 1640 | /blænd fuːd/ | 清淡（无味）的食物 | eat bland food
+X: After the operation, the doctor said to eat bland food. | 手术后医生让吃清淡的食物。
+X: Warren says hospital food is always bland food. | Warren 说医院的饭总是淡而无味。
+W: 1446 | /ˈhʌŋɡər/ | 饥饿（感） | feel hunger
+X: Long meetings without lunch make hunger a big problem. | 不吃午饭开长会，饥饿就成了大问题。
+X: After surfing, my hunger is very strong. | 冲完浪我饿得不行。
+W: 1436 | /kæˈfeɪ/ | 咖啡馆 | meet at a cafe; work in a cafe
+X: I often answer emails in a cafe. | 我经常在咖啡馆回邮件。
+X: There are many nice cafes in Canggu. | 仓古有很多不错的咖啡馆。
+W: 1461 | /ˈkʊkiz/ | 饼干（cookie 的复数） | chocolate cookies
+X: Someone brought cookies to the morning meeting. | 有人带了饼干来开早会。
+X: Ketut made coconut cookies with her mother. | Ketut 和她妈妈做了椰子饼干。
+W: 1584 | /stɜːr/ | 搅拌 | stir coffee; stir the soup
+X: Stir the paint before you use it. | 用油漆前要先搅一搅。
+X: Warren stirred the curry slowly. | Warren 慢慢地搅着咖喱。
+W: 1385 | /pɑːt/ | 锅 | a big pot; a pot of rice
+X: The office kitchen has one big pot for rice. | 办公室厨房有一口煮饭的大锅。
+X: Pak Made cooks soup in a big pot. | Pak Made 用一口大锅煮汤。
+W: 1639 | /teɪk aʊt/ | 外卖；带走 | take out food; can I take it out?
+X: We ordered take out for the late meeting. | 开会到很晚，我们叫了外卖。
+X: Can I take out the rest of my noodles? | 剩下的面我能打包带走吗？
+W: 1393 | /drʌŋk/ | 喝醉的 | get drunk; a little drunk
+X: Don't get drunk at the company party. | 公司聚会别喝醉。
+X: Some tourists get drunk in Kuta at night. | 一些游客晚上在库塔喝醉。

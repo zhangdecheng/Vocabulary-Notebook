@@ -1,0 +1,65 @@
+# 71 | ④ 格斗与运动 | A Very Active Weekend | 超级忙碌的运动周末
+P: On Friday, Sonia asked the class, "What is your favorite {sport|1386}?" Ana said {yoga|1389}. She does it in Ubud every morning. Kenji likes {running|1387} on the beach. Leo said, "I do {boxing|1388} at the gym, and sometimes I play {tennis|1390} with Warren."
+Z: 周五，Sonia 问全班：“你最喜欢的运动是什么？”Ana 说是瑜伽，她每天早上都在乌布练。Kenji 喜欢在海滩上跑步。Leo 说：“我在健身房练拳击，有时候还和 Warren 打网球。”
+P: On Saturday, they went to Warren's friend's villa. It had a big {swimming pool|1403}. Kenji jumped into the {pool|1404} first. Leo wanted to {borrow|1503} Warren's sunglasses, but Warren said, "Careful. Don't {break|1653} them. They were expensive."
+Z: 周六，他们去了 Warren 朋友的别墅。那里有一个很大的游泳池。Kenji 第一个跳进了泳池。Leo 想借 Warren 的墨镜，Warren 说：“小心点，别弄坏了，挺贵的。”
+P: Ketut and her little brother played with a ball. The boys {hit each other|1554} with pool noodles and laughed. Then Ketut threw the ball to Leo. He tried to {catch|1479} it, but it hit his {arm|1676} and flew away. "Ouch!" he said. "You {hit|1677} me!" Ketut laughed. "Sorry!"
+Z: Ketut 和她弟弟在玩球。男孩们拿泳池浮条互相打，笑个不停。后来 Ketut 把球扔给 Leo。他想接住，可球打到了他的胳膊上飞走了。“哎哟！”他说，“你打到我了！”Ketut 笑着说：“对不起！”
+P: Leo walked to the table with a cup of juice. He stepped on a wet towel and {spilled|1580} the juice on Warren's phone. Now the screen was {broken|1654}. "Bro…" Warren said. Leo felt terrible. "I'll pay for it," he said.
+Z: Leo 端着一杯果汁走向桌子。他踩到一条湿毛巾，把果汁洒在了 Warren 的手机上。现在屏幕坏了。“兄弟……”Warren 说。Leo 很过意不去：“我来赔。”
+P: On Sunday, they took an {ATV tour|1505} near Ubud. They drove through mud and rice fields. At the end of the day, the sun began to {disappear|1555} behind the hills. On the way home, Kenji talked about {football stars|1562}. "One day I want to meet Messi," he said.
+Z: 周日，他们在乌布附近参加了全地形车之旅。他们开过泥地和稻田。傍晚，太阳开始消失在山后。回家路上，Kenji 聊起了足球明星。“总有一天我要见到梅西，”他说。
+W: 1386 | /spɔːrt/ | 运动 | favorite sport; play a sport
+X: Our company has a sport day every year. | 我们公司每年都有一个运动日。
+X: Surfing is the most popular sport in Canggu. | 冲浪是仓古最流行的运动。
+W: 1389 | /ˈjoʊɡə/ | 瑜伽 | do yoga; a yoga class
+X: Some offices offer yoga at lunch time. | 有些公司午休时提供瑜伽课。
+X: Ana does yoga in Ubud every morning. | Ana 每天早上在乌布练瑜伽。
+W: 1387 | /ˈrʌnɪŋ/ | 跑步 | go running; running shoes
+X: Running before work helps me think clearly. | 上班前跑步让我思路清晰。
+X: Running on Sanur beach is nice at sunrise. | 日出时在沙努尔海滩跑步很舒服。
+W: 1388 | /ˈbɑːksɪŋ/ | 拳击 | do boxing; a boxing class
+X: Boxing is a good way to reduce work stress. | 拳击是缓解工作压力的好办法。
+X: Leo goes to a boxing gym in Seminyak. | Leo 去水明漾的一家拳击馆。
+W: 1390 | /ˈtenɪs/ | 网球 | play tennis; a tennis court
+X: The boss plays tennis with clients on Sundays. | 老板周日和客户一起打网球。
+X: The hotel has a tennis court near the beach. | 那家酒店在海边有个网球场。
+W: 1403 | /ˈswɪmɪŋ puːl/ | 游泳池 | a private swimming pool
+X: The new office building has a swimming pool. | 新办公楼里有个游泳池。
+X: Most villas in Bali have a swimming pool. | 巴厘岛大多数别墅都有游泳池。
+W: 1404 | /puːl/ | 水池；泳池 | jump into the pool; by the pool
+X: We had a short meeting by the hotel pool. | 我们在酒店泳池边开了个短会。
+X: Ketut swims in the pool every afternoon. | Ketut 每天下午在泳池游泳。
+W: 1503 | /ˈbɑːroʊ/ | 借（入） | borrow sth. from sb.
+X: Can I borrow your charger for the meeting? | 开会时能借一下你的充电器吗？
+X: You can borrow a helmet from the scooter shop. | 你可以在摩托车店借头盔。
+W: 1653 | /breɪk/ | 打破；弄坏 | break a glass; don't break it
+X: Please don't break the new printer. | 请别把新打印机弄坏了。
+X: The waves can break your surfboard. | 海浪可能会把你的冲浪板打断。
+W: 1554 | /hɪt iːtʃ ˈʌðər/ | 互相打 | the kids hit each other
+X: The two teams never hit each other; they only argue. | 两个团队从不动手，只是争论。
+X: In the game, the boys hit each other with pillows. | 游戏里男孩们拿枕头互相打。
+W: 1479 | /kætʃ/ | 抓；接住 | catch a ball; catch the bus
+X: I need to catch the 8 a.m. bus to the office. | 我要赶早上 8 点的公交去公司。
+X: Can you catch this coconut? | 你能接住这个椰子吗？
+W: 1676 | /ɑːrm/ | 手臂 | my arm hurts; break an arm
+X: My arm hurts after typing all day. | 打了一整天字，我胳膊疼。
+X: A monkey jumped onto my arm in Ubud. | 在乌布，一只猴子跳到了我胳膊上。
+W: 1677 | /hɪt/ | 打；撞 | hit the ball; hit sb.
+X: The new product hit the market last week. | 新产品上周上市了。
+X: A motorbike almost hit me on the street. | 街上一辆摩托差点撞到我。
+W: 1580 | /spɪl/ | 洒出；泼出 | spill coffee; spill sth. on sth.
+X: I spilled coffee on my laptop before the meeting. | 开会前我把咖啡洒在了电脑上。
+X: Don't spill sand in the car. | 别把沙子弄撒在车里。
+W: 1654 | /ˈbroʊkən/ | 坏了的；break 的过去分词 | a broken screen; my phone is broken
+X: The office printer is broken again. | 办公室打印机又坏了。
+X: The road to the beach is broken after the rain. | 雨后去海滩的路坏了。
+W: 1505 | /ˌeɪ tiː ˈviː tʊr/ | 全地形车之旅 | book an ATV tour
+X: The team booked an ATV tour for the company trip. | 团队为公司旅行订了全地形车项目。
+X: The ATV tour goes through rice fields and mud. | 全地形车之旅会穿过稻田和泥地。
+W: 1555 | /ˌdɪsəˈpɪr/ | 消失 | disappear behind sth.; suddenly disappear
+X: My file disappeared from the shared folder. | 我的文件从共享文件夹里消失了。
+X: The sun disappears into the sea at Jimbaran. | 在金巴兰，太阳会消失在海里。
+W: 1562 | /ˈfʊtbɔːl stɑːrz/ | 足球明星 | meet football stars
+X: The ad uses two football stars. | 这个广告请了两位足球明星。
+X: Many kids in Bali wear shirts of football stars. | 巴厘岛很多孩子穿着足球明星的球衣。

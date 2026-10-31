@@ -1,0 +1,82 @@
+# 85 | ⑰ 影视与剧情 | Movie Night | 电影之夜
+P: On Friday night, everyone came to Warren's cafe for movie night. "Let's go to the {cinema|1487}," Kenji said. "No," said Warren. "My cafe is our {theater|1486} tonight. I have a big screen." Ketut came too. "Can we watch {Tom and Jerry|1480}?" she asked.
+Z: 周五晚上，大家都来 Warren 的咖啡馆过电影之夜。“我们去电影院吧，”Kenji 说。“不，”Warren 说，“今晚我的咖啡馆就是我们的剧场，我有大屏幕。”Ketut 也来了。“我们能看《猫和老鼠》吗？”她问。
+P: They watched Tom and Jerry first. Ketut laughed at the {cat and mouse|1478}. "Jerry is my favorite {character|1476}," she said. "The cat can never catch him!" Then they watched {Lion King|1477}. "The {lion|1471} is so brave," Ketut said. Leo said, "It's a {classic|1484}. I watched it when I was a boy."
+Z: 他们先看了《猫和老鼠》。Ketut 被猫和老鼠逗得哈哈大笑。“杰瑞是我最喜欢的角色，”她说，“猫永远抓不到它！”接着他们看了《狮子王》。“狮子好勇敢，”Ketut 说。Leo 说：“这是经典，我小时候就看过。”
+P: Ana loves love stories. "{Titanic|1488} and {Romeo and Juliet|1489} are the best," she said. Warren likes action. "I like {Training Day|1465}," he said. "Denzel Washington is great in it." Kenji said, "My uncle in Japan is {shooting action movies|1506}. He is a stuntman."
+Z: Ana 喜欢爱情故事。“《泰坦尼克号》和《罗密欧与朱丽叶》最好看，”她说。Warren 喜欢动作片。“我喜欢《训练日》，”他说，“丹泽尔·华盛顿演得太好了。”Kenji 说：“我在日本的叔叔正在拍动作片，他是特技演员。”
+P: Ketut asked, "Who is the strongest hero?" Kenji said, "{Iron Man|1515}. He has no {superpowers|1467}, but he is very smart." Leo said, "{Captain America|1516}. He has a {shield|1473}." Ketut said, "I like the shield!"
+Z: Ketut 问：“谁是最强的英雄？”Kenji 说：“钢铁侠。他没有超能力，但特别聪明。”Leo 说：“美国队长，他有一面盾牌。”Ketut 说：“我喜欢那面盾牌！”
+P: After Ketut went home, the adults talked about TV series. Leo said, "{Prison Break|1513} is very {stimulating|1512}." Warren said, "{Breaking Bad|1517} is about a chemistry teacher. And {Money Heist|1518} is from Spain." Ana said, "I'm watching {The Boys|1514}. It's about bad superheroes."
+Z: Ketut 回家后，大人们聊起了电视剧。Leo 说：“《越狱》特别刺激。”Warren 说：“《绝命毒师》讲的是一个化学老师。《纸钞屋》是西班牙剧。”Ana 说：“我在看《黑袍纠察队》，讲的是一群坏超级英雄。”
+P: "When will they {publish the next series|1497}?" Leo asked. Ana checked her phone. "The {new season|1498} comes out next year." Warren said, "Then next movie night, we watch it together."
+Z: “他们什么时候推出下一部？”Leo 问。Ana 看了看手机：“新一季明年上线。”Warren 说：“那下次电影之夜，我们一起看。”
+W: 1487 | /ˈsɪnəmə/ | 电影院 | go to the cinema
+X: Our company rented a cinema for the staff party. | 公司包下一家电影院办员工聚会。
+X: The cinema is near the mall in Kuta. | 电影院在库塔的商场附近。
+W: 1486 | /ˈθiːətər/ | 剧院；电影院 | go to the theater; a movie theater
+X: The client took us to the theater after dinner. | 晚饭后客户带我们去看戏。
+X: There is a dance theater in Ubud. | 乌布有一家舞蹈剧场。
+W: 1480 | /tɑːm ən ˈdʒeri/ | 《猫和老鼠》（动画名） | watch Tom and Jerry
+X: Our office jokes that the boss and the manager are Tom and Jerry. | 我们办公室开玩笑说老板和经理就像猫和老鼠。
+X: I watched Tom and Jerry as a kid. | 我小时候看《猫和老鼠》。
+W: 1478 | /kæt ən maʊs/ | 猫和老鼠 | play cat and mouse
+X: The two companies play cat and mouse on price. | 两家公司在价格上玩猫鼠游戏。
+X: Ketut and her brother play cat and mouse in the garden. | Ketut 和弟弟在花园里玩猫抓老鼠。
+W: 1476 | /ˈkærəktər/ | 角色；性格 | my favorite character
+X: Our brand needs a cute character for the ads. | 我们的品牌需要一个可爱的广告角色。
+X: Jerry is my favorite character. | 杰瑞是我最喜欢的角色。
+W: 1477 | /ðə ˈlaɪən kɪŋ/ | 《狮子王》（电影名，通常带 The） | watch The Lion King
+X: The Lion King song was in our company video. | 我们公司视频里用了《狮子王》的歌。
+X: The Lion King is a classic. | 《狮子王》是经典。
+W: 1471 | /ˈlaɪən/ | 狮子 | a brave lion; Lion fountain
+X: The company logo is a lion. | 公司的标志是一头狮子。
+X: There is a lion fountain at the mall. | 商场里有个狮子喷泉。
+W: 1484 | /ˈklæsɪk/ | 经典的；经典作品 | a classic movie
+X: This book is a classic for marketing people. | 这本书是营销人的经典读物。
+X: Sate is a classic Bali food. | 沙爹是巴厘岛经典美食。
+W: 1488 | /taɪˈtænɪk/ | 《泰坦尼克号》（电影名） | watch Titanic
+X: The project is so big, like Titanic. | 这个项目太大了，就像泰坦尼克号。
+X: Jack and Rose are in Titanic. | 杰克和露丝是《泰坦尼克号》的主角。
+W: 1489 | /ˈroʊmioʊ ən ˈdʒuːliət/ | 《罗密欧与朱丽叶》 | Romeo and Juliet is a love story
+X: We used Romeo and Juliet in our Valentine's ad. | 我们的情人节广告用了罗密欧与朱丽叶。
+X: Romeo and Juliet is a love story. | 《罗密欧与朱丽叶》是个爱情故事。
+W: 1465 | /ˈtreɪnɪŋ deɪ/ | 《训练日》（电影名） | have you seen Training Day?
+X: Our first day at work felt like Training Day. | 我们上班第一天就像《训练日》一样。
+X: Have you seen Training Day? | 你看过《训练日》吗？
+W: 1506 | /ˈʃuːtɪŋ ˈækʃn ˈmuːviz/ | 拍动作片 | he is shooting action movies
+X: The company is shooting action movies in Bali this year. | 这家公司今年在巴厘岛拍动作片。
+X: Kenji's uncle is shooting action movies. | Kenji 的叔叔在拍动作片。
+W: 1515 | /ˈaɪərn mæn/ | 钢铁侠 | Iron Man has no superpowers
+X: Our CEO wants to be like Iron Man. | 我们 CEO 想当钢铁侠。
+X: Iron Man has no superpowers. | 钢铁侠没有超能力。
+W: 1467 | /ˈsuːpərpaʊərz/ | 超能力（复数） | have superpowers
+X: Good salespeople seem to have superpowers. | 优秀的销售好像都有超能力。
+X: Ketut wishes she had superpowers. | Ketut 希望自己有超能力。
+W: 1516 | /ˈkæptɪn əˈmerɪkə/ | 美国队长 | Captain America's shield
+X: The new manager is our Captain America. | 新经理是我们的美国队长。
+X: Captain America has a shield. | 美国队长有一面盾牌。
+W: 1473 | /ʃiːld/ | 盾牌 | Captain America's shield
+X: A good contract is a shield for the company. | 一份好合同是公司的盾牌。
+X: Ketut made a shield from cardboard. | Ketut 用纸板做了一面盾牌。
+W: 1513 | /ˈprɪzn breɪk/ | 《越狱》（美剧名） | watch Prison Break
+X: My colleague watched Prison Break in one week. | 我同事一周就看完了《越狱》。
+X: Prison Break is a classic series. | 《越狱》是一部经典美剧。
+W: 1512 | /ˈstɪmjəleɪtɪŋ/ | 刺激的；令人兴奋的 | a stimulating story
+X: The training was stimulating and useful. | 这次培训既刺激又有用。
+X: The ATV tour was very stimulating. | 全地形车之旅非常刺激。
+W: 1517 | /ˈbreɪkɪŋ bæd/ | 《绝命毒师》（美剧名） | watch Breaking Bad
+X: Breaking Bad is a famous series about a teacher. | 《绝命毒师》是一部讲老师的著名美剧。
+X: Warren watched Breaking Bad three times. | Warren 把《绝命毒师》看了三遍。
+W: 1518 | /ˈmʌni haɪst/ | 《纸钞屋》（西班牙剧名） | watch Money Heist
+X: Money Heist is a Spanish series. | 《纸钞屋》是一部西班牙剧。
+X: Ana watched Money Heist in Spanish. | Ana 看的是西班牙语原版《纸钞屋》。
+W: 1514 | /ðə bɔɪz/ | 《黑袍纠察队》（美剧名） | watch The Boys
+X: The Boys is about superheroes. | 《黑袍纠察队》讲的是超级英雄。
+X: Kenji thinks The Boys is too dark. | Kenji 觉得《黑袍纠察队》太黑暗了。
+W: 1497 | /ˈpʌblɪʃ ðə nekst ˈsɪriːz/ | 推出下一部剧（更常说 release the next season） | publish the next series soon
+X: The company will publish the next series of videos in May. | 公司五月会推出下一系列视频。
+X: Ana will publish the next series on her channel. | Ana 会在她的频道推出下一个系列。
+W: 1498 | /nuː ˈsiːzn/ | 新一季 | wait for the new season
+X: The new season of our podcast starts next week. | 我们播客的新一季下周开播。
+X: I am waiting for the new season. | 我在等新一季。

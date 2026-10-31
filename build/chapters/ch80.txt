@@ -1,0 +1,79 @@
+# 80 | ⑪ 人际 · 学习 · 观点 | A Big Decision | 一个重大的决定
+P: Leo had to make a {decision|1370}. Should he stay in Bali or go back to Shanghai? "It's not easy to {decide|1371}," he told Pak Made. Pak Made smiled. "Many {bule|1377} come here for a week. You are different. You stay." Leo laughed. "I'm not a bule. I'm Chinese!"
+Z: Leo 得做一个决定：留在巴厘岛，还是回上海？“决定可不容易，”他对 Pak Made 说。Pak Made 笑了：“很多外国人来这儿只待一周，你不一样，你留下来了。”Leo 笑着说：“我可不是 bule，我是中国人！”
+P: Leo looked at the rice fields. The {views|1383} were beautiful. "Living here is {really worth|1382} it," he said. "But my job is busy. Some days I do {not have enough energy to|1400} study after work." Pak Made said, "Then ask your teacher to help."
+Z: Leo 望着稻田，景色很美。“住在这里真的很值得，”他说，“可我工作很忙，有时下班后我都没有足够的精力去学习。”Pak Made 说：“那就请你的老师帮帮你。”
+P: The next day, Leo had a {request|1538} for Sonia. "Can we {shorten the lessons|1397} to one hour?" he asked. Sonia said, "Sure. But one hour must be {useful|1373}. Please read the {notice|1431} on the board. We will have a {formal|1435} speaking class next week."
+Z: 第二天，Leo 向 Sonia 提了个请求。“我们能把课缩短到一小时吗？”他问。Sonia 说：“当然可以。不过这一小时一定要有用。请看一下白板上的通知，下周我们有一节正式的口语课。”
+P: In class, Sonia asked, "What {type|1429} of movie leaves a {deep impression|1474} on you?" Kenji said, "A movie about real people. I like the {real thing|1483}." Ana said, "A {memorable|1475} movie has a good story and a happy {memory|1509}." Sonia said, "Good. Now, make a {bold guess|1507}: what is my favorite movie?"
+Z: 课上，Sonia 问：“什么类型的电影会给你留下深刻印象？”Kenji 说：“讲真人真事的电影，我喜欢真实的东西。”Ana 说：“一部难忘的电影要有好故事，也要留下美好的回忆。”Sonia 说：“很好。现在大胆猜一下：我最喜欢的电影是什么？”
+P: Leo asked, "Can you {explain both A and B|1425}? The words 'accept' and 'receive'?" Sonia said, "You receive a gift. You {accept the fact|1453}. For example: I accept the fact that I can {fail|1375}." Leo said, "And I can {control|1496} my mind and {achieve|1495} my goal." Sonia smiled. "Exactly."
+Z: Leo 问：“您能把 A 和 B 都解释一下吗？就是 accept 和 receive 这两个词。”Sonia 说：“收到礼物用 receive；接受事实用 accept。比如：我接受自己可能会失败的事实。”Leo 说：“而且我能控制自己的想法，实现我的目标。”Sonia 笑了：“完全正确。”
+P: That night, Leo made his decision. "I will stay one more year," he told Warren. Warren gave him a high five. "Good choice, bro."
+Z: 那天晚上，Leo 做出了决定。“我会再待一年，”他对 Warren 说。Warren 跟他击了个掌：“好选择，兄弟。”
+W: 1370 | /dɪˈsɪʒn/ | 决定 | make a decision; a hard decision
+X: The boss will make a decision on Friday. | 老板周五会做决定。
+X: Moving to Bali was a big decision for Leo. | 搬到巴厘岛对 Leo 来说是个重大决定。
+W: 1371 | /dɪˈsaɪd/ | 决定 | decide to do sth.
+X: We decided to change our supplier. | 我们决定换供应商。
+X: I decide to stay in Bali. | 我决定留在巴厘岛。
+W: 1377 | /ˈbu.le/ | （印尼语俗称）外国人，多指白人游客 | locals call foreigners "bule"
+X: Some shops have a "bule price" and a local price. | 有些店有“外国人价”和本地价。
+X: In Bali, people call foreigners "bule". | 在巴厘岛，人们把外国人叫作 bule。
+W: 1383 | /vjuːz/ | 景色；观点 | beautiful views; share your views
+X: Please share your views in the meeting. | 请在会上分享你的观点。
+X: The views from the cliff are amazing. | 悬崖上的景色太美了。
+W: 1382 | /ˈriːəli wɜːrθ/ | 很值得 | it's really worth it
+X: The training is expensive, but it's really worth it. | 培训挺贵，但真的很值得。
+X: Waking up early for the sunrise is really worth it. | 早起看日出真的很值得。
+W: 1400 | /nɑːt hæv ɪˈnʌf ˈenərdʒi tuː/ | 没有足够的精力去… | I do not have enough energy to cook
+X: After the long meeting, I did not have enough energy to talk. | 开完长会后，我连说话的力气都没了。
+X: Some days Leo does not have enough energy to cook. | 有时 Leo 没精力做饭。
+W: 1538 | /rɪˈkwest/ | 请求；要求 | have a request; make a request
+X: The client sent a new request this morning. | 客户今天早上发来了新要求。
+X: I have a request: can we start later? | 我有个请求：能晚点开始吗？
+W: 1397 | /ˈʃɔːrtn ðə ˈlesnz/ | 缩短课程 | shorten the lessons to one hour
+X: The school will shorten the lessons on Fridays. | 学校周五会缩短课时。
+X: Can we shorten the lessons in the rainy season? | 雨季时能把课缩短吗？
+W: 1373 | /ˈjuːsfl/ | 有用的 | very useful; a useful tool
+X: This report is very useful for our team. | 这份报告对我们团队很有用。
+X: A raincoat is useful in Bali. | 在巴厘岛雨衣很有用。
+W: 1431 | /ˈnoʊtɪs/ | 通知；注意到 | read the notice; did you notice?
+X: Did you notice the new rules in the email? | 你注意到邮件里的新规定了吗？
+X: There is a notice at the door of the temple. | 神庙门口贴着一则通知。
+W: 1435 | /ˈfɔːrml/ | 正式的 | formal clothes; a formal meeting
+X: Wear formal clothes to the meeting with the client. | 见客户要穿正装。
+X: Bali ceremonies need formal clothes, like a sarong. | 巴厘岛的仪式要穿正式服装，比如纱笼。
+W: 1429 | /taɪp/ | 类型 | what type of…?
+X: What type of customer buys this product? | 什么类型的客户会买这个产品？
+X: What type of surfboard do you need? | 你需要哪种冲浪板？
+W: 1474 | /diːp ɪmˈpreʃn/ | 深刻印象 | leave a deep impression on sb.
+X: Her presentation left a deep impression on the client. | 她的演讲给客户留下了深刻印象。
+X: The dance show left a deep impression on Ana. | 那场舞蹈表演给 Ana 留下了深刻印象。
+W: 1483 | /riːl θɪŋ/ | 真东西；真实的事物 | this is the real thing
+X: The photo is nice, but the real thing is better. | 照片很好看，但实物更好。
+X: This is not fake Sate Babi, this is the real thing. | 这不是山寨的 Sate Babi，是正宗的。
+W: 1475 | /ˈmemərəbl/ | 难忘的 | a memorable trip; very memorable
+X: Our team trip to Bali was very memorable. | 我们团队的巴厘岛之旅非常难忘。
+X: The sunset in Uluwatu is memorable. | 乌鲁瓦图的日落令人难忘。
+W: 1509 | /ˈmeməri/ | 记忆；回忆 | a good memory
+X: My first job is a good memory. | 我的第一份工作是美好的回忆。
+X: Ketut has a great memory for names. | Ketut 记名字特别厉害。
+W: 1507 | /boʊld ɡes/ | 大胆猜测 | make a bold guess
+X: Make a bold guess: how many customers will come? | 大胆猜一下：会来多少客户？
+X: Kenji made a bold guess and he was right. | Kenji 大胆猜了一下，结果猜对了。
+W: 1425 | /ɪkˈspleɪn boʊθ eɪ ənd biː/ | 把 A 和 B 都解释一下 | please explain both A and B
+X: Please explain both plan A and plan B to the client. | 请把方案 A 和方案 B 都给客户讲一下。
+X: The guide explained both A and B: the old and new temple. | 导游把 A 和 B——老庙和新庙——都讲了一遍。
+W: 1453 | /əkˈsept ðə fækt/ | 接受事实 | accept the fact that…
+X: We have to accept the fact that sales are down. | 我们得接受销售下滑的事实。
+X: Leo accepts the fact that it rains a lot in Bali. | Leo 接受了巴厘岛雨多的事实。
+W: 1375 | /feɪl/ | 失败 | fail to do sth.; don't be afraid to fail
+X: Don't be afraid to fail at a new job. | 做新工作别怕失败。
+X: Kenji failed to stand on the surfboard ten times. | Kenji 十次都没能在冲浪板上站起来。
+W: 1496 | /kənˈtroʊl/ | 控制 | control my mind; under control
+X: Don't worry, everything is under control. | 别担心，一切尽在掌握。
+X: It is hard to control a scooter on a wet road. | 在湿滑路面上很难控制摩托车。
+W: 1495 | /əˈtʃiːv/ | 实现；达到 | achieve a goal
+X: Our team achieved the sales goal this month. | 我们团队这个月完成了销售目标。
+X: Leo wants to achieve his English goal this year. | Leo 想在今年实现他的英语目标。

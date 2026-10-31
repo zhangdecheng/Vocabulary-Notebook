@@ -1,0 +1,39 @@
+# 86 | ⑳ 历史与时事话题 | Ana Plans a Trip to China | Ana 计划去中国
+P: Ana wanted to make videos in China. "Do I need a visa?" she asked Leo. "For UK people, China is {visa-free|1578} for 30 days now," Leo said. Ana was happy. "Great. Last year my friend had a {visa fail|1579} for another country. It was terrible."
+Z: Ana 想去中国拍视频。“我需要签证吗？”她问 Leo。“现在英国人去中国可以免签 30 天，”Leo 说。Ana 很高兴：“太好了。去年我朋友去另一个国家签证被拒了，可糟糕了。”
+P: "What should I see in Beijing?" Ana asked. Leo said, "Climb {The Great Wall|1542}. And get up early to watch the {flag-raising|1531} at {Tiananmen Square|1535}. Many tourists go there at sunrise." Kenji said, "China has a very long {history|1569}."
+Z: “我在北京该去看什么？”Ana 问。Leo 说：“去爬长城。再早点起床，去天安门广场看升旗。很多游客都在日出时去。”Kenji 说：“中国的历史非常悠久。”
+P: Ana made a short video about her plan. She put no {ads|1556} in it. In one day, it got 2,000 {likes|1637}. One fan wrote, "{LOL|1658}, Ana, don't eat too much hot pot!" Ana laughed and showed Leo.
+Z: Ana 拍了一段关于旅行计划的短视频，里面没放任何广告。一天之内就收获了 2000 个赞。一个粉丝留言：“哈哈，Ana，别吃太多火锅哦！”Ana 笑着给 Leo 看。
+P: At the end of the video, Ana said, "Travel helps people understand each other. That's good for world {peace|1662}." Leo smiled. "Now you sound like a teacher too."
+Z: 视频最后，Ana 说：“旅行能帮助人们相互理解，这对世界和平有好处。”Leo 笑了：“现在你说话也像个老师了。”
+W: 1578 | /ˌviːzə ˈfriː/ | 免签的 | visa-free for 30 days
+X: Visa-free travel makes business trips easier. | 免签让出差更方便了。
+X: Indonesia is not visa-free for everyone. | 印尼并不是对所有人都免签。
+W: 1579 | /ˈviːzə feɪl/ | 签证被拒（更自然：my visa was rejected） | have a visa fail
+X: A visa fail can stop a business trip. | 签证被拒可能会耽误出差。
+X: After his visa fail, Kenji applied again. | 签证被拒后，Kenji 又重新申请了。
+W: 1542 | /ðə ɡreɪt wɔːl/ | 长城 | climb the Great Wall
+X: Our company trip went to the Great Wall. | 我们公司团建去了长城。
+X: Ana wants to film the Great Wall. | Ana 想去拍长城。
+W: 1531 | /ˈflæɡ ˌreɪzɪŋ/ | 升旗 | a flag-raising ceremony
+X: Our school had a flag-raising every Monday. | 我们学校每周一都升旗。
+X: We watched the flag-raising ceremony. | 我们看了升旗仪式。
+W: 1535 | /ˌtjɛnənmən ˈskwer/ | 天安门广场 | at Tiananmen Square
+X: Many tourists visit Tiananmen Square on holidays. | 节假日很多游客去天安门广场。
+X: We watched the flag-raising at Tiananmen Square. | 我们在天安门广场看了升旗。
+W: 1569 | /ˈhɪstri/ | 历史 | a long history
+X: Our company has a 50-year history. | 我们公司有 50 年历史。
+X: Bali has a long history of dance. | 巴厘岛的舞蹈历史悠久。
+W: 1556 | /ædz/ | 广告（advertisement 的缩写复数） | skip the ads; online ads
+X: We spend a lot of money on online ads. | 我们在网络广告上花了很多钱。
+X: I skip the ads on YouTube. | 我会跳过 YouTube 上的广告。
+W: 1637 | /laɪks/ | （社交媒体）点赞 | get 1,000 likes
+X: Our post got more likes than last week. | 我们的帖子比上周获得更多点赞。
+X: Ana's video got 1,000 likes. | Ana 的视频有 1000 个赞。
+W: 1658 | /ˌel oʊ ˈel/ | （网络用语）大笑（= laugh out loud） | LOL, that's funny
+X: My boss wrote "LOL" in the group chat. | 我老板在群聊里发了个“LOL”。
+X: LOL, Kenji fell off his surfboard again. | 哈哈，Kenji 又从冲浪板上掉下来了。
+W: 1662 | /piːs/ | 和平；平静 | world peace; peace and quiet
+X: I need some peace and quiet to finish the report. | 我需要安静一下来完成报告。
+X: The temple is full of peace in the morning. | 早上的神庙一片宁静。

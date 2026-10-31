@@ -1,0 +1,82 @@
+# 70 | ① 性格与情绪 | Don't Overthink It | 别想太多
+P: Leo's new class was {casual|1411}, not formal. Sonia is a {professional|1421} teacher, but she sat on the table with a cup of coffee. "This class is {interesting|1420}," Leo said. "But I always {overthink|1372} before I speak." Sonia smiled. "Just talk. A relaxed class makes your {mind comfortable|1381}."
+Z: Leo 的新课很随意，一点也不正式。Sonia 是一位专业的老师，但她端着一杯咖啡坐在桌子上。“这节课很有意思，”Leo 说，“可我开口前总是想太多。”Sonia 笑了：“直接说就好。轻松的课堂能让你心里舒服。”
+P: Kenji came in late. He looked {upset|1455}. "My {nephew|1500} in Tokyo is sick," he said. "He was {crying|1536} on the phone. I felt {sad|1456} and {helpless|1583}. I can't do anything from here." Ana held his hand. "Call him again tonight. It will help him."
+Z: Kenji 来晚了，看起来很难过。“我在东京的侄子病了，”他说，“他在电话里一直哭。我很伤心，也很无助，在这里什么也做不了。”Ana 握住他的手：“今晚再给他打个电话吧，这会让他好受些。”
+P: In the afternoon, they talked about people they know. Ana's old {neighbor|1548} in London was very {arrogant|1608}. "He thought he was better than everyone." Kenji's old boss was a {high-maintenance man|1466}. "He wanted special coffee, a special chair and a special parking space every day." Everyone laughed.
+Z: 下午，他们聊起了身边认识的人。Ana 以前在伦敦的邻居非常傲慢。“他觉得自己比谁都强。”Kenji 以前的老板是个很难伺候的男人。“他每天都要特别的咖啡、特别的椅子、特别的停车位。”大家都笑了。
+P: Sonia asked, "What is a {toxic|1499} friend?" Leo answered, "A person who is always {negative|1524}. They complain all day, and you feel tired after you meet them." Sonia nodded. "Right. And a good friend gives you {positive energy|1526}." "Like Warren," Leo said. "He is always happy."
+Z: Sonia 问：“什么是‘有毒’的朋友？”Leo 回答：“就是总是很消极的人。他们整天抱怨，你见完他们就觉得很累。”Sonia 点点头：“对。好朋友会给你带来正能量。”“就像 Warren，”Leo 说，“他总是很开心。”
+P: Warren and Leo are a good {duo|1482}. They are {partners|1481} in the kitchen: Warren cooks and Leo washes the plates. Warren calls Leo "{bro|1617}", and Leo calls him "{buddy|1618}". In their small house there is no {hatred|1629}, only food and jokes.
+Z: Warren 和 Leo 是一对好搭档。他们在厨房里分工合作：Warren 做饭，Leo 洗盘子。Warren 叫 Leo “兄弟”，Leo 叫他“哥们”。他们的小房子里没有仇恨，只有美食和笑话。
+P: That night, Warren put a toy snake on Leo's bed to {scare|1667} him. Leo screamed, and then he laughed. "Are you {brave enough|1675} to speak only English for one hour tomorrow?" Warren asked. "Yes," Leo said. "After this snake, nothing can scare me."
+Z: 那天晚上，Warren 在 Leo 床上放了一条玩具蛇想吓他。Leo 尖叫了一声，然后笑了。“你够勇敢吗？明天整整一小时只说英语？”Warren 问。“够，”Leo 说，“见过这条蛇以后，什么都吓不到我了。”
+W: 1411 | /ˈkæʒuəl/ | 随意的；休闲的 | casual clothes; a casual chat
+X: Friday is a casual day, so you can wear jeans to work. | 周五是休闲日，可以穿牛仔裤上班。
+X: We had a casual dinner at a beach warung. | 我们在海边小吃店随便吃了顿晚饭。
+W: 1421 | /prəˈfeʃənl/ | 专业的 | a professional coach; look professional
+X: Her report looks very professional. | 她的报告看起来很专业。
+X: The surf teacher in Canggu is a real professional. | 仓古的冲浪教练是个真正的专业人士。
+W: 1420 | /ˈɪntrəstɪŋ/ | 有趣的 | an interesting idea; really interesting
+X: That is an interesting idea. Let's try it. | 这个想法很有意思，我们试试吧。
+X: The night market in Gianyar is very interesting. | 吉安雅的夜市很有意思。
+W: 1372 | /ˌoʊvərˈθɪŋk/ | 想太多 | don't overthink it; overthink everything
+X: Don't overthink the email. Just send it. | 那封邮件别想太多，发出去就行。
+X: I overthink before I order food in English. | 用英语点餐之前我总是想太多。
+W: 1381 | /maɪnd ˈkʌmftəbl/ | 心里舒服 | make my mind comfortable (more natural: feel at ease)
+X: A clear plan makes my mind comfortable before a meeting. | 开会前有个清楚的计划，我心里就踏实。
+X: The sound of the sea makes my mind comfortable. | 海浪声让我心里很舒服。
+W: 1455 | /ʌpˈset/ | 难过的；不高兴的 | feel upset; be upset about sth.
+X: The client was upset about the late delivery. | 客户对交货延迟很不高兴。
+X: Ketut was upset because it rained on her birthday. | 生日那天下雨了，Ketut 很不开心。
+W: 1500 | /ˈnefjuː/ | 侄子；外甥 | my nephew; a young nephew
+X: I am buying a gift for my nephew. | 我在给我侄子买礼物。
+X: My nephew wants to visit me in Bali. | 我外甥想来巴厘岛看我。
+W: 1536 | /ˈkraɪɪŋ/ | 哭（cry 的 -ing） | stop crying; start crying
+X: The customer was almost crying on the phone. | 那位顾客在电话里都快哭了。
+X: A baby was crying on the plane to Bali. | 飞往巴厘岛的飞机上有个宝宝一直在哭。
+W: 1456 | /sæd/ | 伤心的 | feel sad; a sad story
+X: We were sad when our best colleague left. | 我们最好的同事离职了，大家都很伤心。
+X: I feel a little sad when the holiday ends. | 假期结束时我有点伤感。
+W: 1583 | /ˈhelpləs/ | 无助的 | feel helpless; helpless people
+X: Without the internet, I feel helpless at work. | 没有网络，我上班时感觉很无助。
+X: The kitten looked small and helpless in the rain. | 雨中的小猫看起来又小又无助。
+W: 1548 | /ˈneɪbər/ | 邻居 | my neighbor; next-door neighbor
+X: My neighbor at the office is very quiet. | 我办公室邻座很安静。
+X: Our neighbor gave us some mangoes. | 邻居送了我们一些芒果。
+W: 1608 | /ˈærəɡənt/ | 傲慢的 | an arrogant manager; sound arrogant
+X: Don't sound arrogant in the interview. | 面试时说话别显得傲慢。
+X: The arrogant tourist shouted at the waiter. | 那个傲慢的游客冲服务员大喊。
+W: 1466 | /haɪ ˈmeɪntənəns mæn/ | 很难伺候的男人 | a high-maintenance man / client
+X: Our new client is high-maintenance; he calls every hour. | 我们的新客户很难伺候，每小时都打电话。
+X: Warren says he is not a high-maintenance man; he only needs coffee. | Warren 说他一点都不难伺候，只要有咖啡就行。
+W: 1499 | /ˈtɑːksɪk/ | 有毒的；（人/关系）有害的 | a toxic friend; a toxic workplace
+X: A toxic workplace makes people quit. | 有害的工作环境会让人辞职。
+X: Leo stopped talking to a toxic friend. | Leo 不再和一个“有毒”的朋友来往了。
+W: 1524 | /ˈneɡətɪv/ | 消极的；负的 | negative comments; don't be so negative
+X: We got a few negative comments about the price. | 我们收到了几条关于价格的负面评论。
+X: Don't be so negative. The rain will stop soon. | 别那么消极，雨很快就会停。
+W: 1526 | /ˈpɑːzətɪv ˈenərdʒi/ | 正能量 | bring positive energy
+X: Our new manager brings positive energy to the team. | 新经理给团队带来了正能量。
+X: Morning yoga gives me positive energy for the day. | 晨练瑜伽给我一整天的正能量。
+W: 1482 | /ˈduːoʊ/ | 二人组；搭档 | a great duo; a comedy duo
+X: Ana and Kenji are a great duo in presentations. | Ana 和 Kenji 做演示时是绝佳组合。
+X: The two street singers are a famous duo in Ubud. | 那两位街头歌手是乌布有名的二人组。
+W: 1481 | /ˈpɑːrtnər/ | 搭档；伙伴；合伙人 | a business partner; my partner
+X: He is my business partner in the cafe. | 他是我开咖啡馆的合伙人。
+X: Find a partner and practice the dialogue. | 找个搭档练习这段对话。
+W: 1617 | /broʊ/ | 兄弟（口语） | thanks, bro; come on, bro
+X: Thanks for the help, bro! | 谢谢帮忙，兄弟！
+X: "Nice wave, bro!" a surfer shouted. | “浪不错啊，兄弟！”一个冲浪的人喊道。
+W: 1618 | /ˈbʌdi/ | 哥们；伙伴 | my buddy; study buddy
+X: Kenji is my study buddy before tests. | 考试前 Kenji 是我的学习伙伴。
+X: "What's up, buddy?" Warren said at breakfast. | “怎么样，哥们？”Warren 在早餐时说。
+W: 1629 | /ˈheɪtrɪd/ | 仇恨；憎恨 | no hatred; full of hatred
+X: There is no hatred between the two teams, only competition. | 两个团队之间没有仇恨，只有竞争。
+X: The old story is about love, not hatred. | 那个古老的故事讲的是爱，不是仇恨。
+W: 1667 | /sker/ | 吓；使害怕 | scare sb.; don't scare me
+X: The big numbers in the report scared the boss. | 报告里的大数字把老板吓到了。
+X: The monkeys in Uluwatu scare some tourists. | 乌鲁瓦图的猴子会吓到一些游客。
+W: 1675 | /breɪv ɪˈnʌf/ | 足够勇敢 | brave enough to do sth.
+X: Are you brave enough to ask the CEO a question? | 你有胆量向 CEO 提问吗？
+X: I am not brave enough to surf big waves. | 我没胆量冲大浪。

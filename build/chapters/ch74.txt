@@ -1,0 +1,83 @@
+# 74 | ⑥ 天气与温度 | The Rain Breaks the Plan | 一场雨打乱了计划
+P: Leo does not have a {fixed schedule|1419}, but he {almost always|1602} plans his weekend. On Monday he checked his {calendar|1469}. "Next {Tuesday|1572} is a holiday," he said. "Let's go to the mountains for the {whole day|1563}." Kenji asked, "Can you give me a {specific date|1603}?" Leo said, "Tuesday, November tenth."
+Z: Leo 没有固定的日程，但他几乎总会提前安排周末。周一他看了看日历。“下周二放假，”他说，“我们去山里玩一整天吧。”Kenji 问：“能给我一个具体日期吗？”Leo 说：“11 月 10 日，周二。”
+P: Ana looked at the weather {forecast|1441}. "It says {light rain|1437} in the morning and {heavy rain|1439} in the afternoon," she said. Warren laughed. "In Bali, the forecast is always wrong. Usually it is {sunny|1552}."
+Z: Ana 看了天气预报。“上面说上午小雨，下午大雨，”她说。Warren 笑了：“在巴厘岛，天气预报总是不准。通常都是晴天。”
+P: On Tuesday morning, there was only a {drizzle|1438}. The air was {cool|1532}. They rode up the mountain. But in the {middle|1463} of the day, a big {downpour|1440} started. They had to ride {in the rain|1464}. Soon everyone was {wet|1444}, and Kenji's scooter tank was almost {dry|1448}.
+Z: 周二早上只下着毛毛雨，空气很凉爽。他们骑车上山。可到了中午，突然下起了倾盆大雨。他们只好冒雨骑车。很快大家都湿透了，Kenji 的摩托车油箱也快空了。
+P: They stopped at a small shop. It was {cold and wet|1529}, like {late autumn|1547} in Shanghai. Nobody could have {lunch on time|1459}. "Cookies are fine {for now|1460}," Ana said. Kenji was sad. "The rain really {broke the plan|1462}."
+Z: 他们在一家小店停下来。天气又冷又湿，就像上海的深秋。没人能按时吃上午饭。“暂时先吃点饼干吧，”Ana 说。Kenji 很失落：“这场雨真的打乱了计划。”
+P: Leo looked at a sign in the shop: "Mountain tour, $2100." "{Twenty-one hundred|1511} dollars? Too expensive!" he said. Then Leo smiled. "Next {winter vacation|1395}, let's go to the mountains in China. But this time, I will check the forecast first."
+Z: Leo 看到店里一块牌子：“山地游，2100 美元。”“两千一百美元？太贵了！”他说。接着 Leo 笑了：“下个寒假，我们去中国的山里玩吧。不过这次，我会先看天气预报。”
+W: 1419 | /fɪkst ˈskedʒuːl/ | 固定日程 | have a fixed schedule; no fixed schedule
+X: Freelancers often don't have a fixed schedule. | 自由职业者往往没有固定的日程。
+X: In Bali, Leo does not keep a fixed schedule. | 在巴厘岛，Leo 不按固定日程生活。
+W: 1602 | /ˈɔːlmoʊst ˈɔːlweɪz/ | 几乎总是 | almost always late
+X: Our boss almost always replies within an hour. | 我们老板几乎总是一小时内回复。
+X: It is almost always sunny in Bali in July. | 巴厘岛七月几乎总是晴天。
+W: 1469 | /ˈkælɪndər/ | 日历 | check the calendar; put it in my calendar
+X: Please put the meeting in my calendar. | 请把会议加进我的日历。
+X: Ketut has a cat calendar on her wall. | Ketut 墙上挂着一本猫咪日历。
+W: 1572 | /ˈtuːzdeɪ/ | 星期二 | on Tuesday; next Tuesday
+X: The report is due on Tuesday. | 报告周二交。
+X: The market in Ubud is busy on Tuesday. | 乌布的市场周二很热闹。
+W: 1563 | /hoʊl deɪ/ | 一整天 | the whole day
+X: I spent the whole day in meetings. | 我开了一整天的会。
+X: We stayed on the beach the whole day. | 我们在海滩待了一整天。
+W: 1603 | /spəˈsɪfɪk deɪt/ | 具体日期 | give a specific date
+X: The client wants a specific date for delivery. | 客户想要一个具体的交货日期。
+X: The ceremony is on a specific date every year. | 这个仪式每年都在固定的日子举行。
+W: 1441 | /ˈfɔːrkæst/ | （天气）预报；预测 | weather forecast; sales forecast
+X: The sales forecast for next month looks good. | 下个月的销售预测看起来不错。
+X: Check the forecast before you go surfing. | 去冲浪前先看看天气预报。
+W: 1437 | /laɪt reɪn/ | 小雨 | only light rain
+X: The flight was fine, there was only light rain. | 航班没受影响，只是下了小雨。
+X: Light rain makes the rice fields look green. | 小雨让稻田显得更绿了。
+W: 1439 | /ˈhevi reɪn/ | 大雨 | heavy rain all night
+X: Heavy rain made everyone late for work. | 大雨让大家上班都迟到了。
+X: Heavy rain flooded the road in Kuta. | 大雨淹了库塔的路。
+W: 1552 | /ˈsʌni/ | 晴朗的；阳光充足的 | a sunny day; sunny weather
+X: Let's have the team photo on a sunny day. | 我们挑个晴天拍团队合照吧。
+X: It is sunny in Sanur today. | 今天沙努尔是晴天。
+W: 1438 | /ˈdrɪzl/ | 毛毛雨；下毛毛雨 | a light drizzle; it is drizzling
+X: It was drizzling when I got to the office. | 我到公司时正下着毛毛雨。
+X: A drizzle is nice after a hot day. | 热了一天后下点毛毛雨很舒服。
+W: 1532 | /kuːl/ | 凉爽的；酷的 | cool weather; that's cool
+X: The meeting room is too cool for me. | 会议室对我来说太凉了。
+X: It is cool in Bedugul at night. | 贝杜古尔晚上很凉快。
+W: 1463 | /ˈmɪdl/ | 中间；（时间）当中 | in the middle of
+X: My phone rang in the middle of the meeting. | 开会开到一半我手机响了。
+X: There is a small temple in the middle of the lake. | 湖中间有座小神庙。
+W: 1440 | /ˈdaʊnpɔːr/ | 倾盆大雨 | get caught in a downpour
+X: We got caught in a downpour on the way to the client. | 去见客户的路上我们遇上了倾盆大雨。
+X: A downpour in Bali usually stops after an hour. | 巴厘岛的倾盆大雨通常一小时后就停。
+W: 1464 | /ɪn ðə reɪn/ | 在雨中；冒雨 | walk in the rain; ride in the rain
+X: I walked to the station in the rain. | 我冒雨走到车站。
+X: Kids in Bali love to play in the rain. | 巴厘岛的孩子喜欢在雨中玩。
+W: 1444 | /wet/ | 湿的 | get wet; wet clothes
+X: My shoes are still wet from this morning. | 我的鞋早上淋湿了，现在还没干。
+X: The floor is wet, be careful. | 地板是湿的，小心。
+W: 1448 | /draɪ/ | 干的；（油箱）空的 | dry clothes; the tank is dry
+X: Keep the documents in a dry place. | 把文件放在干燥的地方。
+X: My towel is finally dry. | 我的毛巾终于干了。
+W: 1529 | /koʊld ən wet/ | 又冷又湿 | the weather is cold and wet
+X: London is often cold and wet in winter. | 伦敦冬天常常又冷又湿。
+X: After the rain, the dog was cold and wet. | 雨后狗狗又冷又湿。
+W: 1547 | /leɪt ˈɔːtəm/ | 深秋；晚秋 | in late autumn
+X: Sales are usually slow in late autumn. | 深秋时销售通常比较淡。
+X: Beijing is very beautiful in late autumn. | 北京深秋非常美。
+W: 1459 | /lʌntʃ ɑːn taɪm/ | 按时吃午饭 | have lunch on time
+X: On busy days, I can't have lunch on time. | 忙的时候我没法按时吃午饭。
+X: Pak Made always has lunch on time. | Pak Made 总是按时吃午饭。
+W: 1460 | /fɔːr naʊ/ | 暂时；目前 | that's all for now
+X: That's all for now, thank you. | 今天先到这里，谢谢大家。
+X: We stay in Canggu for now. | 我们暂时住在仓古。
+W: 1462 | /breɪk ðə plæn/ | 打乱计划 | break the plan (also: ruin / mess up the plan)
+X: A sick day can break the plan for the whole team. | 一个人请病假可能会打乱整个团队的计划。
+X: Traffic in Kuta can break the plan. | 库塔的堵车可能会打乱计划。
+W: 1511 | /ˈtwenti wʌn ˈhʌndrəd/ | 两千一百（2100 的口语读法） | $2100 = twenty-one hundred
+X: The new laptop costs twenty-one hundred dollars. | 新电脑要两千一百美元。
+X: The villa is twenty-one hundred dollars a month. | 那栋别墅一个月两千一百美元。
+W: 1395 | /ˈwɪntər vəˈkeɪʃn/ | 寒假 | during winter vacation
+X: Many Chinese families travel during winter vacation. | 很多中国家庭寒假出去旅游。
+X: Leo's cousin will visit Bali in winter vacation. | Leo 的表弟寒假会来巴厘岛。

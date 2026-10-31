@@ -1,0 +1,76 @@
+# 81 | ⑪ 人际 · 学习 · 观点 | The Speech Class | 演讲课
+P: Next week was the formal speaking class. Each student had to give a short {speech|1620}. Leo stood up. "Hi, {everybody|1619}," he said. "My speech is about my dream job." His face was red, but he did not stop.
+Z: 下周就是正式的口语课了。每个学生都要做一个简短的演讲。Leo 站了起来。“大家好，”他说，“我的演讲是关于我的理想职业。”他脸都红了，但没有停下来。
+P: "When I was a boy, I wanted to be a {scientist|1549}," Leo said. "My father said it was an {honorable|1539} job. He told me, 'Always {respect|1560} other people, and never {badmouth|1638} anyone.'" Sonia nodded. "Your father is a wise man."
+Z: “小时候，我想当一名科学家，”Leo 说，“我父亲说那是一份光荣的工作。他告诉我：‘永远要尊重别人，永远别说别人的坏话。’”Sonia 点点头：“你父亲是个有智慧的人。”
+P: Kenji spoke next. He talked about a word in Japanese. "This word can {refer|1558} to {bad things|1559}, like a lie. Sometimes a smile is just an {act|1599}," he said. Then he said, "I want to {prove|1670} that my English is good. I want to speak like a {native|1656} speaker."
+Z: 接下来是 Kenji。他讲了一个日语词。“这个词可以指坏事，比如谎言。有时候，一个微笑只是装出来的，”他说。然后他说：“我想证明我的英语很好，我想说得像母语者一样。”
+P: After class, Sonia said, "{Excellent|1594} work, everybody! It is an {honor|1600} to teach you." Leo asked, "Was my speech {perfect|1593}?" Sonia laughed. "{Nothing|1680} is perfect. But you did very well. Next month we will have a {test|1674}."
+Z: 下课后，Sonia 说：“大家都表现得非常棒！能教你们是我的荣幸。”Leo 问：“我的演讲完美吗？”Sonia 笑了：“没有什么是完美的。不过你表现得很好。下个月我们有一次考试。”
+P: On the way home, Kenji got a message. "My visa {passed|1565}!" he said. Then Ketut ran out of her house with a paper. "I got {full scores|1612} on my English test!" Leo smiled. "Then today it's my {treat|1627}. Ice cream for everybody!"
+Z: 回家的路上，Kenji 收到一条消息。“我的签证通过了！”他说。接着 Ketut 拿着一张卷子从家里跑出来：“我英语考试拿了满分！”Leo 笑着说：“那今天我请客，每人一个冰淇淋！”
+P: At the ice cream shop, the door opened {automatically|1628}. Ketut jumped. "Magic!" Leo said, "Learning English is like that door. If you {maintain|1682} your practice every day, one day it opens by itself."
+Z: 到了冰淇淋店，门自动打开了。Ketut 吓了一跳：“魔法！”Leo 说：“学英语就像这扇门。只要你每天坚持练习，总有一天它会自己打开。”
+W: 1620 | /spiːtʃ/ | 演讲；讲话 | give a speech
+X: The CEO gave a short speech at the party. | CEO 在派对上做了简短讲话。
+X: Ana gave a speech at her friend's wedding in Ubud. | Ana 在乌布朋友的婚礼上致辞。
+W: 1619 | /ˈevribɑːdi/ | 每个人 | hi, everybody
+X: Hi everybody, let's start the meeting. | 大家好，我们开始开会吧。
+X: Everybody in the village knows Pak Made. | 村里每个人都认识 Pak Made。
+W: 1549 | /ˈsaɪəntɪst/ | 科学家 | want to be a scientist
+X: The company hired a scientist to test the water. | 公司请了一位科学家来检测水质。
+X: A scientist studies the coral near Amed. | 一位科学家在艾湄湾附近研究珊瑚。
+W: 1539 | /ˈɑːnərəbl/ | 光荣的；值得尊敬的 | an honorable job
+X: Teaching is an honorable job. | 教书是一份光荣的工作。
+X: Pak Made says farming is honorable work. | Pak Made 说种地是光荣的活儿。
+W: 1560 | /rɪˈspekt/ | 尊重 | respect each other; show respect
+X: In a good team, we respect each other. | 好的团队里，大家互相尊重。
+X: Please respect the rules in the temple. | 在神庙里请遵守规矩。
+W: 1638 | /ˈbædmaʊθ/ | 说坏话 | don't badmouth others
+X: Never badmouth your old company in an interview. | 面试时千万别说前公司的坏话。
+X: Ketut never badmouths her friends. | Ketut 从不说朋友的坏话。
+W: 1558 | /rɪˈfɜːr/ | 指；提到 | refer to sth.
+X: In this report, "customers" refers to online buyers. | 这份报告里，“客户”指的是网上买家。
+X: "Bule" refers to foreigners in Bali. | 在巴厘岛，bule 指外国人。
+W: 1559 | /bæd θɪŋz/ | 坏事 | bad things happen
+X: Bad things happen, but we learn from them. | 坏事总会发生，但我们能从中吸取教训。
+X: Pak Made says don't think about bad things before bed. | Pak Made 说睡前别想坏事。
+W: 1599 | /ækt/ | 行为；表演；行动 | it's just an act; act fast
+X: We need to act fast before our competitor. | 我们得赶在竞争对手前面迅速行动。
+X: His anger is just an act. | 他生气只是装的。
+W: 1670 | /pruːv/ | 证明 | prove it; prove that…
+X: The numbers prove that the plan works. | 数据证明这个方案有效。
+X: Kenji wants to prove he can surf. | Kenji 想证明自己会冲浪。
+W: 1656 | /ˈneɪtɪv/ | 本地的；母语的 | a native speaker
+X: Our new manager is a native speaker of English. | 我们的新经理母语是英语。
+X: Pak Made is a native of Ubud. | Pak Made 是土生土长的乌布人。
+W: 1594 | /ˈeksələnt/ | 优秀的；极好的 | excellent work
+X: Excellent work on the report! | 报告做得太棒了！
+X: The coffee at Warren's cafe is excellent. | Warren 咖啡馆的咖啡好极了。
+W: 1600 | /ˈɑːnər/ | 荣誉 | it is an honor
+X: It is an honor to work with you. | 能和您合作是我的荣幸。
+X: It is an honor to join the ceremony. | 能参加这个仪式是我的荣幸。
+W: 1593 | /ˈpɜːrfɪkt/ | 完美的 | perfect weather; nothing is perfect
+X: The plan is not perfect, but it is good. | 方案不完美，但还不错。
+X: The weather in Bali today is perfect. | 今天巴厘岛的天气完美。
+W: 1680 | /ˈnʌθɪŋ/ | 没什么 | nothing happened; nothing is perfect
+X: Nothing changed after the meeting. | 开完会什么都没变。
+X: There is nothing better than a coconut on the beach. | 没有什么比在海滩上喝个椰子更好的了。
+W: 1674 | /test/ | 测试；考试 | have a test; test the product
+X: We need to test the app before we launch it. | 发布前我们要测试一下应用。
+X: Ketut has a math test tomorrow. | Ketut 明天有数学考试。
+W: 1565 | /pæs/ | 通过 | my visa passed; pass the test
+X: The new design passed the boss's check. | 新设计通过了老板的审查。
+X: Ana passed her driving test in Bali. | Ana 在巴厘岛通过了驾照考试。
+W: 1612 | /fʊl skɔːrz/ | 满分 | get full scores (also: full marks / a perfect score)
+X: Our hotel got full scores from the guests. | 我们酒店获得了客人的满分好评。
+X: Ketut got full scores on her English test. | Ketut 英语考试得了满分。
+W: 1627 | /triːt/ | 请客；对待；款待 | it's my treat; treat sb. well
+X: Lunch is my treat today. | 今天午饭我请客。
+X: Pak Made treats every guest like family. | Pak Made 待每位客人都像家人一样。
+W: 1628 | /ˌɔːtəˈmætɪkli/ | 自动地 | open automatically
+X: The system sends the invoice automatically. | 系统会自动发送发票。
+X: The door at the mall opens automatically. | 商场的门会自动打开。
+W: 1682 | /meɪnˈteɪn/ | 保持；维持 | maintain a habit; maintain the quality
+X: It is hard to maintain quality when we grow fast. | 发展得太快时很难保持质量。
+X: Warren maintains his scooter every month. | Warren 每个月都保养他的摩托车。

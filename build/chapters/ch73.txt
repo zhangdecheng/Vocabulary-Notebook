@@ -1,0 +1,59 @@
+# 73 | ⑤ 食物与饮食 | Warren's Sunday BBQ | Warren 的周日烧烤
+P: On Sunday morning, Warren made a big breakfast: {eggs|1632}, {bacon|1633} and {sausage|1634}. "This is an Australian breakfast," he said. Leo looked at the plate. "Where is the {vegetable|1635}?" Warren laughed and put a tomato on it. "Happy now?"
+Z: 周日早上，Warren 做了一顿丰盛的早餐：鸡蛋、培根和香肠。“这是澳式早餐，”他说。Leo 看着盘子：“蔬菜在哪儿？”Warren 笑着放了一个番茄上去：“这下满意了吧？”
+P: In the evening, they had a {BBQ|1623} in the garden. Pak Made brought {Sate Babi|1596}. "What is it?" Kenji asked. "It is a {pork skewer|1597}," Pak Made said. "We cut pork into small pieces and put them on a bamboo {skewer|1598}. Then we cook it over the fire."
+Z: 傍晚，他们在花园里烧烤。Pak Made 带来了 Sate Babi。“这是什么？”Kenji 问。“这是猪肉串，”Pak Made 说，“我们把猪肉切成小块，串在竹签上，然后放在火上烤。”
+P: Warren made the sauces. "Sate is good with {peanut sauce|1610}," he said. "And if you like hot food, try my {chili sauce|1611}." Leo took a little. "Wow, it's really hot!" Ketut gave him a glass of water with {honey|1626}. "This helps," she said.
+Z: Warren 负责做酱料。“沙爹配花生酱最好吃，”他说，“喜欢吃辣的话，尝尝我的辣椒酱。”Leo 蘸了一点。“哇，真辣！”Ketut 递给他一杯加了蜂蜜的水：“喝这个会好点。”
+P: Ana does not eat much meat, so she made a big {salad|1607} with fresh {greens|1636} from the market. "Can you {add some|1609} nuts?" Kenji asked. Ana added {lightly salted|1621} peanuts on top. "Not too much salt," she said. "It is better for you."
+Z: Ana 不怎么吃肉，所以她用市场上买的新鲜绿叶菜做了一大份沙拉。“能加点坚果吗？”Kenji 问。Ana 在上面撒了一些淡盐花生。“盐不要太多，”她说，“这样对身体更好。”
+P: At the end of the night, Warren cleaned the grill. There was a lot of {oil|1622} on it. "Next time, less oil and more salad," Ana said. Everyone agreed. But they all wanted more Sate Babi, too.
+Z: 晚上结束时，Warren 清理烤架，上面有很多油。“下次少放点油，多做点沙拉，”Ana 说。大家都同意。不过他们也都还想再多吃点 Sate Babi。
+W: 1632 | /eɡ/ | 鸡蛋 | fried eggs; boiled eggs
+X: The hotel breakfast has eggs cooked in five ways. | 酒店早餐的鸡蛋有五种做法。
+X: Pak Made buys eggs from his neighbor's farm. | Pak Made 从邻居的农场买鸡蛋。
+W: 1633 | /ˈbeɪkən/ | 培根 | bacon and eggs
+X: The cafe near our office sells bacon sandwiches. | 公司附近的咖啡馆卖培根三明治。
+X: Warren cooks bacon every Sunday. | Warren 每周日都煎培根。
+W: 1634 | /ˈsɔːsɪdʒ/ | 香肠 | pork sausage; a sausage roll
+X: The canteen has sausage on Fridays. | 食堂每周五有香肠。
+X: Ketut does not like spicy sausage. | Ketut 不喜欢辣香肠。
+W: 1635 | /ˈvedʒtəbl/ | 蔬菜 | fresh vegetables; eat more vegetables
+X: We buy vegetables from local farmers for the restaurant. | 我们餐厅从本地农民那里买蔬菜。
+X: The market in Ubud has cheap vegetables. | 乌布的市场蔬菜很便宜。
+W: 1623 | /ˌbɑːrbɪˈkjuː/ | 烧烤 | have a BBQ; a beach BBQ
+X: The team had a BBQ to celebrate the new contract. | 团队办了一场烧烤庆祝签下新合同。
+X: Jimbaran is famous for seafood BBQ on the beach. | 金巴兰以海滩海鲜烧烤闻名。
+W: 1596 | /ˈsɑːteɪ ˈbɑːbi/ | 巴厘岛烤猪肉串（印尼语） | try Sate Babi
+X: Our Bali menu has Sate Babi for foreign guests. | 我们的巴厘岛菜单为外国客人准备了烤猪肉串。
+X: You can buy Sate Babi at the night market. | 夜市里能买到 Sate Babi。
+W: 1597 | /pɔːrk ˈskjuːər/ | 猪肉串 | a grilled pork skewer
+X: The street food tour includes a pork skewer. | 街头美食之旅包含一串猪肉串。
+X: Basically, Sate Babi is a pork skewer. | 简单说，Sate Babi 就是猪肉串。
+W: 1598 | /ˈskjuːər/ | 烤串；扦子 | a chicken skewer; a bamboo skewer
+X: We ordered fifty skewers for the office party. | 我们为公司派对订了五十串烤串。
+X: Be careful, the bamboo skewer is sharp. | 小心，竹签很尖。
+W: 1610 | /ˈpiːnʌt sɔːs/ | 花生酱（沙爹酱） | sate with peanut sauce
+X: Some guests can't eat peanut sauce, so ask first. | 有些客人不能吃花生酱，先问一下。
+X: Gado-gado comes with peanut sauce. | 加多加多沙拉配花生酱。
+W: 1611 | /ˈtʃɪli sɔːs/ | 辣椒酱 | hot chili sauce
+X: Please put the chili sauce on the side. | 请把辣椒酱单独放。
+X: Sambal is a Bali chili sauce. | Sambal 是巴厘岛的辣椒酱。
+W: 1626 | /ˈhʌni/ | 蜂蜜 | honey in tea; a spoon of honey
+X: I drink tea with honey before a long presentation. | 长时间演讲前我会喝杯蜂蜜茶。
+X: The honey from Kintamani is very sweet. | 金塔玛尼的蜂蜜特别甜。
+W: 1607 | /ˈsæləd/ | 沙拉 | a fresh salad; make a salad
+X: I usually have a salad for lunch at my desk. | 我午饭通常在工位上吃沙拉。
+X: The salad at that cafe is big and cheap. | 那家咖啡馆的沙拉又大又便宜。
+W: 1636 | /ɡriːnz/ | 绿叶菜 | fresh greens; eat your greens
+X: The new menu has more greens and less meat. | 新菜单绿叶菜多了，肉少了。
+X: Ketut never wants to eat her greens. | Ketut 从来不想吃青菜。
+W: 1609 | /æd sʌm/ | 加点 | add some salt; add some time
+X: Can we add some time for questions? | 能加点时间留给提问吗？
+X: Add some lime to your noodles. | 在面里加点青柠。
+W: 1621 | /ˈlaɪtli ˈsɔːltɪd/ | 淡盐的；少盐的 | lightly salted peanuts / chips
+X: The airline gives lightly salted nuts with drinks. | 航空公司配饮料送淡盐坚果。
+X: I like lightly salted fish. | 我喜欢淡盐的鱼。
+W: 1622 | /ɔɪl/ | 油 | cooking oil; too much oil
+X: The price of cooking oil went up this month. | 这个月食用油涨价了。
+X: Fried rice in Bali often has a lot of oil. | 巴厘岛的炒饭往往油很多。
