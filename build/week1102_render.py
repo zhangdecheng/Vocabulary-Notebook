@@ -482,7 +482,7 @@ def patch_js(html_text):
     # Deep links are resolved before chapter-end nav is inserted, so #c54 and later
     # land short of the real heading. Re-apply the hash once those nodes exist.
     boot_old = "onScroll();paint();\nwindow.addEventListener('hashchange'"
-    boot_new = "onScroll();paint();\nvar boot=/^#(?:c(\\d+)|w1102)$/.exec(location.hash);if(boot){if(boot[1]&&idx[+boot[1]]!=null)go(+boot[1]);else if(!boot[1]){var wel=document.getElementById('w1102');if(wel){var wy=wel.getBoundingClientRect().top+window.pageYOffset-stickyH();try{window.scrollTo({top:Math.max(0,wy),left:0,behavior:'instant'})}catch(e){window.scrollTo(0,Math.max(0,wy))}}}}\nwindow.addEventListener('hashchange'"
+    boot_new = "onScroll();paint();\nvar boot=/^#(?:c(\\d+)|w1102)$/.exec(location.hash);if(boot){if(boot[1]&&idx[+boot[1]]!=null){var bel=document.getElementById('c'+boot[1]);if(bel){var by=bel.getBoundingClientRect().top+window.pageYOffset-stickyH();try{window.scrollTo({top:Math.max(0,by),left:0,behavior:'instant'})}catch(e){window.scrollTo(0,Math.max(0,by))}cur=+boot[1];paint()}}else if(!boot[1]){var wel=document.getElementById('w1102');if(wel){var wy=wel.getBoundingClientRect().top+window.pageYOffset-stickyH();try{window.scrollTo({top:Math.max(0,wy),left:0,behavior:'instant'})}catch(e){window.scrollTo(0,Math.max(0,wy))}}}}\nwindow.addEventListener('hashchange'"
     if boot_new not in html_text:
         if boot_old not in html_text:
             raise SystemExit("hash boot anchor missing")
